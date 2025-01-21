@@ -8,9 +8,8 @@ a{
     text-decoration: none;
 }
 .navbar{
+    text-align: center;
     background-color: #ffffff;
-    padding: 10px 0px;
-    /* z-index: 1; */
 }
 .navbar-nav a{
     margin-left: 10px;
@@ -25,18 +24,19 @@ a{
     position: relative;
 }
 .over-lay img{
+    top: 0;
     width: 100%;
     height: 100%;
-    position: absolute;
+    position: fixed;
     background-color: aqua;
     object-fit: cover;
-    background-attachment: fixed;
     background-position: center;
+    z-index: -1;
 }
 
 .over-lay-content{
     z-index: 2;
-    position: absolute;
+    position: relative;
     top: 0;
     color: #ffffff;
 }
@@ -52,9 +52,13 @@ a{
     z-index: 1;
 }
 .hero-function{
-    padding: 120px 50px;
+    padding: 120px 0px 0 0;
+}
+.hero-function h1{
+    color: #d1d1d1;
 }
 .hero-function h2{
+    font-family: "Emilys Candy", serif;
     font-size: 3.4rem;
 }
 .main-button{
@@ -73,4 +77,11 @@ a{
     background-color: #ffffff;
     color: black;
     border: 2px solid rgb(255, 255, 255);
+}
+
+
+.main-about{
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
 }
