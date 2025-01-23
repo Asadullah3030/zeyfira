@@ -65,7 +65,7 @@ h1,h2,h3,p,span{
     padding: 120px 0px 0 0;
 }
 .hero-function h1{
-    color: #f0f0f0;
+    color: #ffffff;
 }
 .hero-function h2{
     font-family: "Emilys Candy", serif;
@@ -96,7 +96,7 @@ h1,h2,h3,p,span{
 }
 .about-heading{
     font-family: "Emilys Candy", serif;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 /* about is start in End zayfira */
 
@@ -128,7 +128,7 @@ h1,h2,h3,p,span{
     text-align: center;
 }
 .gallery-tag{
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-family: "Emilys Candy", serif;
 }
 .gallery {
@@ -162,13 +162,77 @@ h1,h2,h3,p,span{
 
  /* contact here is start in zayfira  */
 .contact-image{
+    position: relative;
+    margin-top: 5rem;
     width: 100%;
     height: 100vh;
     background-image: url(../images/banner.jpg);
     background-repeat: no-repeat; 
     background-position: center; 
+    background-attachment: fixed;
 }
+.contact-overlay {
+   
+    text-align: center; 
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+
+.contact-overlay span,
+.contact-overlay h1,
+.contact-overlay p {
+    background-color: rgba(0, 0, 0, 0.637);
+    color: white; 
+    padding: 10px; 
+    display: inline-block; 
+    margin: 5px 0;
+}
+
+.contact-overlay span,
+.contact-overlay h1,
+.contact-overlay p {
+    border-radius: 5px;
+}
+.contact-overlay{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.contact-me{
+    font-size: 0.9rem;
+}
+.contact-title{
+    font-family: "Emilys Candy", serif;
+}
+.contact-button{
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 10px 34px;
+    background-color: rgba(31, 71, 52, 0.685);
+    border: 2px solid rgb(255, 255, 255);
+    color: #ffffff;
+    font-size: 0.9rem;
+    transition: all 0.3s ease-in-out;
+}
+.contact-button:hover{
+    font-size: 0.9rem;
+    transform: scale(1.09);
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+}
+
  /* contact here is End in zayfira  */
 
-
-/* font-family: "Emilys Candy", serif; */
+ /* footer here is start in zayfira  */
+ .footer{
+    margin-top: 3rem;
+    color: #ffffff;
+    background-color: black;
+ }
+ .Copyright{
+    font-family: "Emilys Candy", serif;
+ }
+ /* footer here is end in zayfira  */
