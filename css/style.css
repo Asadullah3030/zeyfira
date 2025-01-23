@@ -235,4 +235,7 @@ h1,h2,h3,p,span{
  .Copyright{
     font-family: "Emilys Candy", serif;
  }
+ .footer-links a{
+    font-size: 1rem;
+ }
  /* footer here is end in zayfira  */
