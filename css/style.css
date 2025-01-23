@@ -102,9 +102,20 @@ h1,h2,h3,p,span{
 
 /* about two is Start in here in zayfira  */
 .about-two-main{
+    /* margin-top: 4rem; */
     width: 100%;
-    height: 100vh;
+    height: 85vh;
+    position: relative;
     background-color: #739b89;
 }
-
+.about-image-part img{
+    margin-top: -2.7rem;
+    height: 100vh;
+}
+.about-text-part h2{
+    font-family: "Emilys Candy", serif;
+}
 /* about two is End in here in zayfira  */
+
+
+/* font-family: "Emilys Candy", serif; */
