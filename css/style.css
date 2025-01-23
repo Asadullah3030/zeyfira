@@ -116,6 +116,8 @@ h1,h2,h3,p,span{
     font-family: "Emilys Candy", serif;
 }
 /* about two is End in here in zayfira  */
+
+ /* gallery section is Start in zayfira   */
 .main-gallery{
     padding: 20px 0;
     margin-top: 7rem;
@@ -138,6 +140,35 @@ h1,h2,h3,p,span{
     text-align: center;
 }
 
+ /* gallery section is End in zayfira   */
+
+ /* chose is here in start zayfira  */
+.chose{
+    margin-top: 2rem;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+.chose-point{
+    background-color: #739b89;
+    color: #ffffff;
+    padding: 6px 8px;
+}
+.chose-title{
+    font-weight: 400;
+    font-family: "Emilys Candy", serif;
+}
+ /* chose is here in End zayfira  */
+
+ /* contact here is start in zayfira  */
+.contact-image{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+ /* contact here is End in zayfira  */
 
 
 /* font-family: "Emilys Candy", serif; */
