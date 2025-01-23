@@ -116,6 +116,28 @@ h1,h2,h3,p,span{
     font-family: "Emilys Candy", serif;
 }
 /* about two is End in here in zayfira  */
+.main-gallery{
+    padding: 20px 0;
+    margin-top: 7rem;
+    width: 100%;
+}
+.gallery-headings{
+    margin-top: 2rem;
+    text-align: center;
+}
+.gallery-tag{
+    font-size: 1.1rem;
+    font-family: "Emilys Candy", serif;
+}
+.gallery {
+    margin-top: 4rem;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    /* padding: 20px; */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 
 
 /* font-family: "Emilys Candy", serif; */
