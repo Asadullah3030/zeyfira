@@ -239,3 +239,39 @@ h1,h2,h3,p,span{
     font-size: 1rem;
  }
  /* footer here is end in zayfira  */
+
+ /* CONTACT PAGE IS START IN HERE IN ZAYFIRA  */
+ .contact-img{
+    position: relative;
+    width: 100%;
+    height: 80vh;
+    background-image: url(../images/contact.jpg);
+    background-attachment: fixed;
+    z-index: 1;
+}
+.contact-alone h2{
+    font-family: "Emilys Candy", serif;
+}
+.contact-alone{
+    text-align: center;
+    color: #ffffff;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-img::before{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.637);
+    z-index: -1;
+    content: ' ';
+    top: 0;
+    left: 0;
+ }
+ 
+  
+ /* CONTACT PAGE IS END IN HERE IN ZAYFIRA  */
