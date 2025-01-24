@@ -29,6 +29,15 @@ h1,h2,h3,p,span{
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
     color: #739b89;
 }
+.navbar-toggler{
+    border: none;
+    padding: 3px 6px;
+    background-color: #739b8923;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+    border: none;
+}
 /* navbar is End in here zayfira  */
 
 /* hero is End in here zayfira  */
@@ -65,7 +74,7 @@ h1,h2,h3,p,span{
     padding: 120px 0px 0 0;
 }
 .hero-function h1{
-    color: #319538;
+    color: #739b89;
 }
 .hero-function h2{
     font-family: "Emilys Candy", serif;
@@ -88,6 +97,46 @@ h1,h2,h3,p,span{
     color: black;
     border: 2px solid rgb(255, 255, 255);
 }
+@media screen and (max-width:678px) {
+        .hero-function{
+            padding: 70px 0px 0 0;
+        }
+        .hero-function h2{
+            font-size: 2.5rem;
+        }
+}
+
+@media screen and (max-width:500px) {
+    .hero-function{
+        padding: 80px 0px 0 0;
+    }
+    .hero-function h2{
+        font-size: 2.2rem;
+    }
+    .over-lay img{
+        top: 0;
+        width: 100%;
+        height: 85vh;
+        position: absolute;
+        object-fit: cover;
+        background-position: center;
+    }
+    .over-lay::before {
+        position: absolute;
+        content: ' ';
+        width: 100%;
+        height: 85vh;
+        background-color: #0009; 
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+    .hero-main {
+        width: 100%;
+        height: 85vh;
+        position: relative;
+    }
+}
 /* hero is End in here zayfira  */
 
 /* about is start in here zayfira */
@@ -97,6 +146,17 @@ h1,h2,h3,p,span{
 .about-heading{
     font-family: "Emilys Candy", serif;
     font-size: 1.2rem;
+}
+
+@media screen and (max-width:678px) {
+    .about-title{
+        width: 75%;
+    }
+}
+@media screen and (max-width:500px) {
+    .about-title{
+        width: 95%;
+    }
 }
 /* about is start in End zayfira */
 
@@ -115,12 +175,43 @@ h1,h2,h3,p,span{
 .about-text-part h2{
     font-family: "Emilys Candy", serif;
 }
+@media screen and (max-width:992px) {
+    .about-two-main{
+        /* margin-top: 4rem; */
+        width: 100%;
+        height: 100%;
+        position: relative;
+        background-color: #739b89;
+    }
+    .about-title{
+        width: 75%;
+    }
+}
+@media screen and (max-width:768px) {
+    .about-two-main{
+        padding: 20px 0 20px 0;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        background-color: #739b89;
+    }
+    .about-title{
+        width: 75%;
+    }
+}
+@media screen and (max-width:500px) {
+    .about-image-part img{
+        margin-top: -2.7rem;
+        height: 60vh;
+    }
+}
+
 /* about two is End in here in zayfira  */
 
  /* gallery section is Start in zayfira   */
 .main-gallery{
     padding: 20px 0;
-    margin-top: 7rem;
+    margin-top: 3rem;
     width: 100%;
 }
 .gallery-headings{
@@ -278,11 +369,11 @@ h1,h2,h3,p,span{
     display: flex;
 }
 .from_tag input{
-    border-bottom: 0.1rem solid #3d794c57 !important;
+    border-bottom: 0.1rem solid #41815117 !important;
     border: none;
     background-color: transparent;
     padding: 16px 20px;
-    border-left: 0.1rem solid #3d794c57 !important;
+    border-left: 0.1rem solid #41815117 !important;
     outline: none;
     color: rgba(0, 0, 0, 0.575);
     font-size: 0.94rem;
@@ -290,9 +381,9 @@ h1,h2,h3,p,span{
 .from_tag textarea{
     background-color: transparent;
     border: none;
-    border-left: 0.1rem solid #3d794c57 !important;
+    border-left: 0.1rem solid #41815117 !important;
     color: rgba(0, 0, 0, 0.575);
-    border-bottom: 0.1rem solid #3d794c57 !important;
+    border-bottom: 0.1rem solid #41815117 !important;
     padding: 16px 20px;
     font-size: 0.94rem;
     outline: none;
@@ -379,3 +470,4 @@ h1,h2,h3,p,span{
     background-position: top;
 }
  /* ABOUT US PAGE IS END IN HERE IN ZAYFIRA  */
+
