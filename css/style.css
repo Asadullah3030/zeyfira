@@ -366,4 +366,16 @@ h1,h2,h3,p,span{
  .main-abouts h4{
     font-family: "Emilys Candy", serif;
  }
+ .about-img-setting{
+    width: 100%;
+    height: 80vh;
+ }
+ .about-img-setting {
+    width: 100%;
+    background-image: url(../images/about1.jpg);
+    /* background-size: cover; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+}
  /* ABOUT US PAGE IS END IN HERE IN ZAYFIRA  */
