@@ -240,6 +240,8 @@ h1,h2,h3,p,span{
  }
  /* footer here is end in zayfira  */
 
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+
  /* CONTACT PAGE IS START IN HERE IN ZAYFIRA  */
  .contact-img{
     position: relative;
@@ -353,3 +355,15 @@ h1,h2,h3,p,span{
 }
 
  /* CONTACT PAGE IS END IN HERE IN ZAYFIRA  */
+
+
+ /* ABOUT US PAGE IS START IN HERE IN ZAYFIRA  */
+
+ .main-abouts{
+    width: 100%;
+    background-color: #739b89;
+ }
+ .main-abouts h4{
+    font-family: "Emilys Candy", serif;
+ }
+ /* ABOUT US PAGE IS END IN HERE IN ZAYFIRA  */
