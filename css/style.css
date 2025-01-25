@@ -38,6 +38,10 @@ h1,h2,h3,p,span{
     box-shadow: none;
     border: none;
 }
+.navbar-brand svg {
+    width: 150px;
+    height: auto;
+  }
 /* navbar is End in here zayfira  */
 
 /* hero is End in here zayfira  */
