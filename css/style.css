@@ -475,3 +475,53 @@ h1,h2,h3,p,span{
 }
  /* ABOUT US PAGE IS END IN HERE IN ZAYFIRA  */
 
+ /* BLOGS PAGE IS START IN HERE IN ZAYFIRA  */
+
+ .blog-card {
+    /* margin: 10px; */
+    padding: 10px;
+    border: 1px solid gray;
+    height: auto;
+    display: flex;
+    margin: 10px 0 0 0;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 390px;
+  }
+  .blog-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  #blogs-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    padding: 10px 60px;
+}
+.blog-card h4{
+    margin-top: 1rem;
+    font-family: "Emilys Candy", serif;
+}
+.blogs-container p{
+    font-size: 0.90rem;
+}
+.blog-main-button{
+    display: inline-block;
+    margin-top: 0.8rem;
+    padding: 10px 34px;
+    background-color: #418151;
+    border: 1.4px solid rgb(255, 255, 255);
+    color: #ffffff;
+    font-size: 0.9rem;
+    transition: all 0.3s ease-in-out;
+}
+.blog-main-button:hover{
+    font-size: 0.9rem;
+    transform: scale(1.02);
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border: 1.4px solid #212121;
+}
+
+ /* BLOGS PAGE IS END IN HERE IN ZAYFIRA  */
