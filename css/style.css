@@ -521,17 +521,12 @@ h1,h2,h3,p,span{
     font-size: 0.9rem;
     transition: all 0.3s ease-in-out;
 }
-.main-details{
-    /* margin-top: 2rem; */
-}
 .blog-main-button:hover{
     font-size: 0.9rem;
     transform: scale(1.02);
     background-color: transparent;
     color: rgb(0, 0, 0);
     border: 1.4px solid #212121;
-}.detail-color{
-    /* background-color: #ffffff; */
 }
 .main-details{
     background-color: #4d846a0a;
