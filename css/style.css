@@ -478,14 +478,15 @@ h1,h2,h3,p,span{
  /* BLOGS PAGE IS START IN HERE IN ZAYFIRA  */
 
  .blog-card {
-    /* margin: 10px; */
-    padding: 10px;
-    border: 1px solid gray;
+    padding: 10px 2px 20px 2px;
+    /* border-right: 1px solid #41815142; */
+    border-bottom: 1px solid #41815142;
     height: auto;
     display: flex;
-    margin: 10px 0 0 0;
+    margin: 5px 0 0 0;
     flex-wrap: wrap;
     flex-direction: column;
+    align-items: flex-start;
     width: 390px;
   }
   .blog-card img {
@@ -494,6 +495,7 @@ h1,h2,h3,p,span{
     border-radius: 10px;
   }
   #blogs-container {
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
     gap: 25px;
@@ -503,18 +505,24 @@ h1,h2,h3,p,span{
     margin-top: 1rem;
     font-family: "Emilys Candy", serif;
 }
-.blogs-container p{
+.blog-card p{
+    margin-top: 1rem;
+    padding: 4px 4px;
+    background-color: #41815110;
     font-size: 0.90rem;
 }
 .blog-main-button{
     display: inline-block;
     margin-top: 0.8rem;
-    padding: 10px 34px;
+    padding: 10px 40px;
     background-color: #418151;
     border: 1.4px solid rgb(255, 255, 255);
     color: #ffffff;
     font-size: 0.9rem;
     transition: all 0.3s ease-in-out;
+}
+.main-details{
+    /* margin-top: 2rem; */
 }
 .blog-main-button:hover{
     font-size: 0.9rem;
@@ -522,6 +530,26 @@ h1,h2,h3,p,span{
     background-color: transparent;
     color: rgb(0, 0, 0);
     border: 1.4px solid #212121;
+}.detail-color{
+    /* background-color: #ffffff; */
 }
+.main-details{
+    background-color: #4d846a0a;
+}
+.detail-img{
+    margin-top: 3rem;
+}
+.detail-img img{
+    width: 100%;
+    background-color: #ffffff;
+    padding:50px;
+}
+.blog-details img{
+    width: 50%;
+}
+.main-details-blogs{
+    background-color: white;
+}
+
 
  /* BLOGS PAGE IS END IN HERE IN ZAYFIRA  */
