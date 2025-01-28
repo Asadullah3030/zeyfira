@@ -503,7 +503,6 @@ h1,h2,h3,p,span{
 }
 .blog-card h4{
     margin-top: 1rem;
-    font-family: "Emilys Candy", serif;
 }
 .blog-card p{
     margin-top: 1rem;
@@ -543,8 +542,34 @@ h1,h2,h3,p,span{
     width: 50%;
 }
 .main-details-blogs{
+    padding: 0 60px;
     background-color: white;
 }
+.main-details-blogs h3{
+    font-family: "Emilys Candy", serif;
+}
+.content-blogs{
+    padding: 20px 15px;
+}
+.content-blogs h4{
+    padding: 10px 0 0 0 ;
+}
 
-
+.content-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .extra-image {
+    flex: 1 1 calc(50% - 10px); /* Two columns of equal width */
+    margin-bottom: 20px;
+  }
+  
+  .extra-image-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
  /* BLOGS PAGE IS END IN HERE IN ZAYFIRA  */
