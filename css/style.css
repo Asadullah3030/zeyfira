@@ -147,6 +147,9 @@ h1,h2,h3,p,span{
 .about-title{
     width: 55%;
 }
+.about-image-text h1{
+    color: #9dc5b3;
+}
 .about-heading{
     font-family: "Emilys Candy", serif;
     font-size: 1.2rem;
@@ -172,6 +175,8 @@ h1,h2,h3,p,span{
     position: relative;
     background-color: #739b89;
 }
+
+    
 .about-image-part img{
     margin-top: -2.7rem;
     height: 100vh;
@@ -460,6 +465,7 @@ h1,h2,h3,p,span{
  }
  .main-abouts h4{
     font-family: "Emilys Candy", serif;
+    color: white;
  }
  .about-img-setting{
     width: 100%;
