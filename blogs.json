@@ -8,25 +8,17 @@
       "description": "Taking care of your skin is essential for maintaining a healthy and glowing complexion. In today’s world, the right skincare products can make all the difference. Whether you’re dealing with dryness, acne, or simply want that radiant glow, this guide will walk you through the 10 must-have skincare products that should be a part of your routine.",
       "extra_images": ["layering.jpg", "accessories.jpg"],
       "imageCard1": "./images/gallery2.jpg",
-      "imageCard2": "./images/blog1.jpg",
-     
-      "pointOne": "1. Gentle Cleanser",
-      "pointTwo": "2. Exfoliator",
-      "pointThree": "3. Vitamin C Serum",
-      "para1": "A gentle cleanser is the foundation of any skincare routine. It helps remove dirt, oil, and makeup without stripping your skin of natural moisture.",
-      "para2": "Vitamin C serums are known for their brightening and anti-aging properties.",
-      "para3": "Exfoliation removes dead skin cells and improves skin texture, making your complexion smoother and brighter."
-      
+      "imageCard2": "./images/blog3.jpg"
     },
+
     {
       "id": 2,
       "title": "Top 5 Skincare Routines for Beginners",
       "image": "./images/blog2.jpg",
       "publish_date": "January 4, 2019",
       "description": "Learn the basics of skincare routines suitable for all skin types. From cleansing to moisturizing, this guide covers it all.",
-      "extra_images": ["cleansing.jpg", "moisturizing.jpg"],
-      "para1": ""
-  
+      "extra_images": ["cleansing.jpg", "moisturizing.jpg"]
+      
     },
     {
       "id": 3,
