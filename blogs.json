@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "10 Must-Have Skincare Products for Glowing Skin",
-    "image": "./images/skincare-images/one/Skincare Products for Glowing Skin.webp",
+    "image": "./images/skincare-images/one/SkincareProductsforGlowingSkin.webp",
     "publish_date": "January 4, 2019",
     "description": "Taking care of your skin is essential for maintaining a healthy and glowing complexion. In today’s world, the right skincare products can make all the difference. Whether you’re dealing with dryness, acne, or simply want that radiant glow, this guide will walk you through the 10 must-have skincare products that should be a part of your routine.",
     "extra_images": ["./images/skincare-images/one/skincare1.webp", "./images/skincare-images/one/skincare2.webp"],
@@ -272,7 +272,7 @@
   {
     "id": 3,
     "title": "Top 5 Natural Ingredients for Healthy Skin",
-    "image": "./images/blog3.jpg",
+    "image": "./images/skincare-images/three/NaturalIngredientsforHealthySkin.webp",
     "publish_date": "January 28, 2025",
     "description": "Natural ingredients can work wonders for your skin by providing essential nutrients and nourishment. In this blog, we explore the top 5 natural ingredients that you can incorporate into your skincare routine for healthy and glowing skin.",
     "content": [
@@ -332,15 +332,15 @@
       }
     ],
     "extra_images": [
-      "./images/blog1.jpg",
-      "./images/blog2.jpg"
+      "./images/skincare-images/three/Natural1.webp",
+      "./images/skincare-images/three/Natural2.webp"
     ]
   },
 
   {
     "id": 4,
     "title": "How to Build a Skincare Routine for Oily Skin",
-    "image": "./images/blog2.jpg",
+    "image": "./images/skincare-images/four/SkincareRoutineforOilySkin.webp",
     "publish_date": "January 28, 2025",
     "description": "Oily skin requires special attention to balance oil production while maintaining hydration and preventing clogged pores. This blog guides you through creating an effective skincare routine for oily skin.",
     "content": [
@@ -409,15 +409,15 @@
       }
     ],
     "extra_images": [
-      "./images/gallery1.jpg",
-      "./images/gallery2.jpg"
+      "./images/skincare-images/four/OilySkin2.webp",
+      "./images/skincare-images/four/OilySkin1.webp"
     ]
   },
 
   {
     "id": 5,
     "title": "DIY Face Masks for Clear and Radiant Skin",
-    "image": "./images/blog1.jpg",
+    "image": "./images/skincare-images/five/MasksforClearandRadiantSkin.webp",
     "publish_date": "January 28, 2025",
     "description": "DIY face masks are a great way to achieve clear and radiant skin using natural ingredients. This blog will guide you through the top DIY masks for a glowing complexion.",
     "content": [
@@ -522,15 +522,15 @@
       }
     ],
     "extra_images": [
-      "./images/gallery3.jpg",
-      "./images/gallery4.jpg"
+      "./images/skincare-images/five/RadiantSkin1.webp",
+      "./images/skincare-images/five/RadiantSkin2.webp"
     ]
   },
 
   {
     "id": 6,
     "title": "Common Skincare Mistakes You Should Avoid",
-    "image": "./images/blog3.jpg",
+    "image": "./images/skincare-images/six/SkincareMistakesYouShouldAvoid.webp",
     "publish_date": "January 28, 2025",
     "description": "Learn about common skincare mistakes that could be sabotaging your routine and how to avoid them for healthier, glowing skin.",
     "content": [
@@ -653,15 +653,15 @@
       }
     ],
     "extra_images": [
-      "./images/blog1.jpg",
-      "./images/blog2.jpg"
+      "./images/skincare-images/six/ShouldAvoid.webp",
+      "./images/skincare-images/six/ShouldAvoid1.webp"
     ]
   },
 
   {
     "id": 7,
     "title": "Best Skincare Tips for Winter Season",
-    "image": "./images/blog2.jpg",
+    "image": "./images/skincare-images/seven/TipsforWinterSeason.webp",
     "publish_date": "January 28, 2025",
     "description": "Winter can be harsh on your skin, but these tips will help you keep your skin hydrated and glowing throughout the cold season.",
     "content": [
@@ -784,8 +784,8 @@
       }
     ],
     "extra_images": [
-      "./images/gallery1.jpg",
-      "./images/gallery4.jpg"
+      "./images/skincare-images/seven/winter2.webp",
+      "./images/skincare-images/seven/winter1.webp"
     ]
   }
   

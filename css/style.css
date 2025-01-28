@@ -24,7 +24,7 @@ h1,h2,h3,p,span{
     margin-left: 10px;
     font-weight: 400;
     color: black;
-    font-size: 0.93rem;
+    font-size: 0.96rem;
 }
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
     color: #739b89;
