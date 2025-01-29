@@ -19,15 +19,32 @@ h1,h2,h3,p,span{
 .navbar{
     text-align: center;
     background-color: #ffffff;
+    /* box-shadow: 1rem 1rem 1rem red; */
 }
 .navbar-nav a{
-    margin-left: 10px;
+    /* margin-left: 10px; */
     font-weight: 400;
     color: black;
-    font-size: 0.96rem;
+    font-size: 0.93rem;
 }
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
     color: #739b89;
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-weight: 400;
+    color: var(--bs-dropdown-link-color);
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: -65px;
 }
 .navbar-toggler{
     border: none;
@@ -42,6 +59,9 @@ h1,h2,h3,p,span{
     width: 150px;
     height: auto;
   }
+  .dropdown-item:focus, .dropdown-item:hover {
+    background-color: #4181513f
+}
 /* navbar is End in here zayfira  */
 
 /* hero is End in here zayfira  */
@@ -500,7 +520,7 @@ h1,h2,h3,p,span{
   .blog-card img {
     max-width: 100%;
     height: auto;
-    border-radius: 10px;
+    /* border-radius: 10px; */
   }
   #blogs-container {
     justify-content: center;
