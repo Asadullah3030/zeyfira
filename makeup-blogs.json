@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner’s Guide to Everyday Natural Makeup",
+    "image": "./images/makeup-images/one/EverydayNaturalMakeup.webp",
+    "publish_date": "January 28, 2025",
+    "description": "Learn how to achieve a simple, natural makeup look with this step-by-step guide for beginners.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "1. Prep Your Skin"
+      },
+      {
+        "type": "paragraph",
+        "text": "A good makeup look starts with healthy, hydrated skin. Proper skincare ensures that your makeup applies smoothly and lasts longer."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Prep - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Start with a gentle cleanser to remove dirt and oil.\n- Apply a lightweight moisturizer to keep your skin hydrated.\n- Use a primer suited for your skin type to create a smooth base."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "2. Use a Lightweight Foundation or Tinted Moisturizer"
+      },
+      {
+        "type": "paragraph",
+        "text": "For a natural look, opt for a lightweight foundation, BB cream, or tinted moisturizer."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Apply - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Choose a product that matches your skin tone.\n- Use a damp makeup sponge or fingers to blend it evenly across your face.\n- Focus on areas that need coverage while letting your natural skin show through."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "3. Conceal Only Where Needed"
+      },
+      {
+        "type": "paragraph",
+        "text": "Concealer helps brighten the under-eyes and cover any blemishes."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Apply - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Dab a small amount under your eyes, on blemishes, or any redness.\n- Blend it gently with a sponge or fingertips."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "4. Add a Touch of Natural Blush"
+      },
+      {
+        "type": "paragraph",
+        "text": "A soft pink or peach blush adds a healthy glow to your face."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Apply - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Smile and apply blush to the apples of your cheeks.\n- Blend it slightly upward for a natural flush."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "5. Define Your Brows"
+      },
+      {
+        "type": "paragraph",
+        "text": "Well-groomed eyebrows frame your face and complete the natural look."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Apply - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Use a brow pencil or powder to fill in sparse areas lightly.\n- Brush through your brows with a spoolie for a natural finish."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "6. Apply a Light Coat of Mascara"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mascara helps define your lashes and make your eyes stand out."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Apply - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Use a single coat of mascara for a soft, everyday look.\n- Curl your lashes beforehand for an added lift."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "7. Choose a Natural Lip Color"
+      },
+      {
+        "type": "paragraph",
+        "text": "A nude, pink, or soft peach lip color complements a natural makeup look."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Apply - "
+      },
+      {
+        "type": "paragraph",
+        "text": "- Opt for a tinted lip balm, lip gloss, or sheer lipstick.\n- Apply lightly for a soft and effortless touch."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "Natural makeup enhances your beauty without looking heavy or overdone. By following these steps, you can create a fresh, radiant everyday makeup look in just a few minutes."
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/one/NaturalMakeup.webp",
+      "./images/makeup-images/one/NaturalMakeup1.webp"
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Top 10 Affordable Makeup Brands You Must Try",
+    "image": "./images/makeup-images/two/AffordableMakeupBrandsYouMustTry.webp",
+    "publish_date": "January 29, 2025",
+    "description": "Discover the top 10 budget-friendly makeup brands that offer high-quality products without breaking the bank.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "1. e.l.f. Cosmetics"
+      },
+      {
+        "type": "paragraph",
+        "text": "e.l.f. (Eyes Lips Face) is known for its affordable yet high-quality makeup products. From primers to brushes, e.l.f. offers everything at unbeatable prices."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- e.l.f. Poreless Putty Primer\n- e.l.f. Hydrating Camo Concealer"
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "2. Maybelline"
+      },
+      {
+        "type": "paragraph",
+        "text": "A drugstore favorite, Maybelline is a go-to brand for affordable and high-performance makeup, especially their mascaras and foundations."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Maybelline Fit Me Foundation\n- Maybelline Lash Sensational Mascara"
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "3. NYX Professional Makeup"
+      },
+      {
+        "type": "paragraph",
+        "text": "NYX provides professional-grade makeup at a fraction of the cost. Their lip products and setting sprays are among the best in the market."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- NYX Soft Matte Lip Cream\n- NYX Matte Finish Setting Spray"
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "4. Wet n Wild"
+      },
+      {
+        "type": "paragraph",
+        "text": "This brand delivers trendy and high-pigment makeup at an extremely budget-friendly price. Their eyeshadow palettes and highlighters are top-notch."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Wet n Wild MegaGlo Highlighter\n- Wet n Wild Color Icon Eyeshadow Palette"
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "10. Essence Cosmetics"
+      },
+      {
+        "type": "paragraph",
+        "text": "Essence is an underrated gem in the beauty industry, offering quality makeup at incredibly low prices. Their mascaras are particularly famous."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Essence Lash Princess Mascara\n- Essence Pure Nude Highlighter"
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "You don’t need to spend a fortune to get high-quality makeup products. These budget-friendly brands offer amazing quality, performance, and variety, making them must-tries for any makeup lover."
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/two/YouMustTry.webp",
+      "./images/makeup-images/two/YouMustTry1.webp"
+    ]
+  }
+  
+
+  ]
