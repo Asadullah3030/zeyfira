@@ -259,7 +259,131 @@
       "./images/makeup-images/two/YouMustTry.webp",
       "./images/makeup-images/two/YouMustTry1.webp"
     ]
+  },
+
+  {
+    "id": 3,
+    "title": "Step-by-Step Guide to Achieve a Flawless Foundation Look",
+    "image": "./images/makeup-images/three/FlawlessFoundationLook.webp",
+    "publish_date": "January 29, 2025",
+    "description": "Learn how to apply foundation like a pro with this step-by-step guide for a flawless, long-lasting makeup base.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 1: Prep Your Skin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before applying foundation, prepping your skin is essential for a smooth application."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Start with a clean face by washing it with a gentle cleanser.",
+          "Apply a lightweight moisturizer to keep your skin hydrated.",
+          "Use a primer to create a smooth base and help foundation last longer."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 2: Choose the Right Foundation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Picking the right foundation for your skin type and tone is crucial."
+      },
+      {
+        "type": "list",
+        "items": [
+          "If you have oily skin, go for a matte or oil-free foundation.",
+          "For dry skin, a hydrating or dewy-finish foundation works best.",
+          "Always match the foundation shade to your neck to avoid a mismatched look."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 3: Apply Foundation with the Right Tool"
+      },
+      {
+        "type": "paragraph",
+        "text": "The tool you use can affect the foundation’s finish and coverage."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Beauty Blender (Sponge): Gives a natural, airbrushed look.",
+          "Foundation Brush: Ideal for full coverage application.",
+          "Fingertips: Best for lightweight, minimal coverage."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 4: Blend It Well"
+      },
+      {
+        "type": "paragraph",
+        "text": "Blending is the secret to achieving a seamless foundation look."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Start from the center of your face and blend outward.",
+          "Use tapping motions with a sponge instead of rubbing.",
+          "Blend foundation down to your neck for a natural look."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 5: Set with Powder (Optional)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Setting your foundation helps it last longer and controls shine."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Loose Powder: Ideal for setting oily skin.",
+          "Pressed Powder: Great for touch-ups throughout the day.",
+          "Dewy Setting Spray: Perfect for dry skin to keep the glow."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 6: Complete the Look"
+      },
+      {
+        "type": "paragraph",
+        "text": "Now that your foundation is flawless, finish with the rest of your makeup."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Apply concealer under the eyes and on blemishes.",
+          "Add blush for a natural flush of color.",
+          "Highlight key areas for a radiant glow."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "A flawless foundation look is all about the right products, tools, and techniques. With these steps, you can achieve a smooth, natural, and long-lasting foundation every time!"
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/three/Flawless.webp",
+      "./images/makeup-images/three/Flawless1.webp"
+    ]
   }
-  
 
   ]
