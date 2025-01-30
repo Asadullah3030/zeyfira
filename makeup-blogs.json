@@ -150,7 +150,7 @@
 
   {
     "id": 2,
-    "title": "Top 10 Affordable Makeup Brands You Must Try",
+    "title": "Top 5 Affordable Makeup Brands You Must Try",
     "image": "./images/makeup-images/two/AffordableMakeupBrandsYouMustTry.webp",
     "publish_date": "January 29, 2025",
     "description": "Discover the top 10 budget-friendly makeup brands that offer high-quality products without breaking the bank.",
@@ -230,7 +230,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "10. Essence Cosmetics"
+        "text": "5. Essence Cosmetics"
       },
       {
         "type": "paragraph",
@@ -387,7 +387,7 @@
   },
 
   {
-    "id": 11,
+    "id": 4,
     "title": "How to Choose the Right Lipstick Shade for Your Skin Tone",
     "image": "./images/makeup-images/four/LipstickShadeforYourSkinTone.webp",
     "publish_date": "January 30, 2025",
@@ -491,7 +491,255 @@
       "./images/makeup-images/four/SkinTone.webp",
       "./images/makeup-images/four/SkinTone1.webp"
     ]
+  },
+
+  {
+    "id": 5,
+    "title": "5-Minute Quick Makeup Routine for Busy Mornings",
+    "image": "./images/makeup-images/five/RoutineforBusyMornings.webp",
+    "publish_date": "January 30, 2025",
+    "description": "A quick and easy makeup routine that will have you looking fresh and put together in just 5 minutes for those busy mornings.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "1. Start with a Clean Base"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before applying makeup, always start with a clean, moisturized face. Use a lightweight moisturizer or a primer with SPF to protect your skin and create a smooth base for your makeup."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "2. Apply a BB Cream or Tinted Moisturizer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Instead of a heavy foundation, go for a BB cream or tinted moisturizer. These multitaskers hydrate your skin while providing light coverage and a natural glow."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "3. Conceal Imperfections"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use a creamy concealer to cover up any blemishes, dark circles, or redness. This will give you a more even and bright complexion in no time."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "4. Add a Pop of Color to Your Cheeks"
+      },
+      {
+        "type": "paragraph",
+        "text": "For a fresh, healthy glow, apply a cream blush to the apples of your cheeks. Cream blush blends seamlessly and gives a natural flush of color."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "5. Quick Eye Makeup"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apply a coat of mascara to your lashes to make your eyes look more awake. Fill in your eyebrows with a brow pencil or gel to define them."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "6. Swipe on a Lip Tint or Lip Balm"
+      },
+      {
+        "type": "paragraph",
+        "text": "Finish your makeup with a swipe of lip tint or lip balm for a natural touch of color and hydration."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "7. Set Everything in Place (Optional)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Finish with a quick spritz of setting spray to lock everything in place. This is optional but great for long-lasting makeup."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "A 5-minute makeup routine is all about simplicity. By focusing on your base, adding a touch of color, and enhancing your eyes and lips, you’ll be ready to face your day with minimal effort."
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/five/BusyMornings.webp",
+      "./images/makeup-images/five/BusyMornings1.webp"
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Best Makeup Products for Sensitive Skin",
+    "image": "./images/makeup-images/six/ProductsforSensitiveSkin.webp",
+    "publish_date": "February 1, 2025",
+    "description": "Discover the best makeup products designed for sensitive skin that offer coverage, hydration, and long-lasting wear without causing irritation.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "1. Tinted Moisturizers and Foundations"
+      },
+      {
+        "type": "paragraph",
+        "text": "For sensitive skin, opt for a lightweight, breathable base like a tinted moisturizer or a gentle foundation. These products hydrate your skin while offering light to medium coverage without clogging pores."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "2. Hypoallergenic and Fragrance-Free Concealers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Concealers help to cover blemishes, dark circles, and redness. It’s important to choose products that are hypoallergenic and fragrance-free to avoid irritation."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "3. Gentle Blushes and Highlighters"
+      },
+      {
+        "type": "paragraph",
+        "text": "Powder blushes and highlighters with natural ingredients are ideal for sensitive skin. Cream blushes can also be a great option, as they offer a smooth, dewy finish while avoiding the harshness of powders."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "4. Sensitive-Skin-Friendly Eyeshadows"
+      },
+      {
+        "type": "paragraph",
+        "text": "Choose mineral-based eyeshadows that are free from synthetic dyes and fragrances to avoid irritation."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "5. Non-Irritating Mascaras"
+      },
+      {
+        "type": "paragraph",
+        "text": "Look for mascaras that are ophthalmologist-tested, hypoallergenic, and free from harsh chemicals."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "6. Fragrance-Free Lip Products"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lipsticks and lip glosses with added fragrances or artificial colors can cause irritation. Opt for products that are fragrance-free and use natural ingredients."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "7. Mineral Sunscreens"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sunscreen is essential for sensitive skin. Mineral sunscreens with physical blockers like zinc oxide and titanium dioxide are the best choice."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "Choosing the right makeup for sensitive skin can make a world of difference in how your skin feels and looks. By opting for gentle, hypoallergenic products, you can enjoy beautiful makeup without irritation."
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/six/SensitiveSkin1.webp",
+      "./images/makeup-images/six/SensitiveSkin.webp"
+    ]
+  },
+
+  {
+    "id": 7,
+    "title": "Day-to-Night Makeup Transformation Tutorial",
+    "image": "./images/makeup-images/seven/MakeupTransformationTutorial.webp",
+    "publish_date": "February 2, 2025",
+    "description": "Learn how to easily transition your makeup from a fresh day look to a bold night look with this step-by-step tutorial.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 1: Start with a Clean and Hydrated Base"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before applying any makeup, make sure your face is clean and well-moisturized. This will create a smooth base for makeup application and ensure that your makeup lasts all day."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 2: Brighten Up Your Eyes with Soft Shades"
+      },
+      {
+        "type": "paragraph",
+        "text": "Start your day look with soft and neutral eye makeup. Think light beige, taupe, or soft browns to define the eyes without looking too heavy."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 3: Define Your Brows"
+      },
+      {
+        "type": "paragraph",
+        "text": "Brows can make a huge difference in your makeup look. A defined brow can elevate both your day and night looks."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 4: Add a Touch of Blush and Highlighter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Blush and highlighter give your face a healthy glow and are essential for both day and night looks."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 5: Bold Lips for the Night"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lips are the easiest way to transform a daytime look into something bolder for the night."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 6: Set Your Makeup"
+      },
+      {
+        "type": "paragraph",
+        "text": "Finally, set your makeup with a long-lasting setting spray to ensure that it stays in place throughout the day and night."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "With just a few adjustments, your makeup can go from fresh and subtle for the day to bold and glamorous for the night."
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/seven/Tutorial.webp",
+      "./images/makeup-images/seven/Tutorial1.webp"
+    ]
   }
-  
 
   ]
