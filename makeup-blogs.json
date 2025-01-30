@@ -384,6 +384,114 @@
       "./images/makeup-images/three/Flawless.webp",
       "./images/makeup-images/three/Flawless1.webp"
     ]
+  },
+
+  {
+    "id": 11,
+    "title": "How to Choose the Right Lipstick Shade for Your Skin Tone",
+    "image": "./images/makeup-images/four/LipstickShadeforYourSkinTone.webp",
+    "publish_date": "January 30, 2025",
+    "description": "Learn how to choose the perfect lipstick shade based on your skin tone and undertones for a flattering and stunning look.",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "1. Determine Your Skin Undertone"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before you choose the perfect lipstick, it's important to determine your skin's undertone, as it plays a major role in how different shades will look on you."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Cool Undertones: Pink, red, or blue hues.",
+          "Warm Undertones: Yellow, peach, or golden hues.",
+          "Neutral Undertones: A balance of both cool and warm hues."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "2. Lipstick Shades for Cool Undertones"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have cool undertones, certain lipstick shades will enhance your natural complexion."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Berry and Plum Shades: Rich, deep tones complement cool undertones.",
+          "Blue-Based Reds: Shades of red with blue undertones.",
+          "Soft Pink Shades: Light, soft pinks for a fresh look."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "3. Lipstick Shades for Warm Undertones"
+      },
+      {
+        "type": "paragraph",
+        "text": "For those with warm undertones, go for lipstick shades that bring out the warmth in your complexion."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Warm Reds and Oranges: Coral red or tangerine shades.",
+          "Peachy Pink Shades: Warm pinks for a natural glow.",
+          "Brown and Nude Shades: Soft nudes or warm browns for an understated look."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "4. Lipstick Shades for Neutral Undertones"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have neutral undertones, you’re lucky because you can pull off both warm and cool lipstick shades."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Classic Red: A timeless red lipstick.",
+          "Mauve Shades: A balance of cool and warm tones.",
+          "Soft Berry: A soft berry or rose shade for a balanced look."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "5. How to Test the Lipstick Shade"
+      },
+      {
+        "type": "paragraph",
+        "text": "Once you’ve identified your undertone and chosen a shade, it's always a good idea to test the lipstick."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Test on the Back of Your Hand: Compare how the shade looks on your skin.",
+          "Try It on Your Lips: See how the color complements your lips."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "Choosing the right lipstick shade based on your skin tone can take your makeup to the next level. Whether you have cool, warm, or neutral undertones, there are plenty of shades out there to suit your complexion. Experiment with different colors and find the perfect shade that makes you feel confident and beautiful!"
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/four/SkinTone.webp",
+      "./images/makeup-images/four/SkinTone1.webp"
+    ]
   }
+  
 
   ]
