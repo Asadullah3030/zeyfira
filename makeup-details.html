@@ -72,64 +72,150 @@
 
   <script>
     // Query string se blog ID fetch karna
-    const params = new URLSearchParams(window.location.search);
-    const blogId = params.get('id');
-  
-    // JSON se specific blog ka data fetch karna
-    fetch('makeup-blogs.json')
-      .then(response => response.json())
-      .then(blogs => {
-        const blog = blogs.find(b => b.id == blogId);
-        const container = document.getElementById('blog-details');
-        
-        // Loop through content sections to build the full content
-        let contentHtml = '';
-  
-        blog.content.forEach(item => {
-          if (item.type === 'heading') {
-            contentHtml += `<h${item.level}>${item.text}</h${item.level}>`;
-          } else if (item.type === 'paragraph') {
-            contentHtml += `<p>${item.text}</p>`;
-          }
-        });
-  
-        // Add extra images from extra_images array
-        const extraImagesHtml = blog.extra_images.map(image => `
-          <div class="col-6 extra-image">
-            <img src="${image}" alt="Additional Image" class="extra-image-img" />
-          </div>
-        `).join('');
-  
-        // Insert the full blog details
-        container.innerHTML = `
-          <div class="main-details">
-            <div class="container">
-              <div class="row justify-content-center">
-                <div class="col-lg-9 detail-color">
-                  <div class="detail-img">
-                    <img src="${blog.image}" alt="${blog.title}" />
+const params = new URLSearchParams(window.location.search);
+const blogId = params.get('id');
+
+// JSON se specific blog ka data fetch karna
+fetch('makeup-blogs.json')
+  .then(response => response.json())
+  .then(blogs => {
+    const blog = blogs.find(b => b.id == blogId);
+    const container = document.getElementById('blog-details');
+
+    // Loop through content sections to build the full content
+    let contentHtml = '';
+    blog.content.forEach(item => {
+      if (item.type === 'heading') {
+        contentHtml += `<h${item.level}>${item.text}</h${item.level}>`;
+      } else if (item.type === 'paragraph') {
+        contentHtml += `<p>${item.text}</p>`;
+      }
+    });
+
+    // Add extra images from extra_images array
+    const extraImagesHtml = blog.extra_images.map(image => `
+      <div class="col-6 extra-image">
+        <img src="${image}" alt="Additional Image" class="extra-image-img" />
+      </div>
+    `).join('');
+
+    // Insert the full blog details
+    container.innerHTML = `
+      <div class="main-details">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-9 detail-color">
+              <div class="detail-img">
+                <img src="${blog.image}" alt="${blog.title}" />
+              </div>
+              <div class="main-details-blogs px-4">
+                <div class="blog-styles-part-one px-3">
+                  <h2 class='mb-3'>${blog.title}</h2>
+                  <p>Published on: ${blog.publish_date}</p>
+                  <p class="mt-2">${blog.description}</p>
+                </div>
+               <div class='content-blogs'>
+                     ${contentHtml} 
                   </div>
-                  <div class="main-details-blogs px-4">
-                    <div class="blog-styles-part-one px-3">
-                      <h2 class='mb-3'>${blog.title}</h2>
-                      <p>Published on: ${blog.publish_date}</p>
-                      <p class="mt-2">${blog.description}</p>
-                    </div>
-                   <div class='content-blogs'>
-                         ${contentHtml} 
-                      </div>
-                    <div class="row content-images">
-                      ${extraImagesHtml} <!-- Insert extra images inside a responsive grid -->
-                    </div>
-                  </div>
+                <div class="row content-images">
+                  ${extraImagesHtml} <!-- Insert extra images inside a responsive grid -->
                 </div>
               </div>
             </div>
           </div>
-        `;
-      })
-      .catch(error => console.error('Error fetching blog details:', error));
+        </div>
+      </div>
+    `;
+    
+    // Load the comments related to this blog
+    loadComments(blogId);
+  })
+  .catch(error => console.error('Error fetching blog details:', error));
+
+  // --------------------------------------- comment session is start in here ------------------------
+  document.addEventListener("DOMContentLoaded", function () {
+        const pageType = window.location.pathname.includes("skincare") ? "skincare" : "makeup";
+        const blogId = "blog-1"; // Change as needed for different blogs
+        const uniqueBlogId = `${pageType}-${blogId}`;
+
+        function loadComments() {
+            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+            comments.forEach((commentData, index) => addCommentToUI(commentData, index));
+        }
+
+        function addCommentToUI(commentData, index) {
+            let commentSection = document.getElementById("commentSection");
+            let commentDiv = document.createElement("div");
+            commentDiv.classList.add("comment");
+            commentDiv.innerHTML = `
+                <strong>${commentData.name}</strong> (${commentData.email})
+                <br><small><i>${commentData.timestamp}</i></small>
+                <br>${commentData.comment}
+                <button class="delete-btn" onclick="deleteComment(${index})">Remove</button>
+            `;
+            commentSection.appendChild(commentDiv);
+        }
+
+        document.getElementById("commentForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            let name = document.getElementById("name").value;
+            let email = document.getElementById("email").value;
+            let comment = document.getElementById("comment").value;
+            let timestamp = new Date().toLocaleString();
+
+            if (!name || !email || !comment) {
+                alert("Please fill in all fields!");
+                return;
+            }
+
+            let newComment = { name, email, comment, timestamp };
+            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+            comments.push(newComment);
+            localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
+
+            addCommentToUI(newComment, comments.length - 1);
+
+            document.getElementById("name").value = "";
+            document.getElementById("email").value = "";
+            document.getElementById("comment").value = "";
+        });
+
+        window.deleteComment = function (index) {
+            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+            comments.splice(index, 1);
+            localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
+            document.getElementById("commentSection").innerHTML = "";
+            loadComments();
+        };
+
+        loadComments();
+    });
   </script>
+  
+  <div class="main-details">
+  <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9 detail-color">
+                    <div class="comment-session py-4">
+                      <h3 class="py-4">Leave a Comment</h3>
+                      <form id="commentForm">
+                          <div class="d-flex justify-content-around align-items-center comment-input-NE">
+                            <input type="text" id="name" placeholder="Your Name" required><br><br>
+                            <input type="email" id="email" placeholder="Your Email" required><br><br>
+                            
+                          </div>
+                          <textarea id="comment" placeholder="Write your comment..." required></textarea><br><br>
+                          <button type="submit" class="blog-main-button mb-4">Post Comment</button>
+                      </form>
+                    
+                      <h3 class="py-3">All Comments</h3>
+                      <hr>
+                      <div id="commentSection" class="py-3"></div>                      
+                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
   
 
   <div class="footer py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">

@@ -633,18 +633,18 @@ h1,h2,h3,p,span{
  .comment-session h3{
     font-family: "Emilys Candy", serif;
  }
- .delete-button{
+ .delete-btn{
     font-size: 0.87rem;
     display: block;
     padding: 2px 58px;
     margin-top: 0.7rem;
     background-color: transparent;
     color: rgb(0, 0, 0);
-    border: 1.4px solid #212121;
+    border: 1.4px solid #3d644979;
     transition: all 0.3s ease;
  }
 
- .delete-button:hover{
+ .delete-btn:hover{
     font-size: 0.87rem;
     display: block;
     transform: scale(1.05);
@@ -656,4 +656,11 @@ h1,h2,h3,p,span{
  }
  .comment-box{
     padding: 10px 0 10px 0 ;
+ }
+ .comment small{
+    padding: 3px 0 10px 0 ;
+    display: inline-block;
+ }
+ .comment{
+    padding: 0px 0 20px 0 ;
  }

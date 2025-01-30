@@ -133,78 +133,63 @@ fetch('skincare-blogs.json')
   .catch(error => console.error('Error fetching blog details:', error));
 
   // --------------------------------------- comment session is start in here ------------------------
+  document.addEventListener("DOMContentLoaded", function () {
+        const pageType = window.location.pathname.includes("skincare") ? "skincare" : "makeup";
+        const blogId = "blog-1"; // Change as needed for different blogs
+        const uniqueBlogId = `${pageType}-${blogId}`;
 
-document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById("commentForm").addEventListener("submit", function(event) {
-    event.preventDefault();
+        function loadComments() {
+            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+            comments.forEach((commentData, index) => addCommentToUI(commentData, index));
+        }
 
-    let name = document.getElementById("name").value;
-    let email = document.getElementById("email").value;
-    let comment = document.getElementById("comment").value;
-    let timestamp = new Date().toLocaleString();
+        function addCommentToUI(commentData, index) {
+            let commentSection = document.getElementById("commentSection");
+            let commentDiv = document.createElement("div");
+            commentDiv.classList.add("comment");
+            commentDiv.innerHTML = `
+                <strong>${commentData.name}</strong> (${commentData.email})
+                <br><small><i>${commentData.timestamp}</i></small>
+                <br class='py-4'>${commentData.comment}
+                <button class="delete-btn" onclick="deleteComment(${index})">Remove</button>
+            `;
+            commentSection.appendChild(commentDiv);
+        }
 
-    if (!name || !email || !comment) {
-      alert("Please fill in all fields!");
-      return;
-    }
+        document.getElementById("commentForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            let name = document.getElementById("name").value;
+            let email = document.getElementById("email").value;
+            let comment = document.getElementById("comment").value;
+            let timestamp = new Date().toLocaleString();
 
-    let newComment = { name, email, comment, timestamp };
+            if (!name || !email || !comment) {
+                alert("Please fill in all fields!");
+                return;
+            }
 
-    // Save to Local Storage (using blogId as key)
-    let comments = JSON.parse(localStorage.getItem(blogId)) || [];
-    comments.push(newComment);
-    localStorage.setItem(blogId, JSON.stringify(comments));
+            let newComment = { name, email, comment, timestamp };
+            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+            comments.push(newComment);
+            localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
 
-    // Add to UI
-    addCommentToUI(newComment);
+            addCommentToUI(newComment, comments.length - 1);
 
-    // Clear input fields
-    document.getElementById("name").value = "";
-    document.getElementById("email").value = "";
-    document.getElementById("comment").value = "";
-  });
-});
+            document.getElementById("name").value = "";
+            document.getElementById("email").value = "";
+            document.getElementById("comment").value = "";
+        });
 
-function loadComments(blogId) {
-  let comments = JSON.parse(localStorage.getItem(blogId)) || [];
-  comments.forEach(addCommentToUI);
-}
+        window.deleteComment = function (index) {
+            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+            comments.splice(index, 1);
+            localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
+            document.getElementById("commentSection").innerHTML = "";
+            loadComments();
+        };
 
-function addCommentToUI(commentData) {
-  let commentSection = document.getElementById("commentSection");
-  let commentBox = document.createElement("div");
-  commentBox.classList.add("comment-box");
-
-  // Create a delete button
-  let deleteButton = document.createElement("button");
-  deleteButton.classList.add("delete-button");
-  deleteButton.innerText = "Delete";
-  deleteButton.onclick = function() {
-    deleteComment(commentData);
-    commentSection.removeChild(commentBox);
-  };
-
-  commentBox.innerHTML = `
-    <strong>${commentData.name}</strong> (${commentData.email})
-    <p>${commentData.comment}</p>
-    <span class="comment-time">${commentData.timestamp}</span>
-  `;
-  commentBox.appendChild(deleteButton);
-
-  commentSection.appendChild(commentBox);
-}
-
-function deleteComment(commentData) {
-  // Get the list of comments for the current blog
-  let comments = JSON.parse(localStorage.getItem(blogId)) || [];
-
-  // Remove the comment from the array
-  comments = comments.filter(comment => comment.timestamp !== commentData.timestamp);
-
-  // Save the updated comments back to local storage
-  localStorage.setItem(blogId, JSON.stringify(comments));
-}
-
+        loadComments();
+    });
   </script>
   
   <div class="main-details">
