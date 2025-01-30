@@ -72,64 +72,150 @@
 
   <script>
     // Query string se blog ID fetch karna
-    const params = new URLSearchParams(window.location.search);
-    const blogId = params.get('id');
-  
-    // JSON se specific blog ka data fetch karna
-    fetch('skincare-blogs.json')
-      .then(response => response.json())
-      .then(blogs => {
-        const blog = blogs.find(b => b.id == blogId);
-        const container = document.getElementById('blog-details');
-        
-        // Loop through content sections to build the full content
-        let contentHtml = '';
-  
-        blog.content.forEach(item => {
-          if (item.type === 'heading') {
-            contentHtml += `<h${item.level}>${item.text}</h${item.level}>`;
-          } else if (item.type === 'paragraph') {
-            contentHtml += `<p>${item.text}</p>`;
-          }
-        });
-  
-        // Add extra images from extra_images array
-        const extraImagesHtml = blog.extra_images.map(image => `
-          <div class="col-6 extra-image">
-            <img src="${image}" alt="Additional Image" class="extra-image-img" />
-          </div>
-        `).join('');
-  
-        // Insert the full blog details
-        container.innerHTML = `
-          <div class="main-details">
-            <div class="container">
-              <div class="row justify-content-center">
-                <div class="col-lg-9 detail-color">
-                  <div class="detail-img">
-                    <img src="${blog.image}" alt="${blog.title}" />
+const params = new URLSearchParams(window.location.search);
+const blogId = params.get('id');
+
+// JSON se specific blog ka data fetch karna
+fetch('skincare-blogs.json')
+  .then(response => response.json())
+  .then(blogs => {
+    const blog = blogs.find(b => b.id == blogId);
+    const container = document.getElementById('blog-details');
+
+    // Loop through content sections to build the full content
+    let contentHtml = '';
+    blog.content.forEach(item => {
+      if (item.type === 'heading') {
+        contentHtml += `<h${item.level}>${item.text}</h${item.level}>`;
+      } else if (item.type === 'paragraph') {
+        contentHtml += `<p>${item.text}</p>`;
+      }
+    });
+
+    // Add extra images from extra_images array
+    const extraImagesHtml = blog.extra_images.map(image => `
+      <div class="col-6 extra-image">
+        <img src="${image}" alt="Additional Image" class="extra-image-img" />
+      </div>
+    `).join('');
+
+    // Insert the full blog details
+    container.innerHTML = `
+      <div class="main-details">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-9 detail-color">
+              <div class="detail-img">
+                <img src="${blog.image}" alt="${blog.title}" />
+              </div>
+              <div class="main-details-blogs px-4">
+                <div class="blog-styles-part-one px-3">
+                  <h2 class='mb-3'>${blog.title}</h2>
+                  <p>Published on: ${blog.publish_date}</p>
+                  <p class="mt-2">${blog.description}</p>
+                </div>
+               <div class='content-blogs'>
+                     ${contentHtml} 
                   </div>
-                  <div class="main-details-blogs px-4">
-                    <div class="blog-styles-part-one px-3">
-                      <h2 class='mb-3'>${blog.title}</h2>
-                      <p>Published on: ${blog.publish_date}</p>
-                      <p class="mt-2">${blog.description}</p>
-                    </div>
-                   <div class='content-blogs'>
-                         ${contentHtml} 
-                      </div>
-                    <div class="row content-images">
-                      ${extraImagesHtml} <!-- Insert extra images inside a responsive grid -->
-                    </div>
-                  </div>
+                <div class="row content-images">
+                  ${extraImagesHtml} <!-- Insert extra images inside a responsive grid -->
                 </div>
               </div>
             </div>
           </div>
-        `;
-      })
-      .catch(error => console.error('Error fetching blog details:', error));
+        </div>
+      </div>
+    `;
+    
+    // Load the comments related to this blog
+    loadComments(blogId);
+  })
+  .catch(error => console.error('Error fetching blog details:', error));
+
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById("commentForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+    let comment = document.getElementById("comment").value;
+    let timestamp = new Date().toLocaleString();
+
+    if (!name || !email || !comment) {
+      alert("Please fill in all fields!");
+      return;
+    }
+
+    let newComment = { name, email, comment, timestamp };
+
+    // Save to Local Storage (using blogId as key)
+    let comments = JSON.parse(localStorage.getItem(blogId)) || [];
+    comments.push(newComment);
+    localStorage.setItem(blogId, JSON.stringify(comments));
+
+    // Add to UI
+    addCommentToUI(newComment);
+
+    // Clear input fields
+    document.getElementById("name").value = "";
+    document.getElementById("email").value = "";
+    document.getElementById("comment").value = "";
+  });
+});
+
+function loadComments(blogId) {
+  let comments = JSON.parse(localStorage.getItem(blogId)) || [];
+  comments.forEach(addCommentToUI);
+}
+
+function addCommentToUI(commentData) {
+  let commentSection = document.getElementById("commentSection");
+  let commentBox = document.createElement("div");
+  commentBox.classList.add("comment-box");
+
+  // Create a delete button
+  let deleteButton = document.createElement("button");
+  deleteButton.classList.add("delete-button");
+  deleteButton.innerText = "Delete";
+  deleteButton.onclick = function() {
+    deleteComment(commentData);
+    commentSection.removeChild(commentBox);
+  };
+
+  commentBox.innerHTML = `
+    <strong>${commentData.name}</strong> (${commentData.email})
+    <p>${commentData.comment}</p>
+    <span class="comment-time">${commentData.timestamp}</span>
+  `;
+  commentBox.appendChild(deleteButton);
+
+  commentSection.appendChild(commentBox);
+}
+
+function deleteComment(commentData) {
+  // Get the list of comments for the current blog
+  let comments = JSON.parse(localStorage.getItem(blogId)) || [];
+
+  // Remove the comment from the array
+  comments = comments.filter(comment => comment.timestamp !== commentData.timestamp);
+
+  // Save the updated comments back to local storage
+  localStorage.setItem(blogId, JSON.stringify(comments));
+}
+
   </script>
+  
+<h2>Leave a Comment</h2>
+<form id="commentForm">
+    <input type="text" id="name" placeholder="Your Name" required><br><br>
+    <input type="email" id="email" placeholder="Your Email" required><br><br>
+    <textarea id="comment" placeholder="Write your comment..." required></textarea><br><br>
+    <button type="submit">Post Comment</button>
+</form>
+
+<h3>All Comments</h3>
+<div id="commentSection"></div>
+  
   
   <div class="footer py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">
     <div class="container-fluid">
