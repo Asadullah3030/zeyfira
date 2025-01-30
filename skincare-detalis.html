@@ -132,6 +132,8 @@ fetch('skincare-blogs.json')
   })
   .catch(error => console.error('Error fetching blog details:', error));
 
+  // --------------------------------------- comment session is start in here ------------------------
+
 document.addEventListener("DOMContentLoaded", function() {
   document.getElementById("commentForm").addEventListener("submit", function(event) {
     event.preventDefault();
@@ -205,16 +207,33 @@ function deleteComment(commentData) {
 
   </script>
   
-<h2>Leave a Comment</h2>
-<form id="commentForm">
-    <input type="text" id="name" placeholder="Your Name" required><br><br>
-    <input type="email" id="email" placeholder="Your Email" required><br><br>
-    <textarea id="comment" placeholder="Write your comment..." required></textarea><br><br>
-    <button type="submit">Post Comment</button>
-</form>
+  <div class="main-details">
+  <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9 detail-color">
+                    <div class="comment-session py-4">
+                      <h3 class="py-4">Leave a Comment</h3>
+                      <form id="commentForm">
+                          <div class="d-flex justify-content-around align-items-center comment-input-NE">
+                            <input type="text" id="name" placeholder="Your Name" required><br><br>
+                            <input type="email" id="email" placeholder="Your Email" required><br><br>
+                            
+                          </div>
+                          <textarea id="comment" placeholder="Write your comment..." required></textarea><br><br>
+                          <button type="submit" class="blog-main-button mb-4">Post Comment</button>
+                      </form>
+                    
+                      <h3 class="py-3">All Comments</h3>
+                      <hr>
+                      <div id="commentSection" class="py-3"></div>                      
+                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
-<h3>All Comments</h3>
-<div id="commentSection"></div>
+  
+
   
   
   <div class="footer py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">
