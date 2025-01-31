@@ -115,6 +115,21 @@
         "type": "paragraph",
         "text": "By incorporating these 10 must-have skincare products into your routine, you'll be on your way to glowing, radiant skin in no time! Remember to find products that suit your skin type and needs for the best results."
       }
+    ],
+
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "skincare is done",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "hohohoho",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -266,6 +281,20 @@
     "extra_images": [
       "./images/skincare-images/two/MorningRoutine.webp",
       "./images/skincare-images/two/NightSkincareRoutine.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "skincare",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "mubarak",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -334,6 +363,21 @@
     "extra_images": [
       "./images/skincare-images/three/Natural1.webp",
       "./images/skincare-images/three/Natural2.webp"
+    ],
+
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "mucher",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "kachal",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -411,6 +455,20 @@
     "extra_images": [
       "./images/skincare-images/four/OilySkin2.webp",
       "./images/skincare-images/four/OilySkin1.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "skincare data",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "dalu skincare",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -524,6 +582,20 @@
     "extra_images": [
       "./images/skincare-images/five/RadiantSkin1.webp",
       "./images/skincare-images/five/RadiantSkin2.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "import skincare",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "skincare mal",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -655,6 +727,20 @@
     "extra_images": [
       "./images/skincare-images/six/ShouldAvoid.webp",
       "./images/skincare-images/six/ShouldAvoid1.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "showers skincare",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "mala skincare",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -786,6 +872,20 @@
     "extra_images": [
       "./images/skincare-images/seven/winter2.webp",
       "./images/skincare-images/seven/winter1.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "skincaress",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "skincare products",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   }
 

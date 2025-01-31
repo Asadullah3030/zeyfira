@@ -82,7 +82,6 @@ fetch('makeup-blogs.json')
     const blog = blogs.find(b => b.id == blogId);
     const container = document.getElementById('blog-details');
 
-    // Loop through content sections to build the full content
     let contentHtml = '';
     blog.content.forEach(item => {
       if (item.type === 'heading') {
@@ -92,14 +91,26 @@ fetch('makeup-blogs.json')
       }
     });
 
-    // Add extra images from extra_images array
+    // Extra images section
     const extraImagesHtml = blog.extra_images.map(image => `
       <div class="col-6 extra-image">
         <img src="${image}" alt="Additional Image" class="extra-image-img" />
       </div>
     `).join('');
 
-    // Insert the full blog details
+    // **Products Section**
+    const productsHtml = blog.products.map(product => `
+      <div class="product">
+        <a href="${product.link}" target="_blank">
+          <img src="${product.image}" alt="${product.title}">
+        </a>
+        <h3>${product.title}</h3>
+        <p>${product.description}</p>
+        <a href="${product.link}" class="buy-btn" target="_blank">Buy Now</a>
+      </div>
+    `).join('');
+
+    // **Insert HTML Content**
     container.innerHTML = `
       <div class="main-details">
         <div class="container">
@@ -114,11 +125,15 @@ fetch('makeup-blogs.json')
                   <p>Published on: ${blog.publish_date}</p>
                   <p class="mt-2">${blog.description}</p>
                 </div>
-               <div class='content-blogs'>
-                     ${contentHtml} 
-                  </div>
+                <div class='content-blogs'>
+                  ${contentHtml} 
+                </div>
                 <div class="row content-images">
                   ${extraImagesHtml} <!-- Insert extra images inside a responsive grid -->
+                </div>
+                <div class="product-section">
+                  <h2>Recommended Products</h2>
+                  ${productsHtml} <!-- Show Products -->
                 </div>
               </div>
             </div>
@@ -126,8 +141,8 @@ fetch('makeup-blogs.json')
         </div>
       </div>
     `;
-    
-    // Load the comments related to this blog
+
+    // Load comments
     loadComments(blogId);
   })
   .catch(error => console.error('Error fetching blog details:', error));
@@ -216,6 +231,16 @@ fetch('makeup-blogs.json')
             </div>
           </div>
         </div>
+
+
+        <!-- <div class="product">
+          <a href="https://amzn.to/3X4YOir" target="_blank">
+              <img src="PRODUCT_IMAGE_URL" alt="Product Title">
+          </a>
+          <h3>Product Title</h3>
+          <p>Short description of the product.</p>
+          <a href="https://amzn.to/3X4YOir" class="buy-btn" target="_blank">Buy Now</a>
+      </div> -->
   
 
   <div class="footer py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">

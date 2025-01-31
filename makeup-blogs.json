@@ -145,6 +145,21 @@
     "extra_images": [
       "./images/makeup-images/one/NaturalMakeup.webp",
       "./images/makeup-images/one/NaturalMakeup1.webp"
+    ],
+
+   "products": [
+      {
+        "image": "product1.jpg",
+        "title": "Foundation",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "Lipstick",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -258,6 +273,21 @@
     "extra_images": [
       "./images/makeup-images/two/YouMustTry.webp",
       "./images/makeup-images/two/YouMustTry1.webp"
+    ],
+
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "lalal",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "mamamma",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -383,6 +413,20 @@
     "extra_images": [
       "./images/makeup-images/three/Flawless.webp",
       "./images/makeup-images/three/Flawless1.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "zayfira",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "asadfrontend",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -490,6 +534,21 @@
     "extra_images": [
       "./images/makeup-images/four/SkinTone.webp",
       "./images/makeup-images/four/SkinTone1.webp"
+    ],
+
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "dil dil ",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "istanbul",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -576,6 +635,20 @@
     "extra_images": [
       "./images/makeup-images/five/BusyMornings.webp",
       "./images/makeup-images/five/BusyMornings1.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "mubarak",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "bad",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -662,6 +735,20 @@
     "extra_images": [
       "./images/makeup-images/six/SensitiveSkin1.webp",
       "./images/makeup-images/six/SensitiveSkin.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "usman",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "khazi",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   },
 
@@ -739,6 +826,20 @@
     "extra_images": [
       "./images/makeup-images/seven/Tutorial.webp",
       "./images/makeup-images/seven/Tutorial1.webp"
+    ],
+    "products": [
+      {
+        "image": "product1.jpg",
+        "title": "froms",
+        "description": "A high-quality foundation for a smooth finish.",
+        "link": "https://amzn.to/3X4YOir"
+      },
+      {
+        "image": "product2.jpg",
+        "title": "info",
+        "description": "Long-lasting and hydrating lipstick.",
+        "link": "https://amzn.to/4Y5KJwP"
+      }
     ]
   }
 
