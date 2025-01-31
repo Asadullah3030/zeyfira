@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Top 5 Haircare Tips for Long and Healthy Hair",
+        "image": "./images/haircare-images/one/LongandHealthyHair.webp",
+        "publish_date": "February 2, 2025",
+        "description": "Discover the top expert-approved haircare tips to keep your hair long, strong, and healthy.",
+        "content": [
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "1. Nourish Your Hair with a Healthy Diet"
+          },
+          {
+            "type": "paragraph",
+            "text": "Your hair’s health starts from within! Eating a balanced diet rich in vitamins and proteins is essential for hair growth."
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "2. Trim Your Hair Regularly"
+          },
+          {
+            "type": "paragraph",
+            "text": "Trimming your hair every 6-8 weeks helps prevent split ends and promotes healthier hair growth."
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "3. Avoid Excessive Heat Styling"
+          },
+          {
+            "type": "paragraph",
+            "text": "Too much heat can damage your hair, making it dry and prone to breakage."
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "4. Choose the Right Hair Products"
+          },
+          {
+            "type": "paragraph",
+            "text": "Using the right haircare products tailored to your hair type is crucial for maintaining healthy hair."
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "5. Massage Your Scalp Regularly"
+          },
+          {
+            "type": "paragraph",
+            "text": "Massaging your scalp increases blood circulation, which promotes hair growth."
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "Conclusion"
+          },
+          {
+            "type": "paragraph",
+            "text": "Achieving long and healthy hair requires dedication and a proper haircare routine."
+          }
+        ],
+        "extra_images": [
+          "./images/haircare-images/one/HealthyHair.webp",
+          "./images/haircare-images/one/HealthyHair1.webp"
+        ],
+        "products": [
+            {
+              "image": "product1.jpg",
+              "title": "haircare is done",
+              "description": "A high-quality foundation for a smooth finish.",
+              "link": "https://amzn.to/3X4YOir"
+            },
+            {
+              "image": "product2.jpg",
+              "title": "hair",
+              "description": "Long-lasting and hydrating lipstick.",
+              "link": "https://amzn.to/4Y5KJwP"
+            }
+          ]
+      }
+      
+    ]
