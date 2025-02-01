@@ -79,6 +79,632 @@
               "link": "https://amzn.to/4Y5KJwP"
             }
           ]
-      }
+    },
+
+    {
+      "id": 2,
+      "title": "DIY Hair Masks for Dry and Damaged Hair",
+      "image": "./images/haircare-images/two/DryandDamagedHair.webp",
+      "publish_date": "February 3, 2025",
+      "description": "Try these easy and natural DIY hair masks to restore moisture and repair dry, damaged hair.",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "1. Avocado and Honey Hair Mask"
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask is perfect for deep hydration and repairing dry, brittle hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "2. Banana and Coconut Oil Hair Mask"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bananas are rich in potassium and vitamins that help strengthen hair, while coconut oil deeply moisturizes."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "3. Yogurt and Egg Hair Mask"
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask adds protein and moisture to your hair, making it stronger and shinier."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "4. Aloe Vera and Castor Oil Hair Mask"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aloe vera soothes the scalp and hydrates hair, while castor oil promotes hair growth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "5. Milk and Honey Hair Mask"
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask works as a natural conditioner, leaving your hair soft and smooth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "These DIY hair masks are easy to make and use natural ingredients to restore moisture and shine to dry, damaged hair."
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/two/DamagedHair.webp",
+        "./images/haircare-images/two/DamagedHair1.webp"
+      ],
+
+      "products": [
+        {
+          "image": "product1.jpg",
+          "title": "haircare is done",
+          "description": "A high-quality foundation for a smooth finish.",
+          "link": "https://amzn.to/3X4YOir"
+        },
+        {
+          "image": "product2.jpg",
+          "title": "hair",
+          "description": "Long-lasting and hydrating lipstick.",
+          "link": "https://amzn.to/4Y5KJwP"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Trending Hairstyles for Women in 2025",
+      "image": "./images/haircare-images/three/HairstylesforWomenin2025.webp",
+      "publish_date": "February 4, 2025",
+      "description": "Discover the top hairstyle trends for women in 2025, from chic bobs to elegant updos, and find the perfect look for you!",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "1. Blunt Bob Cut"
+        },
+        {
+          "type": "paragraph",
+          "text": "A timeless and chic hairstyle, the blunt bob cut is making waves in 2025. It’s sleek, sophisticated, and perfect for those who love a low-maintenance yet stylish look."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "2. Curtain Bangs with Long Layers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Curtain bangs have been popular for a while, and in 2025, they continue to shine. Paired with long layers, this look adds volume and softness to your hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "3. The Butterfly Haircut"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inspired by the ’90s, the butterfly haircut is all about volume and layers. It creates a flowy, feathered effect that looks stunning on medium to long hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "4. Pixie Cut with Textured Layers"
+        },
+        {
+          "type": "paragraph",
+          "text": "For those who love short hair, the textured pixie cut is a bold and confident choice. It enhances natural volume and gives a stylish, effortless look."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "5. Sleek High Ponytail"
+        },
+        {
+          "type": "paragraph",
+          "text": "A sleek high ponytail remains a classic and trendy choice for 2025. Whether for casual days or glamorous events, this hairstyle adds an instant lift and elegance."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "6. Soft Waves with a Middle Part"
+        },
+        {
+          "type": "paragraph",
+          "text": "Soft, natural waves with a center part create a youthful and effortless look. It’s a go-to style for both casual and formal occasions."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "7. Braided Updos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Braided updos are making a comeback, combining elegance with practicality. They work beautifully for weddings, special occasions, or even a polished everyday look."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "2025 is all about embracing versatile and stylish hairstyles that complement different face shapes and hair types. Whether you prefer short and edgy or long and elegant, there’s a perfect trendy hairstyle waiting for you this year!"
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/three/Womenin2025.webp",
+        "./images/haircare-images/three/Womenin2025a.webp"
+      ],
+
+      "products": [
+        {
+          "image": "product1.jpg",
+          "title": "haircare is done",
+          "description": "A high-quality foundation for a smooth finish.",
+          "link": "https://amzn.to/3X4YOir"
+        },
+        {
+          "image": "product2.jpg",
+          "title": "hair",
+          "description": "Long-lasting and hydrating lipstick.",
+          "link": "https://amzn.to/4Y5KJwP"
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "title": "How to Control Hair Fall with Natural Remedies",
+      "image": "./images/haircare-images/four/FallwithNaturalRemedies.webp",
+      "publish_date": "February 4, 2025",
+      "description": "Discover the best natural remedies to prevent hair fall and promote healthy hair growth using simple home treatments.",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "1. Coconut Oil Massage"
+        },
+        {
+          "type": "paragraph",
+          "text": "Coconut oil is packed with essential fatty acids and vitamins that nourish the scalp and strengthen hair roots."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "2. Aloe Vera Gel"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aloe vera has soothing and healing properties that reduce scalp inflammation and promote hair growth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "3. Onion Juice Treatment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Onion juice is rich in sulfur, which boosts collagen production and helps in hair regrowth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "4. Fenugreek (Methi) Seeds"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fenugreek seeds contain proteins and nicotinic acid that strengthen hair follicles and prevent breakage."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "5. Green Tea Rinse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Green tea is rich in antioxidants that reduce hair fall and stimulate hair growth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "6. Egg Hair Mask"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eggs are loaded with protein and biotin, which help in hair strengthening and reducing hair fall."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "7. Healthy Diet for Hair Growth"
+        },
+        {
+          "type": "paragraph",
+          "text": "A balanced diet plays a crucial role in preventing hair fall. Include protein-rich foods like eggs and lentils, iron-rich foods like spinach, and omega-3 fatty acids from walnuts."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Natural remedies can significantly reduce hair fall and promote healthier hair growth. Regular oil massages, herbal treatments, and a nutrient-rich diet will strengthen your hair over time."
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/four/Remedies.webp",
+        "./images/haircare-images/four/Remedies1.webp"
+      ],
+
+      "products": [
+        {
+          "image": "product1.jpg",
+          "title": "haircare is done",
+          "description": "A high-quality foundation for a smooth finish.",
+          "link": "https://amzn.to/3X4YOir"
+        },
+        {
+          "image": "product2.jpg",
+          "title": "hair",
+          "description": "Long-lasting and hydrating lipstick.",
+          "link": "https://amzn.to/4Y5KJwP"
+        }
+      ]
+    },
+
+    {
+      "id":5,
+      "title": "Best Hair Oils for Faster Hair Growth",
+      "image": "./images/haircare-images/five/FasterHairGrowth.webp",
+      "publish_date": "February 5, 2025",
+      "description": "Discover the top natural hair oils that promote faster hair growth, strengthen roots, and keep your hair healthy and shiny.",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "1. Coconut Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Coconut oil deeply penetrates the hair shaft, prevents protein loss, and keeps the scalp moisturized."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "2. Castor Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rich in ricinoleic acid and vitamin E, castor oil increases blood circulation to the scalp and strengthens hair follicles."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "3. Argan Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Often called ‘liquid gold,’ argan oil is packed with antioxidants and vitamin E, making it perfect for nourishing dry and frizzy hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "4. Olive Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Olive oil is rich in antioxidants and essential nutrients that prevent hair thinning, strengthen hair strands, and promote healthy growth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "5. Almond Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Almond oil contains magnesium, biotin, and vitamin E, which are essential for stronger, healthier hair and reducing hair loss."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "6. Onion Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Onion oil is packed with sulfur, which boosts collagen production and improves hair growth while preventing breakage and split ends."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "7. Jojoba Oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jojoba oil closely mimics the scalp’s natural oils, making it ideal for dry or sensitive scalps. It helps unclog hair follicles and promotes new hair growth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Using natural oils regularly can greatly improve hair health, reduce hair fall, and speed up hair growth. Choose the best oil based on your hair type and needs, and enjoy healthy, shiny, and longer hair naturally!"
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/five/HairGrowth.webp",
+        "./images/haircare-images/five/HairGrowth1.webp"
+      ],
+
+      "products": [
+        {
+          "image": "product1.jpg",
+          "title": "haircare is done",
+          "description": "A high-quality foundation for a smooth finish.",
+          "link": "https://amzn.to/3X4YOir"
+        },
+        {
+          "image": "product2.jpg",
+          "title": "hair",
+          "description": "Long-lasting and hydrating lipstick.",
+          "link": "https://amzn.to/4Y5KJwP"
+        }
+      ]
+
+    },
+
+    {
+      "id": 6,
+      "title": "Step-by-Step Guide to Curl Your Hair at Home",
+      "image": "./images/haircare-images/six/YourHairatHome.webp",
+      "publish_date": "February 5, 2025",
+      "description": "Learn how to curl your hair at home with this easy step-by-step guide. Get perfect curls with or without heat!",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Tools You’ll Need"
+        },
+        {
+          "type": "paragraph",
+          "text": "To achieve perfect curls at home, you’ll need a curling iron or wand, a heat protectant spray, hair clips or ties to section your hair, and a hairbrush or comb. Rollers or flexi rods are great alternatives for heatless curls, and using a hairspray or setting spray will help lock in your style."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Step 1: Prepare Your Hair"
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with clean, dry hair. If your hair is damp, blow-dry it completely before curling. Apply a heat protectant spray to prevent damage and ensure smooth curls."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Step 2: Section Your Hair"
+        },
+        {
+          "type": "paragraph",
+          "text": "Divide your hair into small sections using hair clips. This helps in curling evenly and achieving a more defined look."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Step 3: Choose the Right Curling Tool"
+        },
+        {
+          "type": "paragraph",
+          "text": "The size of the curling tool determines the type of curls. For loose waves, use a large-barrel curling iron (1.5–2 inches). For tight curls, a small-barrel curling wand (0.5–1 inch) works best. If you prefer heatless curls, try using rollers or braiding your hair overnight."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Step 4: Start Curling"
+        },
+        {
+          "type": "paragraph",
+          "text": "Take a small section of hair, about one inch wide, and wrap it around the curling iron, starting from the mid-lengths. Hold it for 8–10 seconds, then gently release. Repeat this process for all sections of your hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Step 5: Let the Curls Set"
+        },
+        {
+          "type": "paragraph",
+          "text": "After curling, allow your hair to cool down completely before touching it. This helps the curls hold their shape for a longer time."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Step 6: Style and Finish"
+        },
+        {
+          "type": "paragraph",
+          "text": "Once the curls have cooled, use your fingers to loosen them for a more natural look. Lightly spray hairspray to hold the style and reduce frizz. For extra volume, flip your hair upside down and gently shake it."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Bonus: Heatless Curling Method"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you prefer to avoid heat, try using flexi rods, rollers, or braiding damp hair overnight. These methods create soft, natural waves without heat damage."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Curling your hair at home is simple and fun! By following these steps, you can create stunning curls that last all day. Experiment with different techniques and find the style that works best for you!"
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/six/Home1.webp",
+        "./images/haircare-images/six/Home.webp"
+      ],
+      "products": [
+        {
+          "image": "product1.jpg",
+          "title": "Heat Protectant Spray",
+          "description": "A must-have spray to shield hair from heat damage.",
+          "link": "https://amzn.to/3X4YOir"
+        },
+        {
+          "image": "product2.jpg",
+          "title": "Curling Iron",
+          "description": "A professional curling iron for long-lasting curls.",
+          "link": "https://amzn.to/4Y5KJwP"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "title": "Common Haircare Mistakes That Damage Your Hair",
+      "image": "./images/haircare-images/seven/DamageYourHair.webp",
+      "publish_date": "February 6, 2025",
+      "description": "Many people unknowingly damage their hair through simple mistakes. Learn how to avoid these haircare errors to keep your hair strong and healthy.",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Washing Hair Too Often"
+        },
+        {
+          "type": "paragraph",
+          "text": "Washing your hair daily strips away its natural oils, making it dry and brittle. Try to wash your hair 2–3 times a week to maintain moisture balance."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Using Hot Water"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hot water can weaken hair strands and cause frizz. Always rinse with lukewarm or cool water to protect your hair and enhance its shine."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Overusing Heat Styling Tools"
+        },
+        {
+          "type": "paragraph",
+          "text": "Excessive use of straighteners, curling irons, and blow dryers can weaken hair over time. Always apply a heat protectant and use these tools on a low to medium setting."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Brushing Wet Hair Aggressively"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wet hair is more fragile and prone to breakage. Instead of using a regular brush, opt for a wide-tooth comb to gently detangle your hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Skipping Hair Trims"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not trimming your hair regularly leads to split ends, which make your hair appear dull and lifeless. Schedule a trim every 6–8 weeks to maintain healthy hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Applying Too Much Conditioner on the Scalp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conditioner is meant for the hair lengths and ends, not the scalp. Applying it on the scalp can lead to buildup, making hair greasy and limp."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Tying Hair Too Tightly"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tight hairstyles like high ponytails or buns can cause tension on the roots, leading to hair breakage and even hair loss over time."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Ignoring a Healthy Diet"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your hair needs proper nutrients to stay strong and shiny. A diet lacking in protein, vitamins, and essential fatty acids can result in dull, weak hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Using the Wrong Hair Products"
+        },
+        {
+          "type": "paragraph",
+          "text": "Using harsh shampoos with sulfates or alcohol-based products can dry out your hair. Choose products that suit your hair type and avoid chemicals that strip moisture."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Sleeping with Wet Hair"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sleeping with damp hair can cause friction, leading to tangles and breakage. Dry your hair before bed or use a silk pillowcase to reduce damage."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taking care of your hair properly requires avoiding these common mistakes. By making small changes in your routine, you can achieve healthier, shinier, and stronger hair."
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/seven/Hair.webp",
+        "./images/haircare-images/seven/Hair1.webp"
+      ],
+      
+      "products": [
+        {
+          "image": "product1.jpg",
+          "title": "Sulfate-Free Shampoo",
+          "description": "A gentle shampoo that cleanses without stripping natural oils.",
+          "link": "https://amzn.to/3X4YOir"
+        },
+        {
+          "image": "product2.jpg",
+          "title": "Heat Protectant Spray",
+          "description": "Protects hair from heat damage caused by styling tools.",
+          "link": "https://amzn.to/4Y5KJwP"
+        }
+      ]
+    }
+    
+    
       
     ]

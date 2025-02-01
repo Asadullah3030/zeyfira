@@ -689,4 +689,6 @@ h1,h2,h3,p,span{
     border-radius: 4px;
     text-decoration: none;
   }
-  
+  .product-section{
+    padding: 0px 0px 25px 0;
+  }
