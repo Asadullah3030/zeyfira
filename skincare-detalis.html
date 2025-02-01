@@ -106,8 +106,8 @@ fetch('skincare-blogs.json')
           <img src="${product.image}" alt="${product.title}">
         </a>
         <h3>${product.title}</h3>
-        <p>${product.description}</p>
-        <a href="${product.link}" class="buy-btn" target="_blank">Buy Now</a>
+         <p class='py-3'>${product.description}</p>
+        <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
       </div>
     `).join('');
 
@@ -134,8 +134,16 @@ fetch('skincare-blogs.json')
                 </div>
 
                  <div class="product-section">
-                  <h2>Recommended Products</h2>
-                  ${productsHtml} <!-- Show Products -->
+                  <h2 class='py-3'>Recommended Products</h2>
+                 <div class='final-products'>
+                           <div class='container'>
+                                <div class='row justify-content-center'>
+                                        <div class='col-lg-10 col-12'>
+                                                 ${productsHtml} <!-- Show Products -->
+                                          </div>
+                                  </div>
+                            </div>
+                  </div>
                 </div>
               </div>
             </div>

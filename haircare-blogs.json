@@ -67,16 +67,16 @@
         ],
         "products": [
             {
-              "image": "product1.jpg",
-              "title": "haircare is done",
-              "description": "A high-quality foundation for a smooth finish.",
-              "link": "https://amzn.to/3X4YOir"
+              "image": "https://m.media-amazon.com/images/I/61D3LUGRYKL._SX679_.jpg",
+              "title": "OGX Nourishing Coconut Milk Shampoo – Hydrating, Paraben & Sulfate-Free, 25.4 fl. oz",
+              "description": "HYDRATE & RESTORE: This 25.4-fluid ounce bottle of OGX Nourishing + Coconut Milk Shampoo with an intensely moisturizing formula immediately softens hair after the first use & helps strengthen & hydrate dry, damaged, & frizzy hair",
+              "link": "https://amzn.to/417vVod"
             },
             {
-              "image": "product2.jpg",
-              "title": "hair",
-              "description": "Long-lasting and hydrating lipstick.",
-              "link": "https://amzn.to/4Y5KJwP"
+              "image": "https://m.media-amazon.com/images/I/61V+npWR6hL._SX522_.jpg",
+              "title": "Moroccanoil Treatment",
+              "description": "detangles, and boosts shine by up to 118%.*",
+              "link": "https://amzn.to/40XlJhO"
             }
           ]
     },
