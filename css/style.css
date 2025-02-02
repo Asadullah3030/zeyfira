@@ -529,6 +529,12 @@ h1,h2,h3,p,span{
     gap: 25px;
     padding: 10px 60px;
 }
+
+@media screen and (max-width:500px) {
+    #blogs-container {
+        padding: 10px 40px;
+    }
+}
 .blog-card h4{
     margin-top: 1rem;
 }
@@ -580,7 +586,7 @@ h1,h2,h3,p,span{
     padding: 20px 15px;
 }
 .content-blogs p{
-    padding: 1rem 1rem;
+    padding: 0.5rem 0.6rem;
 }
 .content-blogs h4{
     padding: 10px 0 0 0 ;
@@ -590,6 +596,12 @@ h1,h2,h3,p,span{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+  }
+
+  @media screen and (max-width:500px) {
+    .detail-img img {
+        padding: 20px;
+    }
   }
   
   .extra-image {
