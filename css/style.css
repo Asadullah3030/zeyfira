@@ -98,7 +98,7 @@ h1,h2,h3,p,span{
     padding: 120px 0px 0 0;
 }
 .hero-function h1{
-    color: #739b89;
+    color: #ebebeb;
 }
 .hero-function h2{
     font-family: "Emilys Candy", serif;
@@ -680,10 +680,6 @@ h1,h2,h3,p,span{
     border-radius: 5px;
   }
   
- 
   .product-section{
     padding: 0px 0px 25px 0;
-  }
-  .final-products{
-    display: flex;
   }
