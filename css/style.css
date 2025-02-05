@@ -695,3 +695,9 @@ h1,h2,h3,p,span{
   .product-section{
     padding: 0px 0px 25px 0;
   }
+  .policy h2,h3{
+    font-family: "Emilys Candy", serif;
+  }
+.terms h2,h3{
+    font-family: "Emilys Candy", serif;
+  }
