@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Beginner’s Guide to Everyday Natural Makeup",
     "image": "./images/makeup-images/one/EverydayNaturalMakeup.webp",
-    "publish_date": "January 28, 2025",
+    "publish_date": "January 8, 2025",
     "description": "Learn how to achieve a simple, natural makeup look with this step-by-step guide for beginners.",
     "content": [
       {
@@ -167,7 +167,7 @@
     "id": 2,
     "title": "Top 5 Affordable Makeup Brands You Must Try",
     "image": "./images/makeup-images/two/AffordableMakeupBrandsYouMustTry.webp",
-    "publish_date": "January 29, 2025",
+    "publish_date": "January 10, 2025",
     "description": "Discover the top 10 budget-friendly makeup brands that offer high-quality products without breaking the bank.",
     "content": [
       {
@@ -295,7 +295,7 @@
     "id": 3,
     "title": "Step-by-Step Guide to Achieve a Flawless Foundation Look",
     "image": "./images/makeup-images/three/FlawlessFoundationLook.webp",
-    "publish_date": "January 29, 2025",
+    "publish_date": "January 12, 2025",
     "description": "Learn how to apply foundation like a pro with this step-by-step guide for a flawless, long-lasting makeup base.",
     "content": [
       {
@@ -434,7 +434,7 @@
     "id": 4,
     "title": "How to Choose the Right Lipstick Shade for Your Skin Tone",
     "image": "./images/makeup-images/four/LipstickShadeforYourSkinTone.webp",
-    "publish_date": "January 30, 2025",
+    "publish_date": "January 14, 2025",
     "description": "Learn how to choose the perfect lipstick shade based on your skin tone and undertones for a flattering and stunning look.",
     "content": [
       {
@@ -556,7 +556,7 @@
     "id": 5,
     "title": "5-Minute Quick Makeup Routine for Busy Mornings",
     "image": "./images/makeup-images/five/RoutineforBusyMornings.webp",
-    "publish_date": "January 30, 2025",
+    "publish_date": "January 16, 2025",
     "description": "A quick and easy makeup routine that will have you looking fresh and put together in just 5 minutes for those busy mornings.",
     "content": [
       {
@@ -656,7 +656,7 @@
     "id": 6,
     "title": "Best Makeup Products for Sensitive Skin",
     "image": "./images/makeup-images/six/ProductsforSensitiveSkin.webp",
-    "publish_date": "February 1, 2025",
+    "publish_date": "January 18, 2025",
     "description": "Discover the best makeup products designed for sensitive skin that offer coverage, hydration, and long-lasting wear without causing irritation.",
     "content": [
       {
@@ -751,7 +751,5 @@
       }
     ]
   }
-
- 
 
   ]
