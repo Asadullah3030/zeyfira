@@ -575,10 +575,135 @@
           "link": "https://amzn.to/4hzrdW5"
         }
       ]
-    }
+    },
 
-  
-    
+    {
+      "id": 7,
+      "title": "Common Haircare Mistakes That Damage Your Hair",
+      "image": "./images/haircare-images/seven/DamageYourHair.webp",
+      "publish_date": "February 6, 2025",
+      "description": "Many people unknowingly damage their hair through simple mistakes. Learn how to avoid these haircare errors to keep your hair strong and healthy.",
+      "content": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Washing Hair Too Often"
+        },
+        {
+          "type": "paragraph",
+          "text": "Washing your hair daily strips away its natural oils, making it dry and brittle. Try to wash your hair 2–3 times a week to maintain moisture balance."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Using Hot Water"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hot water can weaken hair strands and cause frizz. Always rinse with lukewarm or cool water to protect your hair and enhance its shine."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Overusing Heat Styling Tools"
+        },
+        {
+          "type": "paragraph",
+          "text": "Excessive use of straighteners, curling irons, and blow dryers can weaken hair over time. Always apply a heat protectant and use these tools on a low to medium setting."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Brushing Wet Hair Aggressively"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wet hair is more fragile and prone to breakage. Instead of using a regular brush, opt for a wide-tooth comb to gently detangle your hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Skipping Hair Trims"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not trimming your hair regularly leads to split ends, which make your hair appear dull and lifeless. Schedule a trim every 6–8 weeks to maintain healthy hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Applying Too Much Conditioner on the Scalp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conditioner is meant for the hair lengths and ends, not the scalp. Applying it on the scalp can lead to buildup, making hair greasy and limp."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Tying Hair Too Tightly"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tight hairstyles like high ponytails or buns can cause tension on the roots, leading to hair breakage and even hair loss over time."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Ignoring a Healthy Diet"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your hair needs proper nutrients to stay strong and shiny. A diet lacking in protein, vitamins, and essential fatty acids can result in dull, weak hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Using the Wrong Hair Products"
+        },
+        {
+          "type": "paragraph",
+          "text": "Using harsh shampoos with sulfates or alcohol-based products can dry out your hair. Choose products that suit your hair type and avoid chemicals that strip moisture."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Sleeping with Wet Hair"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sleeping with damp hair can cause friction, leading to tangles and breakage. Dry your hair before bed or use a silk pillowcase to reduce damage."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taking care of your hair properly requires avoiding these common mistakes. By making small changes in your routine, you can achieve healthier, shinier, and stronger hair."
+        }
+      ],
+      "extra_images": [
+        "./images/haircare-images/seven/Hair.webp",
+        "./images/haircare-images/seven/Hair1.webp"
+      ],
+      
+      "products": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71ott29sfCL._SX425_.jpg",
+          "title": "Tresemme, Shampoo Nourish Coconut Milk & Aloe, 28 Fl Oz",
+          "description": "A gentle shampoo that cleanses without stripping natural oils.",
+          "link": "https://amzn.to/3WFk3qE"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/I/3161+oXScWL._SY300_SX300_.jpg",
+          "title": "Wet Brush Detangling Comb, Black - Wide Tooth Hair Detangler with WaveTooth Design",
+          "description": "Detangling Comb: Meet the Wet Brush Detangling Comb. It's a great tool to comb through conditioner and hair masks for thorough and even coverage.",
+          "link": "https://amzn.to/4hjIvWW"
+        }
+      ]
+    }
     
       
     ]
