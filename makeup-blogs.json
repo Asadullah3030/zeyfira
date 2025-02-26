@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Beginner’s Guide to Everyday Natural Makeup",
-    "image": "./images/makeup-images/one/EverydayNaturalMakeup.webp",
+    "title": "Beginner’s Guide to Everyday Natural Makeup – Step-by-Step Tutorial",
+    "image": "./images/makeup-images/one/Everyday-Natural-Makeup-Step-By-Step.webp",
     "publish_date": "January 8, 2025",
-    "description": "Learn how to achieve a simple, natural makeup look with this step-by-step guide for beginners.",
+    "description": "Achieve a flawless, natural makeup look with this step-by-step tutorial. Learn how to prep your skin, apply foundation, and create an effortless beauty routine.",
     "content": [
       {
         "type": "heading",
@@ -143,8 +143,8 @@
       }
     ],
     "extra_images": [
-      "./images/makeup-images/one/NaturalMakeup.webp",
-      "./images/makeup-images/one/NaturalMakeup1.webp"
+      "./images/makeup-images/one/flawless-finish-foundation-lightweight.webp",
+      "./images/makeup-images/one/natural-makeup-look-foundation.webp"
     ],
 
    "products": [
@@ -165,15 +165,24 @@
 
   {
     "id": 2,
-    "title": "Top 5 Affordable Makeup Brands You Must Try",
-    "image": "./images/makeup-images/two/AffordableMakeupBrandsYouMustTry.webp",
+    "title": "Best Affordable Makeup Brands for High-Quality Beauty on a Budget",
+    "image": "./images/makeup-images/two/best-affordable-makeup-brands.webp",
     "publish_date": "January 10, 2025",
-    "description": "Discover the top 10 budget-friendly makeup brands that offer high-quality products without breaking the bank.",
+    "description": "Looking for high-quality yet affordable makeup brands? Discover the top 5 budget-friendly beauty brands that deliver amazing results without breaking the bank.",
     "content": [
       {
         "type": "heading",
+        "level": 3,
+        "text": "Top 5 Affordable Makeup Brands You Must Try"
+      },
+      {
+        "type": "paragraph",
+        "text": "You don't need to spend a fortune to look fabulous! Here are five makeup brands that offer exceptional quality at budget-friendly prices."
+      },
+      {
+        "type": "heading",
         "level": 4,
-        "text": "1. e.l.f. Cosmetics"
+        "text": "1. e.l.f. Cosmetics - Quality on a Budget"
       },
       {
         "type": "paragraph",
@@ -182,7 +191,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "Must-Try Products:"
+        "text": "Must-Try Products:" 
       },
       {
         "type": "paragraph",
@@ -191,7 +200,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "2. Maybelline"
+        "text": "2. Maybelline - Drugstore Favorite"
       },
       {
         "type": "paragraph",
@@ -200,7 +209,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "Must-Try Products:"
+        "text": "Must-Try Products:" 
       },
       {
         "type": "paragraph",
@@ -209,7 +218,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "3. NYX Professional Makeup"
+        "text": "3. NYX Professional Makeup - Bold & Affordable"
       },
       {
         "type": "paragraph",
@@ -218,7 +227,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "Must-Try Products:"
+        "text": "Must-Try Products:" 
       },
       {
         "type": "paragraph",
@@ -227,7 +236,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "4. Wet n Wild"
+        "text": "4. Wet n Wild - Trendy & Budget-Friendly"
       },
       {
         "type": "paragraph",
@@ -236,7 +245,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "Must-Try Products:"
+        "text": "Must-Try Products:" 
       },
       {
         "type": "paragraph",
@@ -245,7 +254,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "5. Essence Cosmetics"
+        "text": "5. Essence Cosmetics - Hidden Gem in Beauty"
       },
       {
         "type": "paragraph",
@@ -254,7 +263,7 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "Must-Try Products:"
+        "text": "Must-Try Products:" 
       },
       {
         "type": "paragraph",
@@ -263,29 +272,28 @@
       {
         "type": "heading",
         "level": 4,
-        "text": "Conclusion"
+        "text": "Final Thoughts"
       },
       {
         "type": "paragraph",
-        "text": "You don’t need to spend a fortune to get high-quality makeup products. These budget-friendly brands offer amazing quality, performance, and variety, making them must-tries for any makeup lover."
+        "text": "High-quality makeup doesn’t have to be expensive! These affordable brands offer stunning products that deliver professional results on a budget."
       }
     ],
     "extra_images": [
-      "./images/makeup-images/two/YouMustTry.webp",
-      "./images/makeup-images/two/YouMustTry1.webp"
+      "./images/makeup-images/two/budget-makeup-collection.webp",
+      "./images/makeup-images/two/must-have-affordable-makeup.webp"
     ],
-
     "products": [
       {
         "image": "https://m.media-amazon.com/images/I/715MyaLxCdL._SX425_.jpg",
-        "title": "Maybelline Fit Me Matte + Poreless Liquid Oil-Free Foundation Makeup, Natural Ivory, 1 Count",
-        "description": "Maybelline Fit Me Matte Foundation: For a natural looking medium coverage liquid foundation makeup, look no further; In 40 shades, you'll find a fit for every skin tone; Best for normal to oily skin; refines pores for a natural looking matte finish",
+        "title": "Maybelline Fit Me Matte + Poreless Liquid Foundation, Natural Ivory",
+        "description": "A lightweight, oil-free foundation that provides a natural, matte finish. Available in 40 shades for a perfect skin tone match.",
         "link": "https://amzn.to/40YysRt"
       },
       {
         "image": "https://m.media-amazon.com/images/I/61Bz+7Fba1L._SX425_.jpg",
-        "title": "16HR Camo Concealer, Full Coverage & Highly Pigmented, Matte Finish, Medium Neutral, 0.203 Fl Oz (6mL)",
-        "description": "16HR COVERAGE: The e.l.f. 16hr Camo Concealer is a full-coverage, 16-hour wear concealer which conceals, corrects, contours and highlights for flawless skin. The shade Medium Neutral is medium tan with warm undertones. Note: 16hr Camo Concealer shades run lighter; we recommend matching by bottle image.",
+        "title": "e.l.f. 16HR Camo Concealer - Full Coverage, Matte Finish",
+        "description": "Long-lasting, full-coverage concealer that hides imperfections and brightens skin for a flawless look. Perfect for all skin types.",
         "link": "https://amzn.to/4hFmscO"
       }
     ]
@@ -294,44 +302,48 @@
   {
     "id": 3,
     "title": "Step-by-Step Guide to Achieve a Flawless Foundation Look",
-    "image": "./images/makeup-images/three/FlawlessFoundationLook.webp",
+    "image": "./images/makeup-images/three/Step-by-Step-Guide-to-Achieve-a-Flawless-Foundation-Look.webp",
     "publish_date": "January 12, 2025",
     "description": "Learn how to apply foundation like a pro with this step-by-step guide for a flawless, long-lasting makeup base.",
     "content": [
       {
         "type": "heading",
         "level": 4,
-        "text": "Step 1: Prep Your Skin"
+        "text": "Step 1: Cleanse and Prep Your Skin"
       },
       {
         "type": "paragraph",
-        "text": "Before applying foundation, prepping your skin is essential for a smooth application."
-      },
-      {
-        "type": "list",
-        "items": [
-          "Start with a clean face by washing it with a gentle cleanser.",
-          "Apply a lightweight moisturizer to keep your skin hydrated.",
-          "Use a primer to create a smooth base and help foundation last longer."
-        ]
+        "text": "Before applying any makeup, start with a fresh, clean face. Prepping your skin ensures a smooth application and long-lasting results."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Step 2: Choose the Right Foundation"
+        "level": 5,
+        "text": "-How to do it-" 
       },
       {
         "type": "paragraph",
-        "text": "Picking the right foundation for your skin type and tone is crucial."
+        "text": "• Wash your face with a gentle cleanser to remove dirt and oil. • Apply a hydrating moisturizer to prevent dryness and flakiness. • Use a primer to create a smooth canvas and help foundation last all day."
+      },
+
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 2: Choose the Right Foundation for Your Skin Type"
       },
       {
-        "type": "list",
-        "items": [
-          "If you have oily skin, go for a matte or oil-free foundation.",
-          "For dry skin, a hydrating or dewy-finish foundation works best.",
-          "Always match the foundation shade to your neck to avoid a mismatched look."
-        ]
+        "type": "paragraph",
+        "text": "Picking the right foundation is crucial for a flawless look. Your choice depends on your skin type and the finish you want."
       },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "-How to choose-" 
+      },
+      {
+        "type": "paragraph",
+        "text": "• Oily skin? Go for a matte, oil-free foundation to control shine. • Dry skin? A hydrating, dewy-finish foundation works best."
+      },
+      
       {
         "type": "heading",
         "level": 4,
@@ -339,67 +351,76 @@
       },
       {
         "type": "paragraph",
-        "text": "The tool you use can affect the foundation’s finish and coverage."
-      },
-      {
-        "type": "list",
-        "items": [
-          "Beauty Blender (Sponge): Gives a natural, airbrushed look.",
-          "Foundation Brush: Ideal for full coverage application.",
-          "Fingertips: Best for lightweight, minimal coverage."
-        ]
+        "text": "The tool you use affects how your foundation looks and how well it blends."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Step 4: Blend It Well"
+        "level": 5,
+        "text": "-Best tools for application-" 
       },
       {
         "type": "paragraph",
-        "text": "Blending is the secret to achieving a seamless foundation look."
+        "text": "• Beauty Blender (Sponge): Gives a smooth, airbrushed finish. • Foundation Brush: Ideal for full coverage and even application."
       },
-      {
-        "type": "list",
-        "items": [
-          "Start from the center of your face and blend outward.",
-          "Use tapping motions with a sponge instead of rubbing.",
-          "Blend foundation down to your neck for a natural look."
-        ]
-      },
+     
       {
         "type": "heading",
         "level": 4,
-        "text": "Step 5: Set with Powder (Optional)"
+        "text": "Step 4: Blend for a Seamless Look"
       },
       {
         "type": "paragraph",
-        "text": "Setting your foundation helps it last longer and controls shine."
-      },
-      {
-        "type": "list",
-        "items": [
-          "Loose Powder: Ideal for setting oily skin.",
-          "Pressed Powder: Great for touch-ups throughout the day.",
-          "Dewy Setting Spray: Perfect for dry skin to keep the glow."
-        ]
+        "text": "Blending is the key to achieving a natural-looking foundation."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Step 6: Complete the Look"
+        "level": 5,
+        "text": "-Blending techniques-" 
       },
       {
         "type": "paragraph",
-        "text": "Now that your foundation is flawless, finish with the rest of your makeup."
+        "text": "• Start from the center of your face and blend outward. • Blend foundation down to your jawline and neck for a seamless transition."
+      },
+     
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 5: Conceal Imperfections"
       },
       {
-        "type": "list",
-        "items": [
-          "Apply concealer under the eyes and on blemishes.",
-          "Add blush for a natural flush of color.",
-          "Highlight key areas for a radiant glow."
-        ]
+        "type": "paragraph",
+        "text": "Concealer helps cover dark circles, blemishes, and redness for a flawless finish."
       },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "-Blending techniques-" 
+      },
+      {
+        "type": "paragraph",
+        "text": "• Apply under the eyes in an upside-down triangle shape for brightness. • Use a lighter shade for highlighting and a darker shade for contouring."
+      },
+     
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Step 6: Set Your Foundation with Powder"
+      },
+      {
+        "type": "paragraph",
+        "text": "Setting your foundation prevents creasing and controls shine throughout the day."
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": " -Best setting options-" 
+      },
+      {
+        "type": "paragraph",
+        "text": "• Loose powder – Ideal for oily skin to absorb excess oil. • Pressed powder – Great for touch-ups on the go."
+      },
+     
+     
       {
         "type": "heading",
         "level": 4,
@@ -407,7 +428,7 @@
       },
       {
         "type": "paragraph",
-        "text": "A flawless foundation look is all about the right products, tools, and techniques. With these steps, you can achieve a smooth, natural, and long-lasting foundation every time!"
+        "text": "A flawless foundation look isn’t just about the foundation—it’s about proper skin prep, blending techniques, and setting your makeup correctly. With these 6 simple steps, you’ll achieve a natural, smooth, and long-lasting makeup look every time! 💖✨"
       }
     ],
     "extra_images": [
