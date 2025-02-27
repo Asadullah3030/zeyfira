@@ -1,81 +1,126 @@
 [
     {
         "id": 1,
-        "title": "Top 5 Haircare Tips for Long and Healthy Hair",
-        "image": "./images/haircare-images/one/LongandHealthyHair.webp",
+        "title": "10 Expert-Approved Haircare Tips for Long, Strong, and Healthy Hair",
+        "image": "./images/haircare-images/one/Haircare-Tips-for-Long-Strong-and-Healthy-Hair.webp",
         "publish_date": "December 27, 2024",
-        "description": "Discover the top expert-approved haircare tips to keep your hair long, strong, and healthy.",
+        "description": "Looking for the best haircare tips? Discover 10 expert-recommended ways to achieve long, thick, and healthy hair. From nutrition and scalp care to heat protection and hydration, follow these proven techniques for stronger, shinier hair.",
         "content": [
-          {
-            "type": "heading",
-            "level": 4,
-            "text": "1. Nourish Your Hair with a Healthy Diet"
-          },
-          {
-            "type": "paragraph",
-            "text": "Your hair’s health starts from within! Eating a balanced diet rich in vitamins and proteins is essential for hair growth."
-          },
-          {
-            "type": "heading",
-            "level": 4,
-            "text": "2. Trim Your Hair Regularly"
-          },
-          {
-            "type": "paragraph",
-            "text": "Trimming your hair every 6-8 weeks helps prevent split ends and promotes healthier hair growth."
-          },
-          {
-            "type": "heading",
-            "level": 4,
-            "text": "3. Avoid Excessive Heat Styling"
-          },
-          {
-            "type": "paragraph",
-            "text": "Too much heat can damage your hair, making it dry and prone to breakage."
-          },
-          {
-            "type": "heading",
-            "level": 4,
-            "text": "4. Choose the Right Hair Products"
-          },
-          {
-            "type": "paragraph",
-            "text": "Using the right haircare products tailored to your hair type is crucial for maintaining healthy hair."
-          },
-          {
-            "type": "heading",
-            "level": 4,
-            "text": "5. Massage Your Scalp Regularly"
-          },
-          {
-            "type": "paragraph",
-            "text": "Massaging your scalp increases blood circulation, which promotes hair growth."
-          },
-          {
-            "type": "heading",
-            "level": 4,
-            "text": "Conclusion"
-          },
-          {
-            "type": "paragraph",
-            "text": "Achieving long and healthy hair requires dedication and a proper haircare routine."
-          }
-        ],
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Nourish Your Hair with a Healthy Diet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your hair’s health starts from within! Eating a balanced diet rich in vitamins, minerals, and proteins is essential for hair growth. Include foods like eggs, nuts, leafy greens, and fish to provide necessary nutrients such as biotin, iron, and omega-3 fatty acids."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Keep Your Scalp Clean and Healthy"
+    },
+    {
+      "type": "paragraph",
+      "text": "A clean scalp promotes strong and healthy hair growth. Use a mild shampoo suitable for your hair type and wash your hair 2-3 times a week to remove dirt, oil, and product buildup."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Trim Your Hair Regularly"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trimming your hair every 6-8 weeks helps prevent split ends and breakage. Regular trims keep your hair looking fresh and encourage healthier growth."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Avoid Excessive Heat Styling"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frequent use of heat-styling tools like hairdryers, straighteners, and curling irons can damage your hair by stripping away natural moisture. Always use a heat protectant spray before styling to minimize damage."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Use the Right Hair Products"
+    },
+    {
+      "type": "paragraph",
+      "text": "Choosing the right hair care products tailored to your hair type is crucial. Use sulfate-free shampoos, hydrating conditioners, and nourishing hair masks to maintain healthy and strong hair."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Massage Your Scalp Regularly"
+    },
+    {
+      "type": "paragraph",
+      "text": "Massaging your scalp with natural oils like coconut, argan, or castor oil can increase blood circulation, strengthen hair roots, and promote hair growth."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Protect Your Hair from Sun Damage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excessive sun exposure can dry out your hair and cause damage. Wear a hat or use a leave-in conditioner with UV protection when spending long hours outdoors."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Avoid Overwashing Your Hair"
+    },
+    {
+      "type": "paragraph",
+      "text": "Washing your hair too frequently can strip away natural oils, making it dry and brittle. Stick to washing your hair 2-3 times a week and use a dry shampoo if needed."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Stay Hydrated and Manage Stress"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drinking enough water keeps your hair hydrated and prevents dryness. Additionally, high-stress levels can lead to hair fall, so practice relaxation techniques like yoga or meditation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. Use Silk Pillowcases"
+    },
+    {
+      "type": "paragraph",
+      "text": "Switching to silk pillowcases reduces friction while sleeping, preventing hair breakage and frizz. It also helps maintain your hair’s natural oils, keeping it healthy and shiny."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Achieving long, healthy, and beautiful hair requires a combination of good nutrition, proper care, and healthy habits. By following these tips, you can maintain strong, shiny, and damage-free hair."
+    }
+                ],
         "extra_images": [
-          "./images/haircare-images/one/HealthyHair.webp",
-          "./images/haircare-images/one/HealthyHair1.webp"
+          "./images/haircare-images/one/Healthy-Hair.webp",
+          "./images/haircare-images/one/Healthy-Hair1.webp"
         ],
         "products": [
             {
               "image": "https://m.media-amazon.com/images/I/61D3LUGRYKL._SX679_.jpg",
-              "title": "OGX Nourishing Coconut Milk Shampoo – Hydrating, Paraben & Sulfate-Free, 25.4 fl. oz",
-              "description": "HYDRATE & RESTORE: This 25.4-fluid ounce bottle of OGX Nourishing + Coconut Milk Shampoo with an intensely moisturizing formula immediately softens hair after the first use & helps strengthen & hydrate dry, damaged, & frizzy hair",
+              "title": "OGX Coconut Milk Shampoo – Hydrating & Sulfate-Free for Stronger, Healthier Hair (25.4 fl. oz)",
+              "description": "Deeply nourish and strengthen your hair with OGX Coconut Milk Shampoo. This sulfate-free formula hydrates dry, frizzy, and damaged hair, leaving it soft, smooth, and healthy. Perfect for all hair types looking for intense moisture and shine.",
               "link": "https://amzn.to/417vVod"
             },
             {
               "image": "https://m.media-amazon.com/images/I/61V+npWR6hL._SX522_.jpg",
-              "title": "Moroccanoil Treatment",
-              "description": "detangles, and boosts shine by up to 118%.*",
+              "title": "Moroccanoil Treatment – Argan Oil for Frizz-Free, Shiny, and Healthy Hair",
+              "description": "Get silky, radiant hair with Moroccanoil Treatment. Infused with argan oil, this lightweight formula detangles, controls frizz, and enhances shine by up to 118%. Ideal for all hair types seeking smoothness and deep nourishment.",
               "link": "https://amzn.to/40XlJhO"
             }
           ]
@@ -83,55 +128,100 @@
 
     {
       "id": 2,
-      "title": "DIY Hair Masks for Dry and Damaged Hair",
-      "image": "./images/haircare-images/two/DryandDamagedHair.webp",
+      "title": "10 Best DIY Hair Masks to Repair Dry, Damaged Hair Naturally",
+      "image": "./images/haircare-images/two/DIY-Hair-Masks-to-Repair-Dry.webp",
       "publish_date": "December 29, 2024",
-      "description": "Try these easy and natural DIY hair masks to restore moisture and repair dry, damaged hair.",
+      "description": "Revive dry, damaged hair with these top 10 natural DIY hair masks! Packed with hydrating and strengthening ingredients like avocado, aloe vera, and coconut oil, these home remedies will restore shine, reduce breakage, and promote healthy hair growth.",
       "content": [
         {
           "type": "heading",
           "level": 4,
-          "text": "1. Avocado and Honey Hair Mask"
+          "text": "1. Avocado and Honey Hair Mask – Deep Hydration & Repair"
         },
         {
           "type": "paragraph",
-          "text": "This mask is perfect for deep hydration and repairing dry, brittle hair."
+          "text": "Avocado is rich in healthy fats and vitamins that deeply nourish dry hair, while honey acts as a natural humectant, sealing in moisture and preventing breakage. This mask is perfect for repairing damaged, brittle strands."
         },
         {
           "type": "heading",
           "level": 4,
-          "text": "2. Banana and Coconut Oil Hair Mask"
+          "text": "2. Banana and Coconut Oil Hair Mask – Strength & Shine Boost"
         },
         {
           "type": "paragraph",
-          "text": "Bananas are rich in potassium and vitamins that help strengthen hair, while coconut oil deeply moisturizes."
+          "text": "Bananas are loaded with potassium, natural oils, and vitamins that strengthen hair and reduce frizz. Coconut oil penetrates deep into the hair shaft, providing intense hydration and restoring shine."
         },
         {
           "type": "heading",
           "level": 4,
-          "text": "3. Yogurt and Egg Hair Mask"
+          "text": "3. Yogurt and Egg Hair Mask – Protein for Stronger Hair"
         },
         {
           "type": "paragraph",
-          "text": "This mask adds protein and moisture to your hair, making it stronger and shinier."
+          "text": "Eggs are packed with protein that rebuilds damaged hair, while yogurt helps condition and restore scalp health. This mask enhances hair elasticity, reducing breakage and promoting smoothness."
         },
         {
           "type": "heading",
           "level": 4,
-          "text": "4. Aloe Vera and Castor Oil Hair Mask"
+          "text": "4. Aloe Vera and Castor Oil Hair Mask – Hair Growth & Scalp Care"
         },
         {
           "type": "paragraph",
-          "text": "Aloe vera soothes the scalp and hydrates hair, while castor oil promotes hair growth."
+          "text": "Aloe vera soothes the scalp, reducing dandruff and irritation, while castor oil is rich in ricinoleic acid, which stimulates hair follicles and promotes faster hair growth."
         },
         {
           "type": "heading",
           "level": 4,
-          "text": "5. Milk and Honey Hair Mask"
+          "text": "5. Milk and Honey Hair Mask – Natural Conditioner for Silky Hair"
         },
         {
           "type": "paragraph",
-          "text": "This mask works as a natural conditioner, leaving your hair soft and smooth."
+          "text": "Milk contains proteins that strengthen hair, and honey locks in moisture, leaving your hair incredibly soft and manageable. This mask works as a natural conditioner for silky, smooth hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "6. Olive Oil and Egg Hair Mask – Intense Nourishment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Olive oil is loaded with antioxidants and vitamin E, which strengthen hair strands, while eggs provide the necessary protein to improve hair texture and reduce split ends."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "7. Fenugreek and Yogurt Hair Mask – Anti-Dandruff & Strength"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fenugreek seeds help reduce dandruff and hair fall, while yogurt nourishes the scalp and restores moisture balance, making this mask perfect for healthier, flake-free hair."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "8. Rice Water and Aloe Vera Hair Mask – Strength & Shine"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rice water is packed with amino acids and vitamins that strengthen hair and improve elasticity, while aloe vera hydrates and soothes the scalp, reducing irritation and promoting growth."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "9. Green Tea and Honey Hair Mask – Hair Fall Control"
+        },
+        {
+          "type": "paragraph",
+          "text": "Green tea is rich in antioxidants that prevent hair loss and stimulate follicles, while honey provides hydration and shine, making your hair healthier and more resilient."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "10. Onion Juice and Coconut Oil Hair Mask – Faster Hair Growth"
+        },
+        {
+          "type": "paragraph",
+          "text": "Onion juice contains sulfur, which improves collagen production and boosts hair growth. When combined with coconut oil, it nourishes the scalp, strengthens roots, and reduces hair fall."
         },
         {
           "type": "heading",
@@ -140,25 +230,25 @@
         },
         {
           "type": "paragraph",
-          "text": "These DIY hair masks are easy to make and use natural ingredients to restore moisture and shine to dry, damaged hair."
+          "text": "These DIY hair masks use natural ingredients to deeply nourish, hydrate, and strengthen your hair. Whether you're dealing with dryness, frizz, or hair fall, these masks offer a simple yet effective solution for achieving long, healthy, and shiny hair."
         }
       ],
       "extra_images": [
-        "./images/haircare-images/two/DamagedHair.webp",
-        "./images/haircare-images/two/DamagedHair1.webp"
+        "./images/haircare-images/two/DIY-Hair-Masks.webp",
+        "./images/haircare-images/two/DIY-Hair-Masks1.webp"
       ],
 
       "products": [
         {
           "image": "https://m.media-amazon.com/images/I/711DJUbj+tL._SX679_.jpg",
-          "title": "Viva Naturals Organic Coconut Oil - Unrefined, Cold-Pressed Extra Virgin Coconut Oil, USDA Organic and Non-GMO Cooking Oil, Great as Hair Oil and Skin Oil, 16 fl oz",
-          "description": "NATURALLY NOURISHING COCONUT OIL FOR HAIR - With its unique combination of natural fats, coconut oil helps hydrate hair and nourish the scalp. It’s ideal for use as a conditioner, detangler, or coconut oil hair mask.",
+          "title": "Viva Naturals Organic Coconut Oil – Deep Hydration for Hair, Scalp & Skin | Cold-Pressed, Unrefined & 100% Pure | 16 fl oz",
+          "description": "Boost hair health naturally with this organic, cold-pressed coconut oil! Perfect for deep conditioning, scalp nourishment, and DIY hair masks, it restores moisture, reduces frizz, and strengthens dry, damaged hair.",
           "link": "https://amzn.to/4jCGA1d"
         },
         {
           "image": "https://m.media-amazon.com/images/I/61Z-0e8XPuL._SY879_.jpg",
-          "title": "Handcraft Blends Avocado Oil - Cold-Pressed 28 Fl Oz - 100% Pure and Natural - Premium Grade Carrier Oil for Skin and Hair - Hair and Body - Massage - Hexane-Free",
-          "description": "100% PURE & NATURAL AVOCADO OIL unfiltered, undiluted without any additives or fillers. Rich in vitamins and fatty acids it is truly a wonder carrier oil. Avocado Oil can be used for skin care, aromatherapy, hair, natural lubricant, moisturizer, and much more.",
+          "title": "Handcraft Blends Avocado Oil – Vitamin-Rich Hair & Skin Moisturizer | 100% Pure, Cold-Pressed & Hexane-Free | 28 fl oz",
+          "description": "Packed with essential fatty acids and vitamins, this pure avocado oil deeply nourishes dry hair, promoting hydration, shine, and strength. Ideal for DIY hair treatments, scalp massage, and frizz control.",
           "link": "https://amzn.to/42ECtvx"
         }
       ]
@@ -166,100 +256,127 @@
 
     {
       "id": 3,
-      "title": "Trending Hairstyles for Women in 2025",
-      "image": "./images/haircare-images/three/HairstylesforWomenin2025.webp",
+      "title": "Top 10 Trendy Hairstyles for Women in 2025 – Best Haircuts & Styling Ideas",
+      "image": "./images/haircare-images/three/Trendy-Hairstyles-for-Women.webp",
       "publish_date": "December 31, 2024",
-      "description": "Discover the top hairstyle trends for women in 2025, from chic bobs to elegant updos, and find the perfect look for you!",
+      "description": "Looking for the hottest hairstyles in 2025? Explore the top 10 trending haircuts and styles for women, from stylish bobs to elegant updos. Get expert tips on how to achieve and maintain these trendy looks!",
       "content": [
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "1. Blunt Bob Cut"
-        },
-        {
-          "type": "paragraph",
-          "text": "A timeless and chic hairstyle, the blunt bob cut is making waves in 2025. It’s sleek, sophisticated, and perfect for those who love a low-maintenance yet stylish look."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "2. Curtain Bangs with Long Layers"
-        },
-        {
-          "type": "paragraph",
-          "text": "Curtain bangs have been popular for a while, and in 2025, they continue to shine. Paired with long layers, this look adds volume and softness to your hair."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "3. The Butterfly Haircut"
-        },
-        {
-          "type": "paragraph",
-          "text": "Inspired by the ’90s, the butterfly haircut is all about volume and layers. It creates a flowy, feathered effect that looks stunning on medium to long hair."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "4. Pixie Cut with Textured Layers"
-        },
-        {
-          "type": "paragraph",
-          "text": "For those who love short hair, the textured pixie cut is a bold and confident choice. It enhances natural volume and gives a stylish, effortless look."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "5. Sleek High Ponytail"
-        },
-        {
-          "type": "paragraph",
-          "text": "A sleek high ponytail remains a classic and trendy choice for 2025. Whether for casual days or glamorous events, this hairstyle adds an instant lift and elegance."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "6. Soft Waves with a Middle Part"
-        },
-        {
-          "type": "paragraph",
-          "text": "Soft, natural waves with a center part create a youthful and effortless look. It’s a go-to style for both casual and formal occasions."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "7. Braided Updos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Braided updos are making a comeback, combining elegance with practicality. They work beautifully for weddings, special occasions, or even a polished everyday look."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Conclusion"
-        },
-        {
-          "type": "paragraph",
-          "text": "2025 is all about embracing versatile and stylish hairstyles that complement different face shapes and hair types. Whether you prefer short and edgy or long and elegant, there’s a perfect trendy hairstyle waiting for you this year!"
-        }
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Blunt Bob Cut"
+    },
+    {
+      "type": "paragraph",
+      "text": "The blunt bob is a sleek, timeless haircut that remains a top trend in 2025. Perfect for all face shapes, this straight-edge cut enhances volume and adds a modern, sophisticated touch. It’s a low-maintenance yet stylish option for those who love effortless elegance."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Curtain Bangs with Long Layers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Curtain bangs paired with long layers create a soft, face-framing effect that adds movement and dimension to the hair. This style is ideal for those who want to keep their length while refreshing their look with trendy, effortless waves."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. The Butterfly Haircut"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspired by the '90s, the butterfly haircut features soft, cascading layers that mimic the shape of butterfly wings. This trendy style boosts volume and texture, making it perfect for those with medium to long hair who want a bouncy, lightweight feel."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Pixie Cut with Textured Layers"
+    },
+    {
+      "type": "paragraph",
+      "text": "For those who love short, bold styles, the textured pixie cut is a must-try in 2025. With choppy layers adding volume and movement, this haircut is edgy yet feminine, offering a modern and confident look."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Sleek High Ponytail"
+    },
+    {
+      "type": "paragraph",
+      "text": "A sleek high ponytail is a go-to hairstyle for an instant lift and polished appearance. Whether for a night out or an everyday look, this hairstyle enhances facial features and creates a chic, elegant vibe."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Soft Waves with a Middle Part"
+    },
+    {
+      "type": "paragraph",
+      "text": "Natural-looking, soft waves with a middle part continue to dominate in 2025. This effortlessly glamorous style suits all occasions and works beautifully with all hair lengths, adding volume and dimension."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Braided Updos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Braided updos are making a strong comeback, offering a blend of elegance and practicality. From fishtail buns to intricate crown braids, these styles are ideal for weddings, parties, or even a stylish everyday look."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Layered Shag Cut"
+    },
+    {
+      "type": "paragraph",
+      "text": "The layered shag cut is all about edgy volume and texture. With its messy yet stylish appeal, this haircut works well for short to medium-length hair, providing movement and a rock-chic vibe that’s perfect for 2025."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Wispy Bangs with Shoulder-Length Hair"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wispy bangs add a soft, delicate touch to shoulder-length hair, making it a trending style this year. This look provides a youthful, fresh vibe while maintaining versatility, allowing you to style it straight or wavy."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. Voluminous Curls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Big, bouncy curls are making a statement in 2025! Whether natural or styled, voluminous curls add drama and movement, making them perfect for those who want to embrace their natural texture while looking glamorous."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The hottest hair trends of 2025 focus on versatility, texture, and effortless beauty. Whether you prefer a bold pixie cut, flowing layers, or elegant updos, there’s a perfect style for every hair type and face shape. Experiment with these trendy hairstyles and refresh your look this year!"
+    }
       ],
       "extra_images": [
-        "./images/haircare-images/three/Womenin2025.webp",
-        "./images/haircare-images/three/Womenin2025a.webp"
+        "./images/haircare-images/three/Hairstyles-for-Women.webp",
+        "./images/haircare-images/three/Hairstyles-for-Women1.webp"
       ],
 
       "products": [
         {
           "image": "https://m.media-amazon.com/images/I/71b2w5VLExL._SX679_.jpg",
-          "title": "Remington Shine Therapy 1 inch Hair Straightener Iron, Flat Iron for Hair Infused with Argan Oil & Keratin, Professional Ceramic Flat Iron for Less Frizz, Shinier & Smoother Hair, Hair Styling Tools",
-          "description": "ADVANCED CERAMIC PLATES: Enjoy a superior styling experience with 9X more ceramic than standard Remington models. Infused with Argan oil, protein-packed Keratin, and a micro-conditioner, this straightener delivers even heat for optimal hair health",
+          "title": "Remington Shine Therapy Hair Straightener – 1-inch Flat Iron with Argan Oil & Keratin for Smooth, Frizz-Free Hair",
+          "description": "Achieve sleek, shiny, and frizz-free hair with the Remington Shine Therapy Flat Iron. Infused with Argan Oil & Keratin, this professional ceramic hair straightener ensures even heat distribution, reduces frizz, and enhances hair smoothness for long-lasting results.",
           "link": "https://amzn.to/3EiXOAJ"
         },
         {
           "image": "https://m.media-amazon.com/images/I/71npKu+cqHL._AC_SX679_.jpg",
-          "title": "Conair Double Ceramic 1-Inch Curling Iron, 1-inch barrel produces classic curls – for use on short, medium, and long hair",
-          "description": "Ceramic Curling Iron: Designed to create beautiful, classic curls, this 1 inch curling iron features higher ceramic content for even heat and gorgeous, long lasting styles with less frizz",
+          "title": "Conair Double Ceramic Curling Iron – 1-inch Barrel for Classic, Long-Lasting Curls & Frizz-Free Styling",
+          "description": "Create beautiful, classic curls effortlessly with the Conair Double Ceramic Curling Iron. Designed for all hair lengths, its advanced ceramic technology ensures even heat, reduces frizz, and delivers long-lasting, bouncy curls with a smooth, shiny finish.",
           "link": "https://amzn.to/3Ehpypl"
         }
       ]
@@ -267,100 +384,128 @@
 
     {
       "id": 4,
-      "title": "How to Control Hair Fall with Natural Remedies",
-      "image": "./images/haircare-images/four/FallwithNaturalRemedies.webp",
+      "title": "Effective Natural Remedies to Stop Hair Fall and Boost Hair Growth",
+      "image": "./images/haircare-images/four/Effective-Natural-Remedies-to-Stop-Hair-Fall.webp",
       "publish_date": "January 2, 2025",
-      "description": "Discover the best natural remedies to prevent hair fall and promote healthy hair growth using simple home treatments.",
+      "description": "Struggling with hair fall? Discover the most effective natural remedies to strengthen hair roots, reduce hair thinning, and promote healthy hair growth with simple yet powerful home treatments.",
       "content": [
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "1. Coconut Oil Massage"
-        },
-        {
-          "type": "paragraph",
-          "text": "Coconut oil is packed with essential fatty acids and vitamins that nourish the scalp and strengthen hair roots."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "2. Aloe Vera Gel"
-        },
-        {
-          "type": "paragraph",
-          "text": "Aloe vera has soothing and healing properties that reduce scalp inflammation and promote hair growth."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "3. Onion Juice Treatment"
-        },
-        {
-          "type": "paragraph",
-          "text": "Onion juice is rich in sulfur, which boosts collagen production and helps in hair regrowth."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "4. Fenugreek (Methi) Seeds"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fenugreek seeds contain proteins and nicotinic acid that strengthen hair follicles and prevent breakage."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "5. Green Tea Rinse"
-        },
-        {
-          "type": "paragraph",
-          "text": "Green tea is rich in antioxidants that reduce hair fall and stimulate hair growth."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "6. Egg Hair Mask"
-        },
-        {
-          "type": "paragraph",
-          "text": "Eggs are loaded with protein and biotin, which help in hair strengthening and reducing hair fall."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "7. Healthy Diet for Hair Growth"
-        },
-        {
-          "type": "paragraph",
-          "text": "A balanced diet plays a crucial role in preventing hair fall. Include protein-rich foods like eggs and lentils, iron-rich foods like spinach, and omega-3 fatty acids from walnuts."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Conclusion"
-        },
-        {
-          "type": "paragraph",
-          "text": "Natural remedies can significantly reduce hair fall and promote healthier hair growth. Regular oil massages, herbal treatments, and a nutrient-rich diet will strengthen your hair over time."
-        }
-      ],
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "1. Coconut Oil Massage for Stronger Hair"
+  },
+  {
+    "type": "paragraph",
+    "text": "Coconut oil is a natural moisturizer rich in lauric acid and essential fatty acids that penetrate deep into the scalp. It nourishes hair roots, reduces protein loss, and prevents hair fall. Regular scalp massages with warm coconut oil can improve blood circulation and promote hair growth."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "2. Aloe Vera Gel for Scalp Hydration"
+  },
+  {
+    "type": "paragraph",
+    "text": "Aloe vera contains proteolytic enzymes that repair dead skin cells on the scalp, reducing dandruff and itchiness. It also acts as a natural conditioner, leaving hair smooth and shiny while strengthening follicles to prevent hair fall."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "3. Onion Juice Treatment for Hair Regrowth"
+  },
+  {
+    "type": "paragraph",
+    "text": "Onion juice is loaded with sulfur, which boosts collagen production, strengthens hair strands, and encourages regrowth. Applying fresh onion juice to the scalp twice a week can help reduce thinning and improve hair density."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "4. Fenugreek (Methi) Seeds to Strengthen Hair"
+  },
+  {
+    "type": "paragraph",
+    "text": "Fenugreek seeds are a powerhouse of protein and nicotinic acid, which strengthen hair follicles, prevent breakage, and reduce hair thinning. Soaking the seeds overnight and applying a fenugreek paste to the scalp enhances hair growth."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "5. Green Tea Rinse for Hair Loss Prevention"
+  },
+  {
+    "type": "paragraph",
+    "text": "Green tea is rich in antioxidants that help block DHT (a hormone linked to hair loss). A green tea rinse after shampooing can strengthen hair roots, stimulate hair growth, and add shine."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "6. Egg Hair Mask for Protein Boost"
+  },
+  {
+    "type": "paragraph",
+    "text": "Eggs are packed with proteins, biotin, and vitamins that strengthen hair shafts, reduce breakage, and prevent hair thinning. Applying an egg mask once a week nourishes the scalp and improves hair texture."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "7. Amla (Indian Gooseberry) for Hair Strength"
+  },
+  {
+    "type": "paragraph",
+    "text": "Amla is a rich source of vitamin C and antioxidants that improve scalp health, strengthen hair roots, and promote faster hair growth. Consuming fresh amla or applying amla oil can prevent premature graying and hair fall."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "8. Rice Water for Hair Thickening"
+  },
+  {
+    "type": "paragraph",
+    "text": "Rice water contains amino acids, vitamins, and minerals that repair damaged hair, reduce hair loss, and add volume. Rinsing hair with fermented rice water once a week improves hair elasticity and shine."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "9. Essential Oils for Hair Growth"
+  },
+  {
+    "type": "paragraph",
+    "text": "Essential oils like rosemary, peppermint, and lavender have anti-inflammatory properties that stimulate hair follicles and promote growth. Mixing them with carrier oils like coconut or jojoba oil enhances their effectiveness."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "10. Balanced Diet for Healthy Hair"
+  },
+  {
+    "type": "paragraph",
+    "text": "A nutrient-rich diet plays a vital role in hair health. Include protein sources like eggs and lentils, iron-rich foods like spinach, and omega-3 fatty acids from walnuts to support hair growth and reduce shedding."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "Conclusion"
+  },
+  {
+    "type": "paragraph",
+    "text": "Preventing hair fall naturally requires a combination of proper scalp care, herbal treatments, and a healthy diet. Regular oil massages, nutrient-rich masks, and natural remedies will help strengthen your hair, reduce shedding, and promote long-lasting hair growth."
+  }
+          ],
+
       "extra_images": [
-        "./images/haircare-images/four/Remedies.webp",
-        "./images/haircare-images/four/Remedies1.webp"
+        "./images/haircare-images/four/Stop-Hair-Fall.webp",
+        "./images/haircare-images/four/Stop-Hair-Fall1.webp"
       ],
 
       "products": [
         {
           "image": "https://m.media-amazon.com/images/I/412jG+0dK1L._SY300_SX300_.jpg",
-          "title": "Handcraft Blends Organic Castor Oil - 16 Fl Oz - 100% Pure and Natural - Premium Grade Carrier Oil for Hair Growth, Eyelashes and Eyebrows - Hair and Body - Expeller-Pressed & Hexane-Free",
-          "description": "100% PURE & NATURAL ORGANIC CASTOR OIL IN PLASTIC BOTTLE – Our USDA organic castor carrier oil is used for essential oils mixing, hair care skin care, aromatherapy massage and has endless uses. Expeller-Pressed and Hexane-Free.",
+          "title": "Handcraft Blends Organic Castor Oil – 100% Pure for Hair Growth & Scalp Nourishment",
+          "description": "Boost hair growth naturally with this 100% pure and organic castor oil. Rich in essential nutrients, it strengthens hair roots, promotes thicker lashes and brows, and deeply moisturizes the scalp. Expeller-pressed & hexane-free for maximum purity.",
           "link": "https://amzn.to/42zULhz"
         },
         {
           "image": "https://m.media-amazon.com/images/I/410F+FzOtzL._SY300_SX300_.jpg",
-          "title": "MAJESTIC PURE Rosemary Essential Oil | 100% Pure and Natural Rosemary Oil | Premium Grade Essential Oils for Hair Care, Home Diffusers, Skin, Aromatherapy, Massage and Humidifiers | 1 Fl Oz",
-          "description": "100% PURE & NATURAL ROSEMARY OIL - Majestic Pure Blends oils are exactly that! Many oils being sold make that claim but are in fact made of natural isolates and mixtures. Each essential oil is tested by an independent lab which is why every bottle comes with a Quality Guaranty.",
+          "title": "Majestic Pure Rosemary Essential Oil – 100% Natural for Hair Strength & Scalp Health",
+          "description": "Revitalize your hair and scalp with pure rosemary essential oil. Known for stimulating hair follicles, reducing dandruff, and improving circulation, this premium-grade oil is ideal for aromatherapy, scalp massages, and promoting natural hair growth.",
           "link": "https://amzn.to/3CycHym"
         }
       ]
@@ -368,100 +513,128 @@
 
     {
       "id":5,
-      "title": "Best Hair Oils for Faster Hair Growth",
-      "image": "./images/haircare-images/five/FasterHairGrowth.webp",
+      "title": "Top 10 Best Hair Oils for Rapid Hair Growth & Stronger Roots",
+      "image": "./images/haircare-images/five/Best-Hair-Oils-for-Rapid-Hair-Growth.webp",
       "publish_date": "January 4, 2025",
-      "description": "Discover the top natural hair oils that promote faster hair growth, strengthen roots, and keep your hair healthy and shiny.",
-      "content": [
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "1. Coconut Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Coconut oil deeply penetrates the hair shaft, prevents protein loss, and keeps the scalp moisturized."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "2. Castor Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Rich in ricinoleic acid and vitamin E, castor oil increases blood circulation to the scalp and strengthens hair follicles."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "3. Argan Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Often called ‘liquid gold,’ argan oil is packed with antioxidants and vitamin E, making it perfect for nourishing dry and frizzy hair."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "4. Olive Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Olive oil is rich in antioxidants and essential nutrients that prevent hair thinning, strengthen hair strands, and promote healthy growth."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "5. Almond Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Almond oil contains magnesium, biotin, and vitamin E, which are essential for stronger, healthier hair and reducing hair loss."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "6. Onion Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Onion oil is packed with sulfur, which boosts collagen production and improves hair growth while preventing breakage and split ends."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "7. Jojoba Oil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Jojoba oil closely mimics the scalp’s natural oils, making it ideal for dry or sensitive scalps. It helps unclog hair follicles and promotes new hair growth."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Conclusion"
-        },
-        {
-          "type": "paragraph",
-          "text": "Using natural oils regularly can greatly improve hair health, reduce hair fall, and speed up hair growth. Choose the best oil based on your hair type and needs, and enjoy healthy, shiny, and longer hair naturally!"
-        }
-      ],
+      "description": "Looking for the best natural hair oils to speed up hair growth and strengthen your roots? Discover the top 10 oils packed with essential nutrients to nourish your scalp, prevent hair fall, and give you thick, shiny, and healthy hair naturally!",
+     "content": [
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "1. Coconut Oil – Deep Nourishment & Scalp Hydration"
+  },
+  {
+    "type": "paragraph",
+    "text": "Coconut oil is a powerhouse of fatty acids and vitamins that penetrate deep into the hair shaft, reducing protein loss and strengthening hair. Its antibacterial properties keep the scalp healthy, preventing dandruff and infections."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "2. Castor Oil – Boost Hair Growth & Thickness"
+  },
+  {
+    "type": "paragraph",
+    "text": "Rich in ricinoleic acid and omega-6 fatty acids, castor oil improves blood circulation to the scalp, promoting thicker and healthier hair. It also helps in reducing split ends and repairing damaged hair strands."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "3. Argan Oil – Frizz Control & Intense Hydration"
+  },
+  {
+    "type": "paragraph",
+    "text": "Often referred to as ‘liquid gold,’ argan oil is packed with antioxidants, vitamin E, and essential fatty acids. It hydrates and tames frizzy hair, making it shinier, smoother, and more manageable."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "4. Olive Oil – Strengthen Hair & Reduce Breakage"
+  },
+  {
+    "type": "paragraph",
+    "text": "Loaded with powerful antioxidants and essential nutrients, olive oil strengthens hair from the roots, preventing thinning and breakage. It also provides deep moisture, keeping hair soft and shiny."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "5. Almond Oil – Rich in Biotin & Hair Nourishment"
+  },
+  {
+    "type": "paragraph",
+    "text": "Almond oil is a great source of magnesium, biotin, and vitamin E, which are essential for hair strength and thickness. Regular application helps reduce hair fall and promotes natural shine."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "6. Onion Oil – Stimulate Hair Growth & Reduce Hair Fall"
+  },
+  {
+    "type": "paragraph",
+    "text": "Onion oil is packed with sulfur, which enhances collagen production, accelerating hair growth. It also prevents breakage, split ends, and scalp infections, making it ideal for hair loss control."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "7. Jojoba Oil – Scalp Balance & Hair Follicle Stimulation"
+  },
+  {
+    "type": "paragraph",
+    "text": "Jojoba oil closely mimics the scalp’s natural sebum, keeping the scalp well-hydrated and balanced. It also unclogs hair follicles, promoting new hair growth and preventing scalp dryness."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "8. Rosemary Oil – Natural Hair Growth Booster"
+  },
+  {
+    "type": "paragraph",
+    "text": "Rosemary oil is known for improving blood circulation to hair follicles, stimulating new hair growth. It also prevents premature graying and helps in reducing dandruff and itchy scalp."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "9. Tea Tree Oil – Anti-Dandruff & Scalp Detox"
+  },
+  {
+    "type": "paragraph",
+    "text": "Tea tree oil has antimicrobial properties that cleanse the scalp, remove product buildup, and reduce dandruff. It also soothes an itchy scalp and promotes stronger, healthier hair growth."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "10. Sesame Oil – UV Protection & Hair Revitalization"
+  },
+  {
+    "type": "paragraph",
+    "text": "Sesame oil acts as a natural sunscreen for hair, protecting it from harmful UV rays. Rich in vitamins and minerals, it nourishes the scalp, strengthens hair roots, and prevents premature graying."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "Conclusion"
+  },
+  {
+    "type": "paragraph",
+    "text": "Using natural oils regularly can significantly enhance hair health, reduce hair fall, and stimulate faster hair growth. Choose an oil based on your hair type and concerns, and incorporate it into your routine for long-lasting, healthy hair."
+  }
+        ],
+
       "extra_images": [
-        "./images/haircare-images/five/HairGrowth.webp",
-        "./images/haircare-images/five/HairGrowth1.webp"
+        "./images/haircare-images/five/Rapid-Hair-Growth.webp",
+        "./images/haircare-images/five/Rapid-Hair-Growth1.webp"
       ],
 
       "products": [
         {
           "image": "https://m.media-amazon.com/images/I/61ejZa7ziyL._SX425_.jpg",
-          "title": "Moroccan Argan Treatment Oil for Luxurious Hair Care and Repair, Extra Strength Treatment for Split Ends, Frizzy Hair and Flyaways",
-          "description": " Nourish and Revitalize: Our Moroccan Argan Treatment Hair Oil is specially formulated to nourish and revitalize dry and damaged hair, leaving it healthy and shiny.",
+          "title": "Moroccan Argan Oil - Deep Nourishment & Repair for Stronger, Shinier Hair",
+          "description": " Infused with pure Moroccan argan oil, this extra-strength treatment deeply nourishes dry, damaged hair, repairs split ends, and tames frizz for smooth, healthy-looking hair. Perfect for daily hair care and protection against heat styling.",
           "link": "https://amzn.to/4jKoJWj"
         },
         {
           "image": "https://m.media-amazon.com/images/I/618yaJiOToL._SY879_.jpg",
-          "title": "Handcraft Blends USDA Organic Jojoba Oil - Cold-Pressed 16 Fl Oz - 100% Pure and Natural - Premium Grade Carrier Oil for Skin and Hair - Hair and Body - Massage - Hexane-Free",
-          "description": "COLD PRESSED NATURAL JOJOBA OIL ORGANIC - Our USDA organic jojoba oil is extracted from the jojoba seeds using cold pressed extraction method. It is most used for aromatherapy, massage and as a hair and skin moisturizer. Our premium quality jojoba carrier oil is hexane free, preservative free, chemical free and 100% vegan.",
+          "title": "100% Pure Organic Jojoba Oil - Cold-Pressed Hair & Scalp Moisturizer",
+          "description": "Our premium-grade cold-pressed jojoba oil deeply hydrates and balances the scalp's natural oils, promoting stronger hair growth while reducing dryness and flakiness. A perfect all-natural solution for soft, nourished hair and skin.",
           "link": "https://amzn.to/3Q2pdcC"
         }
       ]
@@ -470,108 +643,136 @@
 
     {
       "id": 6,
-      "title": "Step-by-Step Guide to Curl Your Hair at Home",
-      "image": "./images/haircare-images/six/YourHairatHome.webp",
+      "title": "How to Curl Your Hair at Home: Easy Step-by-Step Guide for Perfect Curls",
+      "image": "./images/haircare-images/six/Easy-Step-by-Step-Guide-for-Perfect-Curls.webp",
       "publish_date": "January 6, 2025",
-      "description": "Learn how to curl your hair at home with this easy step-by-step guide. Get perfect curls with or without heat!",
+      "description": "Discover the best way to curl your hair at home with this detailed step-by-step guide. Learn expert tips for achieving long-lasting curls using heat and heatless methods!",
       "content": [
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Tools You’ll Need"
-        },
-        {
-          "type": "paragraph",
-          "text": "To achieve perfect curls at home, you’ll need a curling iron or wand, a heat protectant spray, hair clips or ties to section your hair, and a hairbrush or comb. Rollers or flexi rods are great alternatives for heatless curls, and using a hairspray or setting spray will help lock in your style."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Step 1: Prepare Your Hair"
-        },
-        {
-          "type": "paragraph",
-          "text": "Start with clean, dry hair. If your hair is damp, blow-dry it completely before curling. Apply a heat protectant spray to prevent damage and ensure smooth curls."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Step 2: Section Your Hair"
-        },
-        {
-          "type": "paragraph",
-          "text": "Divide your hair into small sections using hair clips. This helps in curling evenly and achieving a more defined look."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Step 3: Choose the Right Curling Tool"
-        },
-        {
-          "type": "paragraph",
-          "text": "The size of the curling tool determines the type of curls. For loose waves, use a large-barrel curling iron (1.5–2 inches). For tight curls, a small-barrel curling wand (0.5–1 inch) works best. If you prefer heatless curls, try using rollers or braiding your hair overnight."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Step 4: Start Curling"
-        },
-        {
-          "type": "paragraph",
-          "text": "Take a small section of hair, about one inch wide, and wrap it around the curling iron, starting from the mid-lengths. Hold it for 8–10 seconds, then gently release. Repeat this process for all sections of your hair."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Step 5: Let the Curls Set"
-        },
-        {
-          "type": "paragraph",
-          "text": "After curling, allow your hair to cool down completely before touching it. This helps the curls hold their shape for a longer time."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Step 6: Style and Finish"
-        },
-        {
-          "type": "paragraph",
-          "text": "Once the curls have cooled, use your fingers to loosen them for a more natural look. Lightly spray hairspray to hold the style and reduce frizz. For extra volume, flip your hair upside down and gently shake it."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Bonus: Heatless Curling Method"
-        },
-        {
-          "type": "paragraph",
-          "text": "If you prefer to avoid heat, try using flexi rods, rollers, or braiding damp hair overnight. These methods create soft, natural waves without heat damage."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Conclusion"
-        },
-        {
-          "type": "paragraph",
-          "text": "Curling your hair at home is simple and fun! By following these steps, you can create stunning curls that last all day. Experiment with different techniques and find the style that works best for you!"
-        }
-      ],
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tools You’ll Need"
+    },
+    {
+      "type": "paragraph",
+      "text": "To achieve salon-quality curls at home, gather essential tools: a curling iron or wand, heat protectant spray, hair clips or ties for sectioning, and a hairbrush or comb. If you prefer heatless curls, use flexi rods, foam rollers, or braiding techniques. A setting spray or lightweight hairspray will help maintain your curls for longer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1: Wash and Prep Your Hair"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with freshly washed and completely dry hair for best results. Apply a lightweight heat protectant spray to shield your hair from heat damage. If your hair is fine or lacks volume, use a volumizing mousse to add texture and help the curls last longer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2: Section Your Hair Properly"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divide your hair into small sections using clips. For thick hair, create 4–6 sections; for fine hair, 2–3 sections are enough. Smaller sections result in more defined curls, while larger sections create loose waves."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3: Choose the Right Curling Tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the curling tool based on your desired style: \n- **Loose Waves:** Use a 1.5–2-inch curling iron.\n- **Tight Curls:** Use a 0.5–1-inch curling wand.\n- **Beachy Waves:** Opt for a flat iron or a triple-barrel waver.\n- **Defined Ringlets:** Try a spiral curling wand or flexi rods for heatless curls."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4: Curl Your Hair Correctly"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a 1-inch section of hair and wrap it around the curling iron away from your face. Hold for 8–12 seconds, then gently release. For more natural-looking curls, alternate the direction of each curl as you work through your hair."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5: Let the Curls Cool"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once curled, let each section cool completely before touching it. This step locks in the curl pattern and prevents your curls from falling out too soon."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6: Loosen and Style Your Curls"
+    },
+    {
+      "type": "paragraph",
+      "text": "After your curls have set, gently run your fingers through them for a softer, more natural look. For defined waves, use a wide-tooth comb to separate the curls while maintaining volume."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7: Lock in Your Style with Hairspray"
+    },
+    {
+      "type": "paragraph",
+      "text": "To ensure long-lasting curls, apply a lightweight hairspray or texturizing spray. If you prefer a soft, bouncy finish, opt for a flexible-hold spray instead of a strong-hold one."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 8: Add Extra Volume and Texture"
+    },
+    {
+      "type": "paragraph",
+      "text": "For extra volume, flip your head upside down and shake your hair lightly. A dry texture spray or root volumizer can also enhance body and movement."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 9: Overnight Heatless Curling Method"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want curls without heat, try braiding damp hair overnight, using flexi rods, or wrapping your hair around a satin headband. These techniques create natural waves while minimizing heat damage."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 10: Maintain Your Curls for Days"
+    },
+    {
+      "type": "paragraph",
+      "text": "To extend the life of your curls, sleep on a silk or satin pillowcase to reduce friction and prevent frizz. You can also loosely tie your curls into a pineapple bun before bed to maintain their shape."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the right techniques and products, curling your hair at home is easy and fun! Whether you prefer heat-styled curls or heatless waves, experimenting with different methods will help you find the perfect curls for your hair type."
+    }
+          ],
+
       "extra_images": [
-        "./images/haircare-images/six/Home1.webp",
-        "./images/haircare-images/six/Home.webp"
+        "./images/haircare-images/six/Guide-for-Perfect-Curls.webp",
+        "./images/haircare-images/six/Guide-for-Perfect-Curls1.webp"
       ],
       "products": [
         {
           "image": "https://m.media-amazon.com/images/I/71ZbDgLQWLL._SX679_.jpg",
-          "title": "Lottabody Coconut Oil and Shea Wrap Me Foaming Curl Mousse , Creates Soft Wraps, Hair Mousse for Curly Hair, Defines Curls, Anti Frizz, 7 Fl Oz",
-          "description": "Lottabody Coconut and Shea Oil Wrap Me is an anti frizz foaming mousse for curly hair that deeply moisturizes, leaving curly hair soft, nourished, and brilliantly shiny",
+          "title": "Lottabody Coconut Oil & Shea Curl Mousse – Defines & Enhances Curls, Anti-Frizz Formula, 7 Fl Oz",
+          "description": "Achieve soft, defined curls with Lottabody Coconut Oil & Shea Wrap Me Curl Mousse. This lightweight, anti-frizz formula enhances natural curls, provides lasting hold, and adds brilliant shine without stiffness.",
           "link": "https://amzn.to/3Ev95O5"
         },
         {
           "image": "https://m.media-amazon.com/images/I/31jKLyxfhkL._SX300_SY300_QL70_FMwebp_.jpg",
-          "title": "OGX Repair & Protect Bond Protein Repair 450°F Heat Protect Spray, Thermal Protection Spray for Targeted Damage Repair & Protection from Heat Damage, 6.5 fl. oz",
-          "description": "REPAIR & PROTECT: 6.5-fluid ounces of OGX Repair & Protect Bond Protein Repair Heat Protection Spray for targeted damage repair & protection from heat damage for smooth, strong hair without weighing it down",
+          "title": "OGX Bond Protein Heat Protectant Spray – Shields Hair from Heat Damage Up to 450°F, 6.5 Fl Oz",
+          "description": "Protect your hair from heat styling with OGX Bond Protein Repair Spray. This thermal protection formula defends against heat damage up to 450°F, strengthens hair, and keeps your curls smooth and healthy.",
           "link": "https://amzn.to/4hzrdW5"
         }
       ]
@@ -579,10 +780,10 @@
 
     {
       "id": 7,
-      "title": "Common Haircare Mistakes That Damage Your Hair",
-      "image": "./images/haircare-images/seven/DamageYourHair.webp",
+      "title": "Top Haircare Mistakes That Cause Hair Damage & How to Fix Them",
+      "image": "./images/haircare-images/seven/Haircare-Mistakes-That-Cause-Hair-Damage.webp",
       "publish_date": "February 6, 2025",
-      "description": "Many people unknowingly damage their hair through simple mistakes. Learn how to avoid these haircare errors to keep your hair strong and healthy.",
+      "description": "Are you unknowingly damaging your hair? Discover the most common haircare mistakes that lead to breakage, dryness, and hair loss—plus expert tips to keep your hair strong, shiny, and healthy.",
       "content": [
         {
           "type": "heading",
@@ -685,21 +886,21 @@
         }
       ],
       "extra_images": [
-        "./images/haircare-images/seven/Hair.webp",
-        "./images/haircare-images/seven/Hair1.webp"
+        "./images/haircare-images/seven/Cause-Hair-Damage.webp",
+        "./images/haircare-images/seven/Cause-Hair-Damage1.webp"
       ],
       
       "products": [
         {
           "image": "https://m.media-amazon.com/images/I/71ott29sfCL._SX425_.jpg",
-          "title": "Tresemme, Shampoo Nourish Coconut Milk & Aloe, 28 Fl Oz",
-          "description": "A gentle shampoo that cleanses without stripping natural oils.",
+          "title": "TRESemmé Nourish & Hydrate Shampoo with Coconut Milk & Aloe – 28 Fl Oz",
+          "description": "Deeply nourish and hydrate your hair with TRESemmé's Coconut Milk & Aloe Shampoo. Gently cleanses while restoring moisture, leaving hair soft, smooth, and frizz-free.",
           "link": "https://amzn.to/3WFk3qE"
         },
         {
           "image": "https://m.media-amazon.com/images/I/3161+oXScWL._SY300_SX300_.jpg",
-          "title": "Wet Brush Detangling Comb, Black - Wide Tooth Hair Detangler with WaveTooth Design",
-          "description": "Detangling Comb: Meet the Wet Brush Detangling Comb. It's a great tool to comb through conditioner and hair masks for thorough and even coverage.",
+          "title": "Wet Brush Wide-Tooth Detangling Comb – Prevents Breakage & Reduces Frizz",
+          "description": "Effortlessly detangle wet or dry hair with the Wet Brush WaveTooth Comb. Designed to glide through knots without pulling, reducing breakage and frizz for healthier, smoother hair.",
           "link": "https://amzn.to/4hjIvWW"
         }
       ]
