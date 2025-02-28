@@ -2,10 +2,10 @@
   {
     "id": 1,
     "title": "10 Must-Have Skincare Products for Glowing Skin",
-    "image": "./images/skincare-images/one/SkincareProductsforGlowingSkin.webp",
+    "image": "./images/skincare-images/one/Must-Have-Skincare-Products.webp",
     "publish_date": "December 15, 2024",
     "description": "Taking care of your skin is essential for maintaining a healthy and glowing complexion. In today’s world, the right skincare products can make all the difference. Whether you’re dealing with dryness, acne, or simply want that radiant glow, this guide will walk you through the 10 must-have skincare products that should be a part of your routine.",
-    "extra_images": ["./images/skincare-images/one/skincare1.webp", "./images/skincare-images/one/skincare2.webp"],
+    "extra_images": ["./images/skincare-images/one/Skincare-Products.webp", "./images/skincare-images/one/Skincare-Products1.webp"],
     "content": [
       {
         "type": "heading",
@@ -14,97 +14,97 @@
       },
       {
         "type": "paragraph",
-        "text": "Achieving glowing skin is a goal for many. With the right skincare products, you can transform your complexion and enhance your natural radiance. Here are 10 must-have skincare products that can help you achieve that coveted glow:"
+        "text": "Achieving naturally glowing skin requires the right skincare routine with carefully chosen products. Whether you're dealing with dullness, dryness, or uneven texture, incorporating the right essentials can enhance your complexion. Here are the top 10 must-have skincare products that will help you achieve radiant, healthy skin."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "1. Cleanser"
+        "text": "1. Gentle Cleanser – The Foundation of Clear Skin"
       },
       {
         "type": "paragraph",
-        "text": "A good cleanser is essential to remove dirt, oil, and impurities that may hinder your skin's glow. Choose a cleanser suited for your skin type—whether it's foaming, gel-based, or cream-based—to start your skincare routine with a clean canvas."
+        "text": "Cleansing is the first and most crucial step in any skincare routine. A gentle, sulfate-free cleanser removes dirt, oil, and makeup while maintaining your skin's natural moisture barrier. Choose a cleanser based on your skin type—gel cleansers for oily skin, cream cleansers for dry skin, and micellar water for sensitive skin."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "2. Exfoliator"
+        "text": "2. Exfoliator – Reveal Brighter, Smoother Skin"
       },
       {
         "type": "paragraph",
-        "text": "Exfoliation helps to remove dead skin cells and promote cell turnover. This can lead to brighter and more radiant skin. Opt for gentle exfoliators like chemical exfoliants with AHAs or BHAs or mild physical scrubs for smoother skin texture."
+        "text": "Exfoliation removes dead skin cells, promoting cell renewal for a fresh and radiant look. Use chemical exfoliants like AHAs (glycolic acid) and BHAs (salicylic acid) for deep penetration, or opt for a mild physical scrub for a smoother skin texture. Regular exfoliation helps prevent clogged pores, dullness, and uneven skin tone."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "3. Toner"
+        "text": "3. Hydrating Toner – Restore Balance & Moisture"
       },
       {
         "type": "paragraph",
-        "text": "A hydrating toner can balance your skin's pH level and prep it for the next steps in your skincare routine. It helps your skin retain moisture, reducing the appearance of fine lines and giving your skin a refreshed glow."
+        "text": "A toner helps restore the skin’s natural pH and preps it for better absorption of serums and moisturizers. Look for a hydrating toner with hyaluronic acid, rose water, or green tea to soothe and refresh the skin while locking in moisture for a plump, radiant glow."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "4. Serum"
+        "text": "4. Brightening Serum – Target Skin Concerns"
       },
       {
         "type": "paragraph",
-        "text": "Serums are highly concentrated and can target specific skin concerns. A Vitamin C serum can brighten the skin, while hyaluronic acid can hydrate it deeply, helping to restore a youthful radiance."
+        "text": "Serums deliver powerful active ingredients deep into the skin. A Vitamin C serum can brighten and even out skin tone, while a niacinamide serum helps reduce redness and control oil. Choose a serum that addresses your specific skin concerns to achieve a radiant complexion."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "5. Moisturizer"
+        "text": "5. Lightweight Moisturizer – Lock in Hydration"
       },
       {
         "type": "paragraph",
-        "text": "Moisturizing is key to maintaining healthy, glowing skin. A good moisturizer hydrates your skin without leaving it greasy. Look for lightweight, non-comedogenic options that keep your skin smooth and glowing."
+        "text": "Hydration is key to glowing skin. A lightweight, non-comedogenic moisturizer locks in moisture and strengthens the skin barrier. Look for ingredients like ceramides, glycerin, or squalane for long-lasting hydration without clogging pores."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "6. Sunscreen"
+        "text": "6. Sunscreen – Protect Against Premature Aging"
       },
       {
         "type": "paragraph",
-        "text": "Protect your skin from UV damage with a broad-spectrum sunscreen. Sun exposure can lead to premature aging and dullness, so applying sunscreen every day is crucial for maintaining your skin’s glow."
+        "text": "UV exposure is one of the biggest culprits behind premature aging and dull skin. Use a broad-spectrum SPF 30 or higher sunscreen daily, even on cloudy days, to prevent sun damage, hyperpigmentation, and fine lines while keeping your skin youthful and radiant."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "7. Face Mask"
+        "text": "7. Face Mask – Boost Skin Radiance Instantly"
       },
       {
         "type": "paragraph",
-        "text": "Face masks provide intense hydration or target specific skin concerns like dullness, acne, or dryness. Clay masks detoxify, while sheet masks or gel masks can infuse the skin with moisture for a refreshed, dewy look."
+        "text": "Using a face mask 1-2 times a week provides deep hydration or detoxification, depending on your skin’s needs. Clay masks absorb excess oil and impurities, while sheet masks with hyaluronic acid or Vitamin E deliver an instant glow and hydration boost."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "8. Eye Cream"
+        "text": "8. Eye Cream – Reduce Dark Circles & Puffiness"
       },
       {
         "type": "paragraph",
-        "text": "The delicate skin around your eyes can show signs of fatigue and aging. Use an eye cream with brightening ingredients to reduce puffiness and dark circles, and add an instant glow to your eye area."
+        "text": "The delicate skin around your eyes is prone to dark circles, puffiness, and fine lines. A caffeine-infused eye cream can reduce puffiness, while peptides and Vitamin C help brighten and firm the under-eye area, giving you a refreshed and youthful look."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "9. Face Oil"
+        "text": "9. Nourishing Face Oil – Lock in Glow & Moisture"
       },
       {
         "type": "paragraph",
-        "text": "Face oils can lock in moisture, providing deep hydration and leaving your skin with a dewy glow. Choose lightweight oils like argan oil or rosehip oil for non-greasy nourishment that enhances your skin's natural radiance."
+        "text": "Facial oils add an extra layer of nourishment and seal in hydration. Oils like rosehip, argan, or marula provide antioxidants, vitamins, and essential fatty acids that enhance your skin’s natural glow without feeling greasy."
       },
       {
         "type": "heading",
         "level": 3,
-        "text": "10. Spot Treatment"
+        "text": "10. Targeted Spot Treatment – Fight Blemishes Effectively"
       },
       {
         "type": "paragraph",
-        "text": "For those pesky blemishes or acne, a spot treatment can help target and clear up breakouts. Choose one with ingredients like salicylic acid or benzoyl peroxide to help maintain clear skin and keep your complexion glowing."
+        "text": "Breakouts and blemishes can dull your glow. A spot treatment with salicylic acid or benzoyl peroxide helps reduce inflammation and clear acne quickly. For dark spots, opt for treatments with Vitamin C, kojic acid, or niacinamide to fade discoloration."
       },
       {
         "type": "heading",
@@ -113,7 +113,7 @@
       },
       {
         "type": "paragraph",
-        "text": "By incorporating these 10 must-have skincare products into your routine, you'll be on your way to glowing, radiant skin in no time! Remember to find products that suit your skin type and needs for the best results."
+        "text": "By incorporating these 10 essential skincare products into your daily routine, you can achieve a naturally glowing complexion. Focus on hydration, sun protection, and targeted treatments to maintain radiant, healthy skin. Always choose products that suit your skin type for the best results."
       }
     ],
 
@@ -136,163 +136,244 @@
   {
     "id": 2,
     "title": "Morning vs. Night Skincare Routine: What’s the Difference?",
-    "image": "./images/skincare-images/two/Morning vs. Night Skincare.webp",
+    "image": "./images/skincare-images/two/Morning-vs-Night-Skincare-Routine.webp",
     "publish_date": "December 17, 2024",
     "description": "Your skincare routine should adapt to the time of day. Morning and night skincare routines have different purposes and products that cater to your skin’s needs. Let’s explore the key differences between them.",
 
     "content": [
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "Introduction"
-      },
-      {
-        "type": "paragraph",
-        "text": "Your skincare routine should adapt to the time of day. Morning and night skincare routines have different purposes and products that cater to your skin's needs. Let's explore the key differences between them."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Morning Skincare Routine"
-      },
-      {
-        "type": "paragraph",
-        "text": "The morning routine focuses on protection and hydration. Your skin needs to be prepped for the challenges of the day, such as sun exposure and pollution."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "1. Cleanser"
-      },
-      {
-        "type": "paragraph",
-        "text": "A gentle cleanser helps remove oils accumulated overnight."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "2. Toner"
-      },
-      {
-        "type": "paragraph",
-        "text": "A hydrating toner balances your skin’s pH and primes it for the day."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "3. Serum"
-      },
-      {
-        "type": "paragraph",
-        "text": "A vitamin C serum brightens and provides antioxidant protection against UV damage."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Moisturizer"
-      },
-      {
-        "type": "paragraph",
-        "text": "A lightweight moisturizer locks in hydration for the day."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Sunscreen"
-      },
-      {
-        "type": "paragraph",
-        "text": "Sunscreen protects your skin from harmful UV rays."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Night Skincare Routine"
-      },
-      {
-        "type": "paragraph",
-        "text": "Nighttime is for recovery and replenishment. Your skin repairs itself while you sleep, so your nighttime routine supports this process with treatments that target aging, hydration, and deep nourishment."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "1. Cleanser"
-      },
-      {
-        "type": "paragraph",
-        "text": "Remove makeup, dirt, and pollutants accumulated throughout the day."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "2. Exfoliator"
-      },
-      {
-        "type": "paragraph",
-        "text": "Use a mild exfoliator to shed dead skin cells and promote skin renewal."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "3. Toner"
-      },
-      {
-        "type": "paragraph",
-        "text": "A hydrating toner replenishes moisture lost during the day."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Serum"
-      },
-      {
-        "type": "paragraph",
-        "text": "Retinol or anti-aging serums work overnight to rejuvenate the skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Night Cream"
-      },
-      {
-        "type": "paragraph",
-        "text": "A richer night cream nourishes the skin while you sleep."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "6. Eye Cream"
-      },
-      {
-        "type": "paragraph",
-        "text": "Address dark circles or puffiness with a targeted eye cream."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "Conclusion"
-      },
-      {
-        "type": "paragraph",
-        "text": "Both morning and night routines are essential for healthy, glowing skin. By using the right products at the right times, you can protect and nourish your skin more effectively."
-      }
-    ],
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your skincare routine should adapt to the time of day. Morning and night skincare routines have different purposes and products that cater to your skin's needs. A proper routine helps protect against environmental damage during the day and boosts skin repair at night. Let's explore the 10 essential steps for both routines."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Morning Skincare Routine – Protection & Hydration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The morning skincare routine focuses on shielding your skin from external aggressors like pollution and UV rays while maintaining hydration."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Gentle Cleanser"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cleansing removes excess oil, sweat, and overnight buildup, leaving your skin fresh and prepped for the day. Choose a mild, sulfate-free cleanser to maintain the skin’s natural moisture balance."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Hydrating Toner"
+    },
+    {
+      "type": "paragraph",
+      "text": "A toner helps restore the skin’s pH balance and preps it for better absorption of serums and moisturizers. Ingredients like rose water or hyaluronic acid boost hydration and soothe the skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Antioxidant Serum (Vitamin C)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vitamin C serum brightens the complexion, reduces pigmentation, and provides antioxidant protection against free radicals and UV damage."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Lightweight Moisturizer"
+    },
+    {
+      "type": "paragraph",
+      "text": "A non-greasy moisturizer locks in hydration and acts as a base for sunscreen and makeup. Look for ingredients like ceramides and glycerin to keep skin soft and supple."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Broad-Spectrum Sunscreen (SPF 30+)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sunscreen is the most crucial step in preventing premature aging, sunburn, and dark spots. Use a broad-spectrum SPF 30 or higher daily, even on cloudy days."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Eye Cream"
+    },
+    {
+      "type": "paragraph",
+      "text": "A lightweight eye cream with caffeine or peptides reduces morning puffiness and dark circles, keeping your under-eye area refreshed and hydrated."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Lip Balm with SPF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Protect your lips from sun damage and dryness with a nourishing lip balm that contains SPF. Ingredients like shea butter and Vitamin E provide extra hydration."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Facial Mist (Optional)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A refreshing facial mist with rose water or aloe vera provides instant hydration and soothes irritated skin throughout the day."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Primer (For Makeup Wearers)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you wear makeup, a primer helps create a smooth base and enhances the longevity of your foundation while controlling excess oil."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. Hydrating Drink (Internal Care)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glowing skin starts from within. Begin your day with a hydrating drink like warm lemon water or green tea to flush out toxins and boost skin health."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Night Skincare Routine – Repair & Rejuvenation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your nighttime routine focuses on repairing damage, boosting collagen production, and providing deep hydration while you sleep."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Makeup Remover or Oil Cleanser"
+    },
+    {
+      "type": "paragraph",
+      "text": "A cleansing oil or micellar water effectively dissolves makeup, sunscreen, and dirt, ensuring your pores remain unclogged."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Gentle Face Cleanser"
+    },
+    {
+      "type": "paragraph",
+      "text": "A second cleanse with a gentle face wash removes remaining impurities and prepares your skin for treatment products."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Exfoliator (2-3 times a week)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chemical exfoliants (AHAs/BHAs) promote skin renewal, reduce acne scars, and improve texture. Use 2-3 times a week to prevent irritation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Hydrating & Soothing Toner"
+    },
+    {
+      "type": "paragraph",
+      "text": "A night toner infused with niacinamide, green tea, or aloe vera soothes and replenishes the skin, reducing redness and irritation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Treatment Serum (Retinol or Peptides)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Retinol boosts collagen production, reduces fine lines, and prevents breakouts. Alternatively, peptide serums promote skin repair and elasticity."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Night Moisturizer or Sleeping Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "A richer night cream or sleeping mask deeply hydrates and repairs the skin barrier overnight, leaving you with plump and healthy skin in the morning."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Eye Cream (Anti-Aging or Hydrating)"
+    },
+    {
+      "type": "paragraph",
+      "text": "An eye cream with hyaluronic acid or retinol reduces wrinkles and fine lines while preventing under-eye dryness."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Face Oil (For Dry or Mature Skin)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding a few drops of face oil, like argan or rosehip oil, locks in moisture and provides essential fatty acids for overnight nourishment."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Overnight Spot Treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "A targeted treatment with benzoyl peroxide or salicylic acid helps reduce acne spots and inflammation while you sleep."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. Silk Pillowcase & Sleep Hygiene"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using a silk pillowcase reduces friction, preventing wrinkles and hair breakage. Getting 7-9 hours of quality sleep is essential for skin renewal."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "By following a structured morning and night skincare routine, you can achieve long-term glowing, youthful skin. Using the right products at the right time ensures maximum effectiveness and long-lasting skin health."
+    }
+  ],
 
     "extra_images": [
-      "./images/skincare-images/two/MorningRoutine.webp",
-      "./images/skincare-images/two/NightSkincareRoutine.webp"
+      "./images/skincare-images/two/Morning-Routine.webp",
+      "./images/skincare-images/two/Night-Routine.webp"
     ],
     "products": [
       {
         "image": "https://m.media-amazon.com/images/I/51beKkM7iIL._SX522_.jpg",
-        "title": "EltaMD UV Clear Face Sunscreen SPF 46, Oil Free Sunscreen with Zinc Oxide, Dermatologist Recommended Sunscreen",
-        "description": "EltaMD UV Clear is an oil free sunscreen with Zinc Oxide that blends in effortlessly and leaves no white cast, Helps protect against breakouts and is an essential acne sunscreen for those with acne prone skin care concerns, This travel size sunscreen pump bottle is the perfect companion for bringing on the go as your daily face sunscreen, Face sunscreen for sensitive skin helps soothe sensitive skin types prone to acne, rosacea, and hyperpigmentation, This facial sunscreen can easily be worn alone or under makeup and is an ideal face sunscreen for oily skin.",
+        "title": "EltaMD UV Clear Face Sunscreen SPF 46 – Best for Morning Skincare Protection",
+        "description": "EltaMD UV Clear is a dermatologist-recommended sunscreen with SPF 46, specially designed for morning skincare routines. This oil-free sunscreen with Zinc Oxide provides broad-spectrum protection against UV rays, preventing sun damage, premature aging, and hyperpigmentation. Its lightweight formula blends effortlessly into the skin without leaving a white cast, making it perfect for acne-prone and sensitive skin. Apply this sunscreen daily as the final step in your morning routine to keep your skin shielded and healthy.",
         "link": "https://amzn.to/4aGbCRG"
       },
       {
         "image": "https://m.media-amazon.com/images/I/71r7bLsvaVL._SX679_.jpg",
-        "title": "CeraVe Skin Renewing Night Cream, Niacinamide, Peptide Complex, and Hyaluronic Acid Moisturizer for Face, 1.7 Ounce, Packaging may Vary",
-        "description": "[ PEPTIDE COMPLEX ] Help reduced the look of fine lines and wrinkles while supporting skin elasticity [ OVERNIGHT MOISTURIZER ] Helps soften, hydrate and retain skin's moisture with hyaluronic acid. Renew the look of tired skin overnight. This skin care product does not come with a protection inner seal.",
+        "title": "CeraVe Skin Renewing Night Cream – Hydration & Repair for Night Skincare",
+        "description": "CeraVe Skin Renewing Night Cream is a must-have for your nighttime skincare routine. Enriched with **niacinamide, peptides, and hyaluronic acid**, this deeply hydrating moisturizer helps restore the skin barrier, reduce fine lines, and improve elasticity while you sleep. The peptide complex supports collagen production, making your skin appear plumper and refreshed in the morning. Apply this cream as the last step in your night routine for optimal hydration and skin repair.",
         "link": "https://amzn.to/3PZfgN3"
       }
     ]
@@ -300,82 +381,128 @@
 
   {
     "id": 3,
-    "title": "Top 5 Natural Ingredients for Healthy Skin",
-    "image": "./images/skincare-images/three/NaturalIngredientsforHealthySkin.webp",
+    "title": "10 Best Natural Ingredients for Glowing & Healthy-Skin",
+    "image": "./images/skincare-images/three/Natural-Ingredients-for-Glowing.webp",
     "publish_date": "December 19, 2024",
-    "description": "Natural ingredients can work wonders for your skin by providing essential nutrients and nourishment. In this blog, we explore the top 5 natural ingredients that you can incorporate into your skincare routine for healthy and glowing skin.",
+    "description": "Discover the 10 best natural ingredients that nourish, hydrate, and protect your skin. From aloe vera to almond oil, these skincare essentials help achieve a radiant and youthful glow naturally.",
     "content": [
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "1. Aloe Vera"
-      },
-      {
-        "type": "paragraph",
-        "text": "Aloe vera is well known for its soothing properties. It's rich in antioxidants and vitamins that promote skin hydration, reduce inflammation, and heal skin damage."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "2. Honey"
-      },
-      {
-        "type": "paragraph",
-        "text": "Honey is a natural humectant, meaning it helps to draw moisture into the skin. It also has antibacterial properties that can help treat acne and prevent breakouts."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "3. Green Tea"
-      },
-      {
-        "type": "paragraph",
-        "text": "Green tea is packed with polyphenols that fight free radicals and reduce the signs of aging. It also has anti-inflammatory properties, making it great for soothing irritated skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Coconut Oil"
-      },
-      {
-        "type": "paragraph",
-        "text": "Coconut oil is a natural moisturizer and works well to nourish dry skin. It also has antimicrobial properties that help prevent infection and protect the skin from harmful bacteria."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Turmeric"
-      },
-      {
-        "type": "paragraph",
-        "text": "Turmeric contains curcumin, which is known for its anti-inflammatory and antioxidant properties. It helps in reducing redness and brightening the skin for a natural glow."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "Conclusion"
-      },
-      {
-        "type": "paragraph",
-        "text": "Incorporating these natural ingredients into your skincare routine can give your skin the nourishment it needs to stay healthy and glowing. Whether it's soothing aloe vera, hydrating honey, or brightening turmeric, each of these ingredients offers unique benefits for your skin."
-      }
-    ],
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Aloe Vera - A Natural Moisturizer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aloe vera is known for its soothing and hydrating properties. It is rich in antioxidants and vitamins that help calm inflammation, heal skin damage, and keep your skin moisturized."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Honey - The Best Natural Antibacterial Agent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Honey is a natural humectant, meaning it helps retain moisture in the skin. Its antibacterial properties help fight acne and keep the skin clear and healthy."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Green Tea - Packed with Antioxidants"
+    },
+    {
+      "type": "paragraph",
+      "text": "Green tea contains polyphenols that protect the skin from free radicals and reduce signs of aging. It also has anti-inflammatory properties that help soothe irritated skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Coconut Oil - Deep Hydration & Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Coconut oil is a natural moisturizer that deeply nourishes dry skin. It also has antimicrobial properties that protect the skin from bacteria and infections."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Turmeric - For Glowing & Even-Toned Skin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turmeric contains curcumin, which has powerful anti-inflammatory and antioxidant effects. It helps reduce redness and enhances the skin's natural glow."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Rose Water - A Refreshing Natural Toner"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rose water hydrates and refreshes the skin while balancing its pH levels. It also acts as a natural toner that controls excess oil and improves skin texture."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Oatmeal - A Gentle Natural Exfoliator"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oatmeal is excellent for exfoliating dead skin cells and unclogging pores. It also has soothing and moisturizing properties, making it great for sensitive skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Yogurt - A Natural Skin Brightening Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yogurt contains lactic acid, which gently exfoliates the skin, leaving it smooth and radiant. It also helps improve skin tone and reduce dullness."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Cucumber - A Cooling & Hydrating Ingredient"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cucumber is rich in water and essential vitamins that hydrate and refresh the skin. It is especially effective in reducing puffiness around the eyes."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. Almond Oil - Deep Nourishment & Repair"
+    },
+    {
+      "type": "paragraph",
+      "text": "Almond oil is packed with Vitamin E, which deeply moisturizes the skin, reduces dark circles, and enhances the skin’s natural glow."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Incorporating these natural ingredients into your skincare routine can help keep your skin healthy, radiant, and well-nourished. Whether it’s the soothing effect of aloe vera or the brightening power of turmeric, each ingredient offers unique benefits. Start using them today for naturally glowing skin!"
+    }
+      ],
+
     "extra_images": [
-      "./images/skincare-images/three/Natural1.webp",
-      "./images/skincare-images/three/Natural2.webp"
+      "./images/skincare-images/three/Healthy-Skin.webp",
+      "./images/skincare-images/three/Healthy-Skin1.webp"
     ],
 
     "products": [
       {
         "image": "https://m.media-amazon.com/images/I/81igfHZd8ZL._SY879_.jpg",
-        "title": "Seven Minerals Organic Aloe Vera Gel from freshly cut 100% Pure Aloe - Big 12oz - HighestQuality, Texas grown, Vegan, Unscented - For Face, Skin, Hair, Sunburn relief",
-        "description": "Highest Quality - to ensure freshness our Aloe is proudly grown here in Southern Texas. NSF Organic & IASC Certified.",
+        "title": "Seven Minerals Organic Aloe Vera Gel – 100% Pure & Freshly Cut for Skin, Hair & Sunburn Relief (12oz)",
+        "description": "Experience deep hydration and soothing relief with this 100% pure organic Aloe Vera Gel. Made from freshly cut aloe leaves, it nourishes skin, reduces inflammation, and provides natural sunburn relief. Ideal for face, body, and hair care.",
         "link": "https://amzn.to/3WIXfGJ"
       },
       {
         "image": "https://m.media-amazon.com/images/I/61eXQt9+L0L._AC_SX679_.jpg",
-        "title": "HERITAGE STORE Rosewater Facial Toner with Hyaluronic Acid, Dry to Combination Skin, Hydrating Toner Refines Pores, Minimizes Look of Fine Lines and Wrinkles, Hypoallergenic, Vegan, Cruelty Free, 8oz",
-        "description": "Set the Tone – Ultra-hydrating toner refreshes and smooths skin, refines pores and helps minimize the appearance of fine lines and wrinkles with regular use.Deep Moisture – Made without dyes or alcoholǂ, our toner delivers deep hydration with Hyaluronic Acid and Sodium PCA for plumper-looking skin and a natural glow.",
+        "title": "HERITAGE STORE Rosewater Facial Toner – Hydrating & Pore-Refining Toner with Hyaluronic Acid (8oz)",
+        "description": "Hydrate and refresh your skin with this rosewater toner infused with Hyaluronic Acid. It helps refine pores, minimize fine lines, and provide deep moisture for a radiant, youthful glow. Perfect for dry to combination skin.",
         "link": "https://amzn.to/4aOAg2M"
       }
     ]
@@ -384,77 +511,114 @@
   {
     "id": 4,
     "title": "How to Build a Skincare Routine for Oily Skin",
-    "image": "./images/skincare-images/four/SkincareRoutineforOilySkin.webp",
+    "image": "./images/skincare-images/four/Build-a-Skincare-Routine.webp",
     "publish_date": "December 21, 2024",
     "description": "Oily skin requires special attention to balance oil production while maintaining hydration and preventing clogged pores. This blog guides you through creating an effective skincare routine for oily skin.",
     "content": [
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "1. Cleanser"
-      },
-      {
-        "type": "paragraph",
-        "text": "A gentle foaming or gel-based cleanser works best for oily skin. Look for a product that is specifically formulated for oily skin to help remove excess sebum and impurities without stripping the skin of its natural moisture."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "2. Toner"
-      },
-      {
-        "type": "paragraph",
-        "text": "A toner can help balance the skin's pH and control excess oil. Choose a toner that is alcohol-free and contains ingredients like witch hazel, salicylic acid, or niacinamide to minimize pores and reduce oil production."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "3. Exfoliation"
-      },
-      {
-        "type": "paragraph",
-        "text": "Exfoliating is essential to prevent clogged pores, which can lead to acne. Opt for a chemical exfoliant containing salicylic acid, which penetrates deep into the pores to remove dead skin cells and reduce breakouts."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Serum"
-      },
-      {
-        "type": "paragraph",
-        "text": "Lightweight, oil-free serums are great for oily skin. Look for a serum with ingredients like hyaluronic acid, niacinamide, or salicylic acid to hydrate the skin without adding excess oil."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Moisturizer"
-      },
-      {
-        "type": "paragraph",
-        "text": "Even oily skin needs moisture. Choose a non-comedogenic, oil-free moisturizer that hydrates without clogging the pores. Gel-based moisturizers are usually ideal for oily skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "6. Sunscreen"
-      },
-      {
-        "type": "paragraph",
-        "text": "Sunscreen is essential for any skincare routine. Look for a broad-spectrum sunscreen that is specifically designed for oily or acne-prone skin to avoid breakouts while protecting against harmful UV rays."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "Conclusion"
-      },
-      {
-        "type": "paragraph",
-        "text": "By incorporating these steps into your daily skincare routine, you can effectively manage oily skin, reduce breakouts, and maintain a healthy complexion."
-      }
-    ],
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "1. Cleanser"
+  },
+  {
+    "type": "paragraph",
+    "text": "A gentle foaming or gel-based cleanser is essential for oily skin. Choose a cleanser with ingredients like salicylic acid or tea tree oil to remove excess oil, unclog pores, and prevent breakouts without over-drying your skin."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "2. Toner"
+  },
+  {
+    "type": "paragraph",
+    "text": "Toners help balance skin pH and control oil production. Opt for an alcohol-free toner with witch hazel, niacinamide, or green tea extract to minimize pores, soothe inflammation, and reduce shine."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "3. Exfoliation"
+  },
+  {
+    "type": "paragraph",
+    "text": "Regular exfoliation prevents clogged pores and controls acne. Use a chemical exfoliant with salicylic acid or glycolic acid 2–3 times a week to remove dead skin cells, reduce blackheads, and improve skin texture."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "4. Serum"
+  },
+  {
+    "type": "paragraph",
+    "text": "Serums help target specific skin concerns. A lightweight, oil-free serum with niacinamide, hyaluronic acid, or zinc helps regulate oil, hydrate the skin, and reduce redness or acne scars."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "5. Moisturizer"
+  },
+  {
+    "type": "paragraph",
+    "text": "Even oily skin needs hydration. Choose a non-comedogenic, water-based moisturizer with ingredients like hyaluronic acid or aloe vera to provide hydration without clogging pores."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "6. Sunscreen"
+  },
+  {
+    "type": "paragraph",
+    "text": "Sunscreen is crucial for protecting the skin from sun damage. Use an oil-free, mattifying sunscreen with SPF 30+ to prevent premature aging, hyperpigmentation, and excess oil buildup."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "7. Clay Mask"
+  },
+  {
+    "type": "paragraph",
+    "text": "A clay mask helps absorb excess oil and detoxify the skin. Use a mask with bentonite or kaolin clay once or twice a week to deeply cleanse pores and reduce shine."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "8. Spot Treatment"
+  },
+  {
+    "type": "paragraph",
+    "text": "For occasional breakouts, use a spot treatment with benzoyl peroxide, salicylic acid, or tea tree oil to target pimples, reduce inflammation, and speed up healing."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "9. Hydrating Face Mist"
+  },
+  {
+    "type": "paragraph",
+    "text": "A lightweight hydrating mist can refresh and balance oily skin throughout the day. Choose one with rose water or green tea to control oil and keep your skin feeling fresh."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "10. Balanced Diet & Hydration"
+  },
+  {
+    "type": "paragraph",
+    "text": "Healthy skin starts from within. Drink plenty of water, eat antioxidant-rich foods, and limit processed foods to help regulate oil production and maintain a clear complexion."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "Conclusion"
+  },
+  {
+    "type": "paragraph",
+    "text": "By following these 10 essential steps, you can effectively manage oily skin, prevent breakouts, and maintain a fresh, shine-free complexion. Consistency is key to achieving long-term results."
+  }
+],
+
     "extra_images": [
-      "./images/skincare-images/four/OilySkin2.webp",
-      "./images/skincare-images/four/OilySkin1.webp"
+      "./images/skincare-images/four/Oily-Skin.webp",
+      "./images/skincare-images/four/Oily-Skin1.webp"
     ],
     "products": [
       {
@@ -474,126 +638,207 @@
 
   {
     "id": 5,
-    "title": "DIY Face Masks for Clear and Radiant Skin",
-    "image": "./images/skincare-images/five/MasksforClearandRadiantSkin.webp",
+    "title": "Best DIY Face Masks for Glowing and Healthy Skin",
+    "image": "./images/skincare-images/five/Masks-for-Clear-and-Radiant-Skin.webp",
     "publish_date": "December 23, 2024",
-    "description": "DIY face masks are a great way to achieve clear and radiant skin using natural ingredients. This blog will guide you through the top DIY masks for a glowing complexion.",
-    "content": [
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "1. Honey and Lemon Mask"
-      },
-      {
-        "type": "paragraph",
-        "text": "Honey is a natural humectant, drawing moisture into the skin, while lemon helps brighten the complexion due to its high vitamin C content. This mask is great for lightening dark spots and promoting a healthy glow."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to use - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Mix one tablespoon of honey with a few drops of fresh lemon juice. Apply it to your face and leave it on for 15-20 minutes. Rinse off with lukewarm water."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "2. Oatmeal and Yogurt Mask"
-      },
-      {
-        "type": "paragraph",
-        "text": "Oatmeal is excellent for soothing irritated skin, while yogurt is packed with probiotics and lactic acid that help exfoliate and hydrate the skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to use - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Mix two tablespoons of oatmeal with two tablespoons of yogurt. Apply the mixture to your face and let it sit for 15-20 minutes. Gently scrub it off with warm water."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "3. Avocado and Honey Mask"
-      },
-      {
-        "type": "paragraph",
-        "text": "Avocado is rich in healthy fats and antioxidants, making it ideal for deep moisturization. Honey adds a layer of hydration and promotes smooth skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to use - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Mash half an avocado and mix it with one tablespoon of honey. Apply it to your face and leave it on for 20 minutes. Rinse with warm water."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Turmeric and Milk Mask"
-      },
-      {
-        "type": "paragraph",
-        "text": "Turmeric has anti-inflammatory and antioxidant properties, making it an excellent ingredient for promoting clear skin. Combined with milk, which contains lactic acid, this mask helps brighten and smooth the skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to use - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Mix one teaspoon of turmeric powder with enough milk to form a paste. Apply to your face and leave it on for 15-20 minutes before washing off with lukewarm water."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Cucumber and Aloe Vera Mask"
-      },
-      {
-        "type": "paragraph",
-        "text": "Cucumber is great for soothing the skin, and aloe vera is known for its cooling and hydrating properties. This mask helps reduce puffiness and provides instant relief to tired skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to use - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Blend half a cucumber with two tablespoons of fresh aloe vera gel. Apply the mixture to your face and relax for 20 minutes. Rinse off with cool water."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "Conclusion"
-      },
-      {
-        "type": "paragraph",
-        "text": "These DIY face masks are easy to make and use natural ingredients that benefit your skin. Whether you’re looking for a moisturizing mask, a brightening boost, or relief from irritation, these masks will help you achieve clear and radiant skin."
-      }
-    ],
+    "description": "Discover the best DIY face masks made from natural ingredients to nourish, hydrate, and brighten your skin. These easy-to-make masks will help you achieve a clear, radiant complexion while addressing common skincare concerns.",
+   "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Honey and Lemon Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Honey is a natural humectant, drawing moisture into the skin, while lemon helps brighten the complexion due to its high vitamin C content. This mask is great for lightening dark spots and promoting a healthy glow."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Mix one tablespoon of honey with a few drops of fresh lemon juice. Apply it to your face and leave it on for 15-20 minutes. Rinse off with lukewarm water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Oatmeal and Yogurt Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oatmeal is excellent for soothing irritated skin, while yogurt is packed with probiotics and lactic acid that help exfoliate and hydrate the skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Mix two tablespoons of oatmeal with two tablespoons of yogurt. Apply the mixture to your face and let it sit for 15-20 minutes. Gently scrub it off with warm water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Avocado and Honey Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avocado is rich in healthy fats and antioxidants, making it ideal for deep moisturization. Honey adds a layer of hydration and promotes smooth skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Mash half an avocado and mix it with one tablespoon of honey. Apply it to your face and leave it on for 20 minutes. Rinse with warm water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Turmeric and Milk Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turmeric has anti-inflammatory and antioxidant properties, making it an excellent ingredient for promoting clear skin. Combined with milk, which contains lactic acid, this mask helps brighten and smooth the skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Mix one teaspoon of turmeric powder with enough milk to form a paste. Apply to your face and leave it on for 15-20 minutes before washing off with lukewarm water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Cucumber and Aloe Vera Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cucumber is great for soothing the skin, and aloe vera is known for its cooling and hydrating properties. This mask helps reduce puffiness and provides instant relief to tired skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Blend half a cucumber with two tablespoons of fresh aloe vera gel. Apply the mixture to your face and relax for 20 minutes. Rinse off with cool water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Banana and Honey Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bananas contain vitamins and antioxidants that help nourish and soften the skin. Honey enhances hydration and improves the skin’s elasticity."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Mash one ripe banana and mix it with one tablespoon of honey. Apply to your face and let it sit for 20 minutes before rinsing off with lukewarm water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Green Tea and Honey Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Green tea is packed with antioxidants that protect the skin from damage, while honey helps soothe and moisturize."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Brew a green tea bag and let it cool. Mix one tablespoon of green tea with one teaspoon of honey and apply to the face for 15 minutes. Rinse with warm water."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Rose Water and Sandalwood Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sandalwood has anti-inflammatory properties that calm the skin, while rose water helps maintain the skin’s pH balance and adds a natural glow."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Mix two tablespoons of sandalwood powder with enough rose water to create a smooth paste. Apply to the face and rinse off after 15 minutes."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Egg White and Lemon Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Egg whites help tighten pores and control oil, while lemon brightens the skin and reduces blemishes."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Whisk one egg white with a few drops of lemon juice and apply a thin layer to your face. Let it dry for 15 minutes and rinse off."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. Orange Peel and Yogurt Mask"
+    },
+    {
+      "type": "paragraph",
+      "text": "Orange peel contains vitamin C and citric acid, which help exfoliate and brighten dull skin."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": " - How to use - "
+    },
+    {
+      "type": "paragraph",
+      "text": "Grind dried orange peels into powder and mix with yogurt to make a paste. Apply to your face and rinse after 15 minutes."
+    }
+  ],
     "extra_images": [
-      "./images/skincare-images/five/RadiantSkin1.webp",
-      "./images/skincare-images/five/RadiantSkin2.webp"
+      "./images/skincare-images/five/Radiant-Skin.webp",
+      "./images/skincare-images/five/Radiant-Skin1.webp"
     ],
     "products": [
       {
         "image": "https://m.media-amazon.com/images/I/61irhLmwcHL._SX679_.jpg",
-        "title": "Manuka Health, MGO 400+ Manuka Honey Lozenges with Lemon, 58 lozenges, 8.8 oz, 100% Natural with Vitamin C",
-        "description": "Lozenges made with our high grade MGO 400+ Manuka Honey, certified for natural methylglyoxal content (400mg/kg) These delicious soothing lozenges help to calm and soothe a dry, scratchy throat giving instant relief that lasts",
+        "title": "Manuka Honey Lozenges with Lemon – Soothing & Natural Relief for Skin and Health",
+        "description": "Infused with premium MGO 400+ Manuka Honey and Vitamin C, these lozenges provide natural hydration and soothing relief. Perfect for maintaining skin health and overall wellness.",
         "link": "https://amzn.to/4hhVoAB"
       },
       {
         "image": "https://m.media-amazon.com/images/I/61uJALUrg6L._SX679_.jpg",
-        "title": "Aztec Secret Essential Indian Clay Mask Kit by Etana – 100% Natural Calcium Bentonite for Deep Pore Cleansing - Facial, Hair & Body Detox Set With Accessories",
-        "description": "Ultimate Purity & Potency - Experience deep pore cleansing with our 100% natural Calcium Bentonite Clay, revered as the highest quality Aztec Indian Healing Clay available for skin, hair, and body treatments.",
+        "title": "Aztec Secret Indian Clay Mask – Deep Pore Cleansing & Detox for Glowing Skin",
+        "description": "Made from 100% natural Calcium Bentonite Clay, this mask deeply cleanses pores, removes impurities, and enhances skin texture. Ideal for face, hair, and body detox treatments.",
         "link": "https://amzn.to/40CT5Bf"
       }
     ]
@@ -601,132 +846,205 @@
 
   {
     "id": 6,
-    "title": "Common Skincare Mistakes You Should Avoid",
-    "image": "./images/skincare-images/six/SkincareMistakesYouShouldAvoid.webp",
+    "title": "Skincare Mistakes That Harm Your Skin & How to Avoid Them",
+    "image": "./images/skincare-images/six/Skincare-Mistakes-You-Should-Avoid.webp",
     "publish_date": "December 26, 2024",
-    "description": "Learn about common skincare mistakes that could be sabotaging your routine and how to avoid them for healthier, glowing skin.",
-    "content": [
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "1. Over-Cleansing Your Skin"
-      },
-      {
-        "type": "paragraph",
-        "text": "Over-cleansing your skin can strip it of its natural oils, leading to dryness and irritation. This is particularly harmful if you have sensitive or dry skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to Avoid - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Stick to cleansing your face twice a day—once in the morning and once at night. Use a gentle cleanser suited to your skin type to keep it hydrated without over-drying."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "2. Skipping Sunscreen"
-      },
-      {
-        "type": "paragraph",
-        "text": "Sunscreen is one of the most important steps in any skincare routine, but many people skip it. Sun exposure can lead to premature aging, sunburns, and even skin cancer."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to Avoid - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Apply sunscreen every day, even when you’re indoors, as harmful UV rays can penetrate windows. Make sure to use a broad-spectrum sunscreen with SPF 30 or higher."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "3. Not Removing Makeup Before Bed"
-      },
-      {
-        "type": "paragraph",
-        "text": "Sleeping with makeup on can clog your pores, leading to acne and breakouts. It also prevents your skin from repairing itself during the night."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to Avoid - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Make sure to thoroughly remove all makeup before going to bed. Use a makeup remover or micellar water, followed by your regular cleanser."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Using Harsh Exfoliators"
-      },
-      {
-        "type": "paragraph",
-        "text": "Exfoliating is important to remove dead skin cells, but using harsh exfoliants or over-exfoliating can damage your skin's protective barrier, leading to redness, irritation, and breakouts."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to Avoid - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Choose a gentle exfoliator and only exfoliate 1-2 times a week, depending on your skin type. Avoid physical scrubs with large, rough particles that can scratch the skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Using Products Not Suitable for Your Skin Type"
-      },
-      {
-        "type": "paragraph",
-        "text": "Using the wrong skincare products can worsen your skin problems. For example, heavy moisturizers can clog pores for oily skin, while lightweight products might not provide enough hydration for dry skin."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to Avoid - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Make sure to choose skincare products that are suited to your specific skin type—whether it’s oily, dry, combination, or sensitive. Look for products that cater to your skin's individual needs."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "6. Neglecting Your Neck and Décolletage"
-      },
-      {
-        "type": "paragraph",
-        "text": "Many people focus on their face but neglect their neck and chest area, which are also prone to signs of aging and skin damage."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": " - How to Avoid - "
-      },
-      {
-        "type": "paragraph",
-        "text": "Apply your skincare products, including sunscreen, to your neck and décolletage area to ensure comprehensive skincare protection."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "Conclusion"
-      },
-      {
-        "type": "paragraph",
-        "text": "Avoiding these common skincare mistakes will help you maintain a clear, healthy complexion. Focus on consistency, choosing the right products, and protecting your skin from sun damage to keep it looking youthful and radiant."
-      }
-    ],
+    "description": "Discover the top 10 skincare mistakes that may be damaging your skin and learn expert tips to achieve a healthier, glowing complexion.",
+  "content": [
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "1. Over-Cleansing Your Skin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Cleansing too often strips away natural oils, leading to dryness, irritation, and a compromised skin barrier."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Limit cleansing to twice a day using a gentle, hydrating cleanser suited to your skin type."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "2. Skipping Sunscreen"
+  },
+  {
+    "type": "paragraph",
+    "text": "Unprotected sun exposure accelerates aging, causes hyperpigmentation, and increases the risk of skin cancer."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Use a broad-spectrum SPF 30+ sunscreen daily, even indoors, and reapply every two hours when outside."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "3. Sleeping with Makeup On"
+  },
+  {
+    "type": "paragraph",
+    "text": "Leaving makeup overnight clogs pores, triggers breakouts, and prevents the skin from repairing itself."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Always remove makeup using micellar water or an oil-based cleanser, followed by your regular face wash."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "4. Over-Exfoliating Your Skin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Exfoliating too often or using harsh scrubs weakens the skin’s barrier, leading to irritation and redness."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Exfoliate 1-2 times a week with a gentle chemical or enzyme exfoliant for a smoother complexion."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "5. Using the Wrong Skincare Products"
+  },
+  {
+    "type": "paragraph",
+    "text": "Products not suited to your skin type can cause breakouts, dryness, or excessive oil production."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Identify your skin type and use products formulated to address its specific needs."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "6. Neglecting Your Neck and Décolletage"
+  },
+  {
+    "type": "paragraph",
+    "text": "The neck and chest area show signs of aging quickly due to lack of care and sun protection."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Extend your skincare routine, including sunscreen and moisturizers, to your neck and décolletage."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "7. Not Staying Hydrated"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dehydration leads to dull, flaky skin and increases the appearance of fine lines and wrinkles."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Drink at least 8 glasses of water daily and use a hydrating moisturizer with hyaluronic acid."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "8. Popping Pimples"
+  },
+  {
+    "type": "paragraph",
+    "text": "Picking at acne can worsen inflammation, lead to scarring, and spread bacteria."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Use spot treatments with salicylic acid or benzoyl peroxide instead of squeezing pimples."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "9. Ignoring a Consistent Routine"
+  },
+  {
+    "type": "paragraph",
+    "text": "Inconsistent skincare routines lead to slow progress and ineffective results."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Follow a daily skincare routine with cleansing, moisturizing, and sun protection to maintain healthy skin."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "10. Stress and Lack of Sleep"
+  },
+  {
+    "type": "paragraph",
+    "text": "Stress and insufficient sleep trigger breakouts, dark circles, and premature aging."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": " - How to Avoid - "
+  },
+  {
+    "type": "paragraph",
+    "text": "Practice stress management techniques and get at least 7-8 hours of quality sleep each night."
+  },
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "Conclusion"
+  },
+  {
+    "type": "paragraph",
+    "text": "Avoiding these common skincare mistakes will help you achieve healthy, radiant skin. Consistency, hydration, and using the right products are key to maintaining a youthful glow."
+  }
+],
+
     "extra_images": [
-      "./images/skincare-images/six/ShouldAvoid.webp",
-      "./images/skincare-images/six/ShouldAvoid1.webp"
+      "./images/skincare-images/six/Should-Avoid.webp",
+      "./images/skincare-images/six/Should-Avoid1.webp"
     ],
     "products": [
       {
@@ -746,10 +1064,10 @@
 
   {
     "id": 7,
-    "title": "Best Skincare Tips for Winter Season",
-    "image": "./images/skincare-images/seven/TipsforWinterSeason.webp",
+    "title": "Winter Skincare: Essential Tips for Hydrated & Healthy Skin",
+    "image": "./images/skincare-images/seven/Winter-Skincare-Essential-Tips.webp",
     "publish_date": "January 28, 2025",
-    "description": "Winter can be harsh on your skin, but these tips will help you keep your skin hydrated and glowing throughout the cold season.",
+    "description": "Protect your skin from winter dryness with expert skincare tips. Learn how to keep your skin nourished, hydrated, and glowing all season long.",
     "content": [
       {
         "type": "heading",
@@ -758,7 +1076,7 @@
       },
       {
         "type": "paragraph",
-        "text": "The cold, dry air can quickly strip your skin of its natural moisture. A rich, hydrating moisturizer is essential to lock in moisture and protect your skin."
+        "text": "Winter air can be harsh on your skin, making it dry and flaky. A deeply hydrating moisturizer is essential to lock in moisture and prevent dehydration."
       },
       {
         "type": "heading",
@@ -767,7 +1085,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Opt for thicker creams or oils that are formulated for dry skin. Apply your moisturizer immediately after a shower or wash to seal in the moisture."
+        "text": "Use a thick cream or oil-based moisturizer right after cleansing to seal in moisture. Look for ingredients like hyaluronic acid, ceramides, and shea butter."
       },
       {
         "type": "heading",
@@ -776,7 +1094,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Harsh cleansers can further dry out your skin in winter. Instead, opt for a gentle, hydrating cleanser that won’t strip your skin of its natural oils."
+        "text": "Harsh cleansers can strip your skin’s natural oils, making it dry and sensitive. A mild, hydrating cleanser will clean your skin without over-drying it."
       },
       {
         "type": "heading",
@@ -785,7 +1103,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Look for creamy cleansers or oil-based formulas that help to nourish your skin while effectively removing dirt and makeup."
+        "text": "Choose a sulfate-free, cream-based cleanser that hydrates while cleansing. Avoid foaming cleansers that can be too drying."
       },
       {
         "type": "heading",
@@ -794,7 +1112,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Even though the sun isn’t as intense in winter, UV rays can still damage your skin. Sunscreen is a must year-round, regardless of the season."
+        "text": "Even in winter, UV rays can damage your skin, leading to premature aging. Sunscreen is a must all year round."
       },
       {
         "type": "heading",
@@ -803,16 +1121,16 @@
       },
       {
         "type": "paragraph",
-        "text": "Use a broad-spectrum sunscreen with SPF 30 or higher. Make sure to reapply every two hours, especially if you are outdoors for extended periods."
+        "text": "Apply a broad-spectrum sunscreen (SPF 30 or higher) every morning, even on cloudy days. Reapply every two hours if you're outdoors."
       },
       {
         "type": "heading",
         "level": 4,
-        "text": "4. Exfoliate Gently"
+        "text": "4. Exfoliate Wisely"
       },
       {
         "type": "paragraph",
-        "text": "While exfoliating is important, over-exfoliating can damage your skin, especially during the colder months. A gentle exfoliant will help slough off dead skin cells without causing irritation."
+        "text": "Exfoliation removes dead skin cells, but over-exfoliating can strip moisture and damage your skin barrier."
       },
       {
         "type": "heading",
@@ -821,16 +1139,16 @@
       },
       {
         "type": "paragraph",
-        "text": "Use a mild exfoliator once or twice a week to help maintain smooth skin. Avoid harsh scrubs that could cause microtears in your skin."
+        "text": "Use a mild chemical exfoliant (like lactic acid or PHAs) 1-2 times a week to maintain smooth, hydrated skin. Avoid harsh physical scrubs."
       },
       {
         "type": "heading",
         "level": 4,
-        "text": "5. Hydrate from the Inside Out"
+        "text": "5. Stay Hydrated"
       },
       {
         "type": "paragraph",
-        "text": "Drinking enough water is crucial for maintaining your skin’s hydration levels, especially during the winter months when the air is dry."
+        "text": "Cold weather can make you forget to drink water, but hydration is key for maintaining soft and plump skin."
       },
       {
         "type": "heading",
@@ -839,16 +1157,16 @@
       },
       {
         "type": "paragraph",
-        "text": "Aim to drink at least 8 glasses of water a day. You can also hydrate your skin from the inside out by consuming water-rich foods like cucumbers, oranges, and strawberries."
+        "text": "Drink at least 8 glasses of water daily. Add water-rich foods like cucumbers, oranges, and watermelon to your diet."
       },
       {
         "type": "heading",
         "level": 4,
-        "text": "6. Invest in a Humidifier"
+        "text": "6. Use a Humidifier"
       },
       {
         "type": "paragraph",
-        "text": "Indoor heating can make the air in your home dry, which can affect your skin. A humidifier can help restore moisture to the air and prevent your skin from becoming dry and tight."
+        "text": "Indoor heating makes the air dry, which can dehydrate your skin. A humidifier helps restore moisture levels in your home."
       },
       {
         "type": "heading",
@@ -857,7 +1175,79 @@
       },
       {
         "type": "paragraph",
-        "text": "Place a humidifier in your bedroom while you sleep to keep the air moist, which will help maintain your skin’s hydration."
+        "text": "Keep a humidifier in your bedroom or workspace to maintain optimal skin hydration, especially while you sleep."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "7. Avoid Hot Showers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hot water strips your skin of its natural oils, leaving it dry and irritated."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Avoid - "
+      },
+      {
+        "type": "paragraph",
+        "text": "Take lukewarm showers and limit your bathing time to 10-15 minutes. Apply moisturizer immediately after patting your skin dry."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "8. Protect Your Lips"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chapped lips are common in winter due to cold air and wind. Without proper care, they can become cracked and painful."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Prevent - "
+      },
+      {
+        "type": "paragraph",
+        "text": "Use a hydrating lip balm with SPF and apply it frequently. Avoid licking your lips, as it worsens dryness."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "9. Layer Your Skincare"
+      },
+      {
+        "type": "paragraph",
+        "text": "Using multiple hydrating layers can help retain moisture in your skin."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - How to Layer - "
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with a hydrating toner, followed by a serum (like hyaluronic acid), and then seal it with a moisturizer."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "10. Wear Protective Clothing"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cold weather and harsh winds can cause dryness and irritation. Protective clothing can help minimize exposure."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": " - What to Wear - "
+      },
+      {
+        "type": "paragraph",
+        "text": "Wear gloves, scarves, and hats to shield your skin from extreme cold. Opt for soft, breathable fabrics like cotton or wool."
       },
       {
         "type": "heading",
@@ -866,12 +1256,13 @@
       },
       {
         "type": "paragraph",
-        "text": "Taking extra care of your skin during the winter season can help prevent dryness, irritation, and other skin concerns. By following these skincare tips, you can maintain soft, glowing skin all season long."
+        "text": "Following these 10 winter skincare tips will help you combat dryness, irritation, and sensitivity. Stay consistent with your routine, hydrate well, and protect your skin from harsh weather for a healthy glow all season long."
       }
     ],
+
     "extra_images": [
-      "./images/skincare-images/seven/winter2.webp",
-      "./images/skincare-images/seven/winter1.webp"
+      "./images/skincare-images/seven/Essential-Tips.webp",
+      "./images/skincare-images/seven/Essential-Tips1.webp"
     ],
     "products": [
       {
