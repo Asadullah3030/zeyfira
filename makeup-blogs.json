@@ -575,7 +575,7 @@
 
   {
     "id": 5,
-    "title": "5-Minute Quick Makeup Routine for Busy Mornings",
+    "title": "Effortless 5-Minute Makeup Routine for Hectic Mornings.",
     "image": "./images/makeup-images/five/Quick-Makeup-Routine-for-Busy-Mornings.webp",
     "publish_date": "January 16, 2025",
     "description": "A quick and easy makeup routine that will have you looking fresh and put together in just 5 minutes for those busy mornings.",
@@ -675,7 +675,7 @@
 
   {
     "id": 6,
-    "title": "Best Makeup Products for Sensitive Skin",
+    "title": "Best makeup products designed specifically for sensitive skin.",
     "image": "./images/makeup-images/six/Best-Makeup-Products-for-Sensitive-Skin.webp",
     "publish_date": "January 18, 2025",
     "description": "Discover the best makeup products designed for sensitive skin that offer coverage, hydration, and long-lasting wear without causing irritation.",
@@ -689,7 +689,7 @@
       "type": "list",
       "items": [
         "Lightweight formulas provide hydration without clogging pores.",
-        "Offer light to medium coverage, perfect for sensitive skin."
+        "Deliver light to medium coverage, making them perfect for sensitive skin."
       ]
     },
     {
@@ -712,8 +712,8 @@
     {
       "type": "list",
       "items": [
-        "Cover blemishes, dark circles, and redness without causing irritation.",
-        "Free from harsh chemicals, making them safe for daily use."
+        "Conceal blemishes, dark circles, and redness without causing irritation.",
+        "Free of harsh chemicals, ensuring safety for everyday use."
       ]
     },
     {
@@ -737,7 +737,7 @@
       "type": "list",
       "items": [
         "Powder and cream-based formulas prevent skin irritation.",
-        "Enhance your natural glow without harsh ingredients."
+        "Enhance your skin’s natural glow without harsh additives."
       ]
     },
     {
@@ -761,7 +761,7 @@
       "type": "list",
       "items": [
         "Free from synthetic dyes and fragrances.",
-        "Made with mineral-based ingredients to prevent irritation."
+        "Crafted with mineral-based components to avoid irritation."
       ]
     },
     {
@@ -784,7 +784,7 @@
     {
       "type": "list",
       "items": [
-        "Designed for sensitive eyes to prevent itching and redness.",
+        "Formulated to be safe for sensitive eyes, preventing itching and redness.",
         "Ophthalmologist-tested formulas ensure eye safety."
       ]
     },
@@ -808,7 +808,7 @@
     {
       "type": "list",
       "items": [
-        "Artificial fragrances can cause irritation and dryness.",
+        "Synthetic fragrances can trigger dryness and irritation.",
         "Natural and fragrance-free lipsticks are safer for sensitive skin."
       ]
     },
@@ -821,7 +821,7 @@
       "type": "list",
       "items": [
         "Organic Lipsticks & Glosses – Hydrating and non-toxic",
-        "Lip Balms with SPF – Protect lips while keeping them moisturized"
+        "SPF-enriched lip balms: Provide protection and nourishment for lips."
       ]
     },
     {
@@ -832,8 +832,8 @@
     {
       "type": "list",
       "items": [
-        "Contain physical blockers like zinc oxide and titanium dioxide.",
-        "Provide broad-spectrum protection without irritating sensitive skin."
+        "Provide broad-spectrum coverage without causing discomfort to sensitive skin.",
+        "designed with physical blockers, such as titanium dioxide and zinc oxide, to provide the best possible protection."
       ]
     },
     {
@@ -844,7 +844,7 @@
     {
       "type": "list",
       "items": [
-        "SPF 30+ Mineral Sunscreens – Effective and skin-friendly",
+        "SPF 30+ mineral sunscreens – Skin-friendly and highly effective.",
         "Non-Greasy Formulas – Lightweight and breathable"
       ]
     },
@@ -897,7 +897,7 @@
     {
       "type": "heading",
       "level": 4,
-      "text": "Step 2: Apply a Lightweight Foundation or Tinted Moisturizer"
+      "text": "Step 2: Use a Tinted Moisturizer or Lightweight Foundation."
     },
     {
       "type": "paragraph",
@@ -1001,6 +1001,125 @@
         "title": "MAC Retro Matte Lipstick in Ruby Woo – Iconic Red for a Bold, Long-Lasting Look",
         "description": "Make a statement with MAC’s Retro Matte Lipstick in Ruby Woo. This best-selling, highly pigmented red lipstick delivers an intense color payoff with a smooth, non-drying matte finish. A must-have for classic and glamorous makeup looks.",
         "link": "https://amzn.to/40Wqwjx"
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "title": "2025’s Biggest Cheek Makeup Trends You Need to Try for a Flawless Night Look",
+    "image": "./images/makeup-images/eight/Biggest-Cheek-Makeup-Trends.webp",
+    "publish_date": "March 2, 2025",
+    "description": "Discover the hottest cheek makeup trends of 2025 that will give you a flawless, radiant night look. From bold blush techniques to innovative highlighter placements, here’s everything you need to know!",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Draped Blush for a Sculpted Look"
+      },
+      {
+        "type": "paragraph",
+        "text": "Blush draping is making a major comeback! Sweep blush from your temples to the apples of your cheeks for a lifted, sculpted effect."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Berry-Toned Blush for a Bold Pop"
+      },
+      {
+        "type": "paragraph",
+        "text": "Deep berry and plum shades are dominating night looks, adding a rich and dramatic flush to the cheeks."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "High-Shine Glossy Cheeks"
+      },
+      {
+        "type": "paragraph",
+        "text": "Glossy cheekbones are trending! Apply a lightweight face gloss or liquid highlighter for a wet, dewy finish."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Sunburnt Blush for a Natural Glow"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apply blush across the nose and cheeks to mimic a sun-kissed glow. This youthful trend is perfect for a fresh and radiant look."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Ombré Blush for a Gradient Effect"
+      },
+      {
+        "type": "paragraph",
+        "text": "Blend two blush shades together for a seamless ombré effect that enhances the dimensions of your face."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Strategic Highlighter Placement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Instead of traditional highlighter placements, 2025’s trend focuses on subtle glow along the temples and under the brow bone."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Matte Blush for a Velvety Finish"
+      },
+      {
+        "type": "paragraph",
+        "text": "Matte blushes are making a statement, giving a soft-focus effect that lasts all night without excess shine."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Sculpting with Blush Contouring"
+      },
+      {
+        "type": "paragraph",
+        "text": "Instead of bronzer, use deeper blush shades to softly contour and add dimension to your face."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Cool-Toned Pink Blush for a Fresh Look"
+      },
+      {
+        "type": "paragraph",
+        "text": "Soft, cool-toned pinks are trending for a chic, sophisticated cheek look that complements every skin tone."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "text": "Blush as Eyeshadow for a Monochromatic Look"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apply the same blush shade on your cheeks and eyelids for a modern, harmonious night-out look."
+      }
+    ],
+    "extra_images": [
+      "./images/makeup-images/eight/Cheek-Makeup.webp",
+      "./images/makeup-images/eight/Cheek-Makeup1.webp"
+    ],
+
+    "products": [
+      {
+        "image": "https://m.media-amazon.com/images/I/61KedtnoewL._SX679_.jpg",
+        "title": "Monochromatic Multi Stick, Luxuriously Creamy & Blendable Color, For Eyes, Lips & Cheeks, Dazzling Peony",
+        "description": "VIBRANT, BLENDABLE COLOR: The e.l.f. Monochromatic Multi Stick is a cream-to-powder, wear-everywhere stick that delivers a highly blendable kiss of color.",
+        "link": "https://amzn.to/41AWQZF"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61Z34yXlSQL._SX425_.jpg",
+        "title": "Glow Reviver Lip Oil, Nourishing Tinted Lip Oil For A High-shine Finish, Infused With Jojoba Oil, Vegan & Cruelty-free, Jam Session",
+        "description": "Drench lips in an addictive sheer wash of ultra-glossy color with this revitalizing tinted lip oil.",
+        "link": "https://amzn.to/3Fdw1ll"
       }
     ]
   }
