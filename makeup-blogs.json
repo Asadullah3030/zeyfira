@@ -4,88 +4,118 @@
     "title": "Beginner’s Guide to Everyday Natural Makeup – Step-by-Step Tutorial",
     "image": "./images/makeup-images/one/Everyday-Natural-Makeup-Step-By-Step.webp",
     "publish_date": "January 8, 2025",
-    "description": "Achieve a flawless, natural makeup look with this step-by-step tutorial. Learn how to prep your skin, apply foundation, and create an effortless beauty routine.",
+    "description": "Looking effortlessly beautiful starts with enhancing your natural features rather than covering them up. A natural makeup look allows you to highlight your best features while maintaining a fresh and radiant appearance. In this step-by-step tutorial, you'll learn how to achieve an everyday makeup look that enhances your beauty without looking heavy or overdone.",
     "content": [
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "1. Prep Your Skin"
       },
       {
         "type": "paragraph",
-        "text": "A good makeup look starts with healthy, hydrated skin. Proper skincare ensures that your makeup applies smoothly and lasts longer."
+        "text": "A flawless makeup look begins with well-prepped skin. When your skin is clean, hydrated, and smooth, makeup applies more seamlessly and lasts longer."
       },
+
       {
         "type": "heading",
-        "level": 4,
-        "text": " - How to Prep - "
+        "level": 5,
+        "text": "How to Prep:"
       },
+
       {
-        "type": "paragraph",
-        "text": "- Start with a gentle cleanser to remove dirt and oil.\n- Apply a lightweight moisturizer to keep your skin hydrated.\n- Use a primer suited for your skin type to create a smooth base."
+        "type": "list",
+        "items": [
+          "Start by cleansing your face with a gentle cleanser to remove dirt, oil, and impurities.",
+          "Exfoliate once or twice a week to eliminate dead skin cells and ensure a smooth texture.",
+          "Apply a hydrating moisturizer suited to your skin type to keep your skin plump and nourished.",
+          "Use sunscreen with at least SPF 30 to protect your skin from harmful UV rays.",
+          "Apply a lightweight primer to create a smooth canvas for makeup and help it last throughout the day."
+        ]
       },
+
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "2. Use a Lightweight Foundation or Tinted Moisturizer"
       },
+      
       {
         "type": "paragraph",
-        "text": "For a natural look, opt for a lightweight foundation, BB cream, or tinted moisturizer."
+        "text": "For a natural look, a heavy foundation is unnecessary. Instead, opt for a lightweight product that evens out your complexion while allowing your skin to breathe."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": " - How to Apply - "
+        "level": 5,
+        "text": "How to Apply:"
+      },
+
+      {
+        "type": "list",
+        "items": [
+          "Choose a tinted moisturizer, BB cream, or light-coverage foundation that matches your skin tone.",
+          "Use a damp makeup sponge or your fingers to blend it evenly across your face.",
+          "Focus on areas that need more coverage, like redness or blemishes, while leaving the rest of your skin looking natural.",
+          "If you prefer a dewier look, mix a drop of liquid highlighter into your foundation for a subtle glow."
+        ]
+      },
+
+     
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "3. Conceal Imperfections Naturally"
       },
       {
         "type": "paragraph",
-        "text": "- Choose a product that matches your skin tone.\n- Use a damp makeup sponge or fingers to blend it evenly across your face.\n- Focus on areas that need coverage while letting your natural skin show through."
+        "text": "Concealer helps brighten the under-eyes, cover blemishes, and create an even-toned complexion without making your makeup look cakey."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "3. Conceal Only Where Needed"
+        "level": 5,
+        "text": "How to Apply:"
+      },
+
+      {
+        "type": "list",
+        "items": [
+          "Select a concealer one shade lighter than your skin tone for under-eye brightening.",
+          "Use a shade that matches your skin tone for blemishes and dark spots.",
+          "Apply a small amount under your eyes, around the nose, and on any redness or breakouts.",
+          "Blend gently with a sponge or fingertips, ensuring there are no harsh lines."
+        ]
+      },
+
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "4. Add a Natural Flush with Blush"
       },
       {
         "type": "paragraph",
-        "text": "Concealer helps brighten the under-eyes and cover any blemishes."
+        "text": "Blush is essential for a healthy, radiant complexion. A soft wash of color on your cheeks adds warmth and a youthful glow."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": " - How to Apply - "
+        "level": 5,
+        "text": "How to Apply:"
       },
       {
-        "type": "paragraph",
-        "text": "- Dab a small amount under your eyes, on blemishes, or any redness.\n- Blend it gently with a sponge or fingertips."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "4. Add a Touch of Natural Blush"
-      },
-      {
-        "type": "paragraph",
-        "text": "A soft pink or peach blush adds a healthy glow to your face."
+        "type": "list",
+        "items": [
+          "Choose a blush shade that complements your skin tone (peach, coral, or soft pink work well for most).",
+          "Use a fluffy blush brush to lightly apply the product to the apples of your cheeks.",
+          "Blend it upwards towards your temples for a natural, lifted effect.",
+          "If using a cream blush, apply with your fingers and blend for a seamless finish."
+        ]
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": " - How to Apply - "
+        "level": 3,
+        "text": "5. Subtly Define Your Brows"
       },
       {
         "type": "paragraph",
-        "text": "- Smile and apply blush to the apples of your cheeks.\n- Blend it slightly upward for a natural flush."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "5. Define Your Brows"
-      },
-      {
-        "type": "paragraph",
-        "text": "Well-groomed eyebrows frame your face and complete the natural look."
+        "text": "Well-groomed brows frame the face and enhance your features without looking too bold."
       },
       {
         "type": "heading",
