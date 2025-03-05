@@ -282,118 +282,227 @@
 
   {
     "id": 2,
-    "title": "Best Affordable Makeup Brands for High-Quality Beauty on a Budget",
+    "title": "Top Affordable Makeup Brands for Flawless Beauty on a Budget",
     "image": "./images/makeup-images/two/best-affordable-makeup-brands.webp",
     "publish_date": "January 10, 2025",
-    "description": "Looking for high-quality yet affordable makeup brands? Discover the top 5 budget-friendly beauty brands that deliver amazing results without breaking the bank.",
+    "description": "Looking for high-quality makeup without spending a fortune? Discover the top affordable makeup brands that offer premium results at budget-friendly prices. From flawless foundations to long-lasting lipsticks, these brands prove that beauty doesn’t have to come with a hefty price tag!",
     "content": [
       {
         "type": "heading",
         "level": 3,
-        "text": "Top 5 Affordable Makeup Brands You Must Try"
-      },
-      {
-        "type": "paragraph",
-        "text": "You don't need to spend a fortune to look fabulous! Here are five makeup brands that offer exceptional quality at budget-friendly prices."
-      },
-      {
-        "type": "heading",
-        "level": 4,
         "text": "1. e.l.f. Cosmetics - Quality on a Budget"
       },
       {
         "type": "paragraph",
-        "text": "e.l.f. (Eyes Lips Face) is known for its affordable yet high-quality makeup products. From primers to brushes, e.l.f. offers everything at unbeatable prices."
+        "text": "e.l.f. (Eyes Lips Face) is widely known for offering high-quality, cruelty-free makeup at incredibly low prices. Their products are perfect for both beginners and professionals looking for affordable options without sacrificing performance. From skincare-infused primers to long-lasting setting sprays, e.l.f. ensures that beauty lovers can achieve a flawless look without breaking the bank."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Must-Try Products:" 
+        "level": 5,
+        "text": "Must-Try Products:"
       },
       {
-        "type": "paragraph",
-        "text": "- e.l.f. Poreless Putty Primer\n- e.l.f. Hydrating Camo Concealer"
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Poreless Putty Primer</span> – A fan-favorite primer that blurs imperfections and creates a smooth base for makeup.",
+          "<span class='list-font'>Hydrating Camo Concealer</span> – Provides full coverage while keeping the skin hydrated throughout the day.",
+          "<span class='list-font'>Big Mood Mascara</span> – Adds volume and length to lashes without clumping or flaking.",
+          "<span class='list-font'>Bite-Size Eyeshadow Palette</span> – Pigmented mini palettes that offer high-quality shades at an unbeatable price.",
+          "<span class='list-font'>Halo Glow Liquid Filter</span> – A budget-friendly alternative to luxury glow boosters for radiant skin."
+          
+        ]
       },
+
+
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "2. Maybelline - Drugstore Favorite"
       },
       {
         "type": "paragraph",
-        "text": "A drugstore favorite, Maybelline is a go-to brand for affordable and high-performance makeup, especially their mascaras and foundations."
+        "text": "Maybelline has been a trusted drugstore brand for decades, known for its innovative and high-performance products. Whether you need a long-lasting foundation or an ultra-pigmented lipstick, Maybelline offers affordability without compromising quality."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Must-Try Products:" 
+        "level": 5,
+        "text": "Must-Try Products:"
       },
       {
-        "type": "paragraph",
-        "text": "- Maybelline Fit Me Foundation\n- Maybelline Lash Sensational Mascara"
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Fit Me Matte + Poreless Foundation</span>  – Lightweight, buildable, and available in a wide range of shades.",
+          "<span class='list-font'>Lash Sensational Mascara</span>  – Defines and volumizes lashes for a fanned-out effect.",
+          "<span class='list-font'>SuperStay Matte Ink Liquid Lipstick</span> – Long-wearing and highly pigmented with a matte finish.",
+          "<span class='list-font'>Instant Age Rewind Concealer</span>– A cult-favorite concealer that brightens and corrects under-eye darkness.",
+          "<span class='list-font'>City Bronzer </span>– A soft, blendable bronzer that adds warmth and dimension to the face."
+        ]
       },
+
+
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "3. NYX Professional Makeup - Bold & Affordable"
       },
       {
         "type": "paragraph",
-        "text": "NYX provides professional-grade makeup at a fraction of the cost. Their lip products and setting sprays are among the best in the market."
+        "text": "NYX is a go-to brand for those who love bold, vibrant colors and professional-grade formulas at drugstore prices. Their range includes high-quality lip products, foundations, and setting sprays that cater to both natural and dramatic makeup looks."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Must-Try Products:" 
+        "level": 5,
+        "text": "Must-Try Products:"
       },
       {
-        "type": "paragraph",
-        "text": "- NYX Soft Matte Lip Cream\n- NYX Matte Finish Setting Spray"
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Soft Matte Lip Cream</span> – A comfortable, lightweight matte lipstick in a variety of shades.",
+          "<span class='list-font'>Matte Finish Setting Spray</span> – Keeps makeup locked in place for hours with a shine-free finish.",
+          "<span class='list-font'>Micro Brow Pencil</span> – A precise pencil that mimics natural brow hairs for a defined look.",
+          "<span class='list-font'>Can’t Stop Won’t Stop Foundation</span> – Full-coverage, long-wearing, and suitable for oily skin types.",
+          "<span class='list-font'>Ultimate Shadow Palette </span>– A versatile eyeshadow palette with highly pigmented shades."
+        ]
       },
+
+
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "4. Wet n Wild - Trendy & Budget-Friendly"
       },
       {
         "type": "paragraph",
-        "text": "This brand delivers trendy and high-pigment makeup at an extremely budget-friendly price. Their eyeshadow palettes and highlighters are top-notch."
+        "text": "Wet n Wild is known for its trend-driven, affordable beauty products that deliver high-pigment and long-lasting performance. Their products range from bold lipsticks to luminous highlighters, making them a favorite among beauty enthusiasts."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Must-Try Products:" 
+        "level": 5,
+        "text": "Must-Try Products:"
       },
       {
-        "type": "paragraph",
-        "text": "- Wet n Wild MegaGlo Highlighter\n- Wet n Wild Color Icon Eyeshadow Palette"
+        "type": "list",
+        "items": [
+          "<span class='list-font'>MegaGlo Highlighter</span>  – A blinding highlighter with a silky-smooth formula for a radiant glow.",
+          "<span class='list-font'>PhotoFocus Foundation</span> – A camera-friendly foundation that provides a flawless, natural finish.",
+          "<span class='list-font'>Color Icon Eyeshadow Palette</span>  – Offers a mix of matte and shimmer shades for versatile eye looks.",
+          "<span class='list-font'>Breakup-Proof Liquid Eyeliner</span> – Waterproof, smudge-proof, and intensely pigmented.",
+          "<span class='list-font'>Silk Finish Lipstick</span>– Hydrating, pigmented, and available in a variety of shades."
+        ]
       },
+
+
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "5. Essence Cosmetics - Hidden Gem in Beauty"
       },
       {
         "type": "paragraph",
-        "text": "Essence is an underrated gem in the beauty industry, offering quality makeup at incredibly low prices. Their mascaras are particularly famous."
+        "text": "Essence is an underrated gem in the beauty industry, offering high-quality, cruelty-free makeup at incredibly affordable prices. Their mascaras, lip products, and complexion enhancers have gained a cult following."
       },
       {
         "type": "heading",
-        "level": 4,
-        "text": "Must-Try Products:" 
+        "level": 5,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Lash Princess Mascara</span>  – A top-rated mascara that provides dramatic volume and length.",
+          "<span class='list-font'>Pure Nude Highlighter</span>  – Delivers a natural, lit-from-within glow without chunky glitter.",
+          "<span class='list-font'>Stay 8h Matte Liquid Lipstick</span>  – A long-wearing, comfortable matte liquid lipstick.",
+          "<span class='list-font'>My Skin Perfector Tinted Primer</span> – Blurs imperfections and evens out skin tone.",
+          "<span class='list-font'>Extreme Lasting Eye Pencil</span>– This is Waterproof and highly pigmented for all-day wear."
+        ]
+      },
+
+
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "6. ColourPop - Trendy and Affordable"
       },
       {
         "type": "paragraph",
-        "text": "- Essence Lash Princess Mascara\n- Essence Pure Nude Highlighter"
+        "text": "ColourPop is a beauty brand that offers trendy and high-quality makeup at an affordable price. Known for their vibrant eyeshadows and comfortable lip formulas, ColourPop consistently delivers products that feel luxurious but don’t hurt your wallet."
       },
       {
         "type": "heading",
-        "level": 4,
+        "level": 5,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Super Shock Shadows</span>  – Unique, bouncy-textured eyeshadows with intense pigmentation.",
+          "<span class='list-font'>Ultra Matte Lip</span>  – A highly pigmented, long-wearing liquid lipstick.",
+          "<span class='list-font'>Pretty Fresh Tinted Moisturizer</span>  – Lightweight, hydrating, and perfect for a natural look.",
+          "<span class='list-font'>Brow Boss Pencil</span>– A precise brow pencil that fills in sparse areas effortlessly.",
+          "<span class='list-font'>No Filter Concealer</span> – A creamy, full-coverage concealer that blends seamlessly."
+        ]
+      },
+
+
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "7. Milani - Affordable Luxury"
+      },
+      {
+        "type": "paragraph",
+        "text": "Milani is a brand that combines luxury-quality formulas with drugstore prices. Their highly pigmented products are inspired by runway trends but remain accessible to everyday consumers."
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Baked Blush in Luminoso</span>  – A cult-favorite blush that gives a beautiful, healthy glow.",
+          "<span class='list-font'>Conceal + Perfect 2-in-1 Foundation</span>  – A full-coverage foundation that doubles as a concealer.",
+          "<span class='list-font'>Gilded Eyeshadow Palette </span>   – Richly pigmented shades are perfect for bold and neutral looks.",
+          "<span class='list-font'>Stay Put Brow Color</span>– A gel formula that defines and shapes brows for a long-lasting hold.",
+          "<span class='list-font'>Amore Matte Lip Creme</span> – A velvety, long-wearing liquid lipstick."
+        ]
+      },
+
+
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "8. L.A. Girl - Budget-Friendly Beauty"
+      },
+      {
+        "type": "paragraph",
+        "text": "L.A. Girl is an excellent option for beauty lovers who want high-performance products without spending too much. Their range includes some of the best affordable concealers and eyeshadow palettes."
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Must-Try Products:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Pro Conceal HD Concealer</span>  – One of the best drugstore concealers for brightening and contouring.",
+          "<span class='list-font'>Glazed Lip Paint</span>  – A glossy, high-shine liquid lipstick with intense color.",
+          "<span class='list-font'>Inspiring Eyeshadow Palette </span>  – A mix of shimmers and mattes for endless eye looks.",
+          "<span class='list-font'>Shady Slim Brow Pencil</span> – A fine-tipped pencil for natural-looking brows.",
+          "<span class='list-font'>Volumatic Mascara</span>  – A volumizing mascara that lifts and defines lashes."
+        ]
+      },
+     
+      {
+        "type": "heading",
+        "level": 3,
         "text": "Final Thoughts"
       },
       {
         "type": "paragraph",
-        "text": "High-quality makeup doesn’t have to be expensive! These affordable brands offer stunning products that deliver professional results on a budget."
+        "text": "High-quality makeup doesn’t have to be expensive! These affordable brands offer stunning products that deliver professional results without straining your budget. Whether you're a makeup newbie or a beauty enthusiast, these brands provide an excellent balance of quality, affordability, and performance."
       }
     ],
     "extra_images": [

@@ -701,3 +701,6 @@ h1,h2,h3,p,span{
 .terms h2,h3{
     font-family: "Emilys Candy", serif;
   }
+.list-font{
+    font-weight: 500;
+  }
