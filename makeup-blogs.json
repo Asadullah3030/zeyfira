@@ -527,125 +527,191 @@
 
   {
     "id": 3,
-    "title": "Step-by-Step Guide to Achieve a Flawless Foundation Look",
+    "title": "Flawless Foundation Routine: Pro Techniques for a Smooth & Lasting Finish",
     "image": "./images/makeup-images/three/Step-by-Step-Guide-to-Achieve-a-Flawless-Foundation-Look.webp",
     "publish_date": "January 12, 2025",
-    "description": "Learn how to apply foundation like a pro with this step-by-step guide for a flawless, long-lasting makeup base.",
+    "description": "Achieving a flawless foundation look is the key to a polished and long-lasting makeup routine. Whether you are a beginner or a beauty enthusiast, mastering the right techniques can transform your makeup game. This comprehensive guide will take you through a step-by-step process to ensure your foundation is smooth, natural-looking, and stays in place all day.",
     "content": [
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "Step 1: Cleanse and Prep Your Skin"
       },
       {
         "type": "paragraph",
-        "text": "Before applying any makeup, start with a fresh, clean face. Prepping your skin ensures a smooth application and long-lasting results."
+        "text": "Before applying any foundation, it’s essential to prepare your skin properly. A clean and well-moisturized face provides the perfect base for a smooth application. Skipping this step can lead to uneven application, dry patches, or excessive oiliness."
       },
       {
         "type": "heading",
         "level": 5,
-        "text": "-How to do it-" 
+        "text": "How to do it:" 
       },
       {
-        "type": "paragraph",
-        "text": "• Wash your face with a gentle cleanser to remove dirt and oil. • Apply a hydrating moisturizer to prevent dryness and flakiness. • Use a primer to create a smooth canvas and help foundation last all day."
+        "type": "list",
+        "items": [
+          "Wash your face with a gentle cleanser to remove dirt, oil, and any leftover makeup residue.",
+          "Exfoliate your skin once or twice a week to remove dead skin cells for a smoother surface.",
+          "Apply a lightweight, hydrating moisturizer to keep your skin nourished and prevent dry patches.",
+          "Use a primer suited to your skin type to help your foundation adhere better and last longer.",
+          "Opt for a pore-filling or smoothing primer for a refined finish if you have large pores or fine lines."
+          
+        ]
       },
 
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "Step 2: Choose the Right Foundation for Your Skin Type"
       },
       {
         "type": "paragraph",
-        "text": "Picking the right foundation is crucial for a flawless look. Your choice depends on your skin type and the finish you want."
+        "text": "Picking the right foundation is crucial for achieving a flawless look. Your foundation should match your skin tone and cater to your skin type to provide the best results."
       },
       {
         "type": "heading",
         "level": 5,
-        "text": "-How to choose-" 
-      },
-      {
-        "type": "paragraph",
-        "text": "• Oily skin? Go for a matte, oil-free foundation to control shine. • Dry skin? A hydrating, dewy-finish foundation works best."
+        "text": "How to choose:" 
       },
       
       {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Oily skin? </span> Opt for a matte, oil-free foundation that helps control shine and prevents your makeup from sliding off.",
+          "<span class='list-font'>Dry skin?</span> A hydrating, dewy-finish foundation works best to add a natural glow and prevent flakiness.",
+          "<span class='list-font'>Combination skin?</span> A satin-finish foundation balances both dry and oily areas for a smooth look.",
+          "<span class='list-font'>Sensitive skin? </span>Choose a fragrance-free, lightweight foundation with soothing ingredients to avoid irritation.",
+          "Always test the shade on your jawline in natural light to ensure the best match for your skin tone."
+        ]
+      },
+  
+      {
         "type": "heading",
-        "level": 4,
-        "text": "Step 3: Apply Foundation with the Right Tool"
+        "level": 3,
+        "text": "Step 3: Use the Right Application Tool"
       },
       {
         "type": "paragraph",
-        "text": "The tool you use affects how your foundation looks and how well it blends."
+        "text": "The tool you use to apply foundation plays a crucial role in how your makeup looks. The right applicator ensures even coverage and seamless blending."
       },
       {
         "type": "heading",
         "level": 5,
-        "text": "-Best tools for application-" 
+        "text": "Best tools for application:" 
       },
+
       {
-        "type": "paragraph",
-        "text": "• Beauty Blender (Sponge): Gives a smooth, airbrushed finish. • Foundation Brush: Ideal for full coverage and even application."
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Beauty Blender (Sponge):</span> Dampen the sponge and use a bouncing motion to blend foundation seamlessly into the skin for an airbrushed finish.",
+          "<span class='list-font'>Foundation Brush:</span> Ideal for full coverage; use a stippling or buffing motion to spread the product evenly without streaks.",
+          "<span class='list-font'>Fingers: </span> Best for lightweight or tinted foundations, as the warmth of your hands helps melt the product into your skin."
+        ]
       },
+      
      
       {
         "type": "heading",
-        "level": 4,
-        "text": "Step 4: Blend for a Seamless Look"
+        "level": 3,
+        "text": "Step 4: Apply and Blend for a Natural Look"
       },
       {
         "type": "paragraph",
-        "text": "Blending is the key to achieving a natural-looking foundation."
+        "text": "Blending is the most important step in achieving a flawless foundation look. A poorly blended foundation can make makeup appear cakey or unnatural."
       },
       {
         "type": "heading",
         "level": 5,
-        "text": "-Blending techniques-" 
+        "text": "Blending techniques:" 
       },
+      
       {
-        "type": "paragraph",
-        "text": "• Start from the center of your face and blend outward. • Blend foundation down to your jawline and neck for a seamless transition."
+        "type": "list",
+        "items": [
+          "Start by dotting foundation onto the center of your face (forehead, nose, cheeks, and chin).",
+          "Blend outwards in circular or dabbing motions to ensure a seamless transition.",
+          "Avoid applying too much product at once; start with a thin layer and build up coverage where needed.",
+          "Blend the foundation down to your neck and jawline to avoid any visible foundation lines.",
+          "Pay extra attention to areas around the nose and hairline to prevent uneven patches."
+        ]
       },
      
       {
         "type": "heading",
-        "level": 4,
-        "text": "Step 5: Conceal Imperfections"
+        "level": 3,
+        "text": "Step 5: Conceal Imperfections and Highlight Features"
       },
       {
         "type": "paragraph",
-        "text": "Concealer helps cover dark circles, blemishes, and redness for a flawless finish."
+        "text": "Concealer helps to cover dark circles, blemishes, and redness, enhancing the overall look of your foundation. It can also be used for highlighting and contouring."
       },
       {
         "type": "heading",
         "level": 5,
-        "text": "-Blending techniques-" 
+        "text": "Blending techniques:" 
       },
+     
       {
-        "type": "paragraph",
-        "text": "• Apply under the eyes in an upside-down triangle shape for brightness. • Use a lighter shade for highlighting and a darker shade for contouring."
+        "type": "list",
+        "items": [
+          "Apply concealer under the eyes in an upside-down triangle shape for a bright, lifted look.",
+          "Use a shade lighter than your foundation for highlighting and a slightly darker shade for contouring.",
+          "Dab the concealer with a sponge or brush to blend it seamlessly into the foundation.",
+          "Apply concealer to the high points of your face (forehead, bridge of the nose, and chin) for a natural glow.",
+          "Set with a light dusting of translucent powder to prevent creasing."
+        ]
       },
      
       {
         "type": "heading",
-        "level": 4,
+        "level": 3,
         "text": "Step 6: Set Your Foundation with Powder"
       },
       {
         "type": "paragraph",
-        "text": "Setting your foundation prevents creasing and controls shine throughout the day."
+        "text": "Setting your foundation ensures it lasts all day without creasing or becoming too oily. The right setting powder helps lock in your makeup for a long-lasting finish."
       },
       {
         "type": "heading",
         "level": 5,
-        "text": " -Best setting options-" 
+        "text": "Best setting options:" 
+      },
+      
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Loose powder:</span>Ideal for oily skin as it absorbs excess oil and provides a soft-matte finish.",
+          "<span class='list-font'>Pressed powder:</span>Great for touch-ups on the go, helping to control shine throughout the day.",
+          "Use a fluffy brush to dust a light layer over your face, focusing on the T-zone.",
+          "If you have dry skin, apply powder only to areas prone to shine, such as the nose and forehead.",
+          "Consider a setting spray for extra longevity, especially for special occasions or long hours of wear."
+        ]
+      },
+
+
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Step 7: Add a Natural Flush with Blush and Bronzer"
       },
       {
         "type": "paragraph",
-        "text": "• Loose powder – Ideal for oily skin to absorb excess oil. • Pressed powder – Great for touch-ups on the go."
+        "text": "Adding blush and bronzer brings life back to your face and prevents your foundation from looking flat."
       },
-     
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "How to apply:" 
+      },
+      
+      {
+        "type": "list",
+        "items": [
+          "Use a fluffy brush to apply bronzer to the hollows of your cheeks, temples, and jawline for a warm, sculpted look.",
+          "Pick a blush shade that complements your skin tone and apply it to the apples of your cheeks, blending slightly upward.",
+          "For a radiant glow, use a highlighter on the high points of your face (cheekbones, brow bone, and cupid’s bow).",
+          "Blend well to avoid harsh lines and create a naturally enhanced complexion."
+        ]
+      },
      
       {
         "type": "heading",
