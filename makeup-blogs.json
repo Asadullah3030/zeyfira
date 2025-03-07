@@ -1116,176 +1116,294 @@
     "title": "Best makeup products designed specifically for sensitive skin.",
     "image": "./images/makeup-images/six/Best-Makeup-Products-for-Sensitive-Skin.webp",
     "publish_date": "January 18, 2025",
-    "description": "Discover the best makeup products designed for sensitive skin that offer coverage, hydration, and long-lasting wear without causing irritation.",
+    "description": "Having sensitive skin can make finding the right makeup products a challenge. Many conventional makeup items contain harsh chemicals, fragrances, and preservatives that can lead to irritation, redness, and breakouts. However, with the right products, you can achieve flawless makeup without compromising your skin's health. In this guide, we’ll explore the best makeup products designed specifically for sensitive skin, ensuring comfort, hydration, and long-lasting wear without causing irritation.",
    "content": [
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "1. Tinted Moisturizers & Foundations"
     },
     {
-      "type": "list",
-      "items": [
-        "Lightweight formulas provide hydration without clogging pores.",
-        "Deliver light to medium coverage, making them perfect for sensitive skin."
-      ]
+      "type": "paragraph",
+      "text": "A good base is essential for any makeup routine, but for sensitive skin, it's crucial to choose products that offer hydration and light coverage without clogging pores or causing irritation. Tinted moisturizers and lightweight foundations are ideal as they provide a natural finish while allowing the skin to breathe."
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Why Choose These?"
     },
     {
       "type": "list",
       "items": [
-        "Mineral-Based Foundations – Gentle and non-irritating",
-        "BB & CC Creams – Hydrating with skin-soothing ingredients"
+        "Hydrating formulas soothe sensitive skin.",
+        "Free from harsh chemicals, artificial fragrances, and parabens.",
+        "Offer light to medium coverage, preventing a cakey look."
       ]
     },
+
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Best Picks:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<span class='list-font'>Mineral-Based Foundations</span> – Non-irritating and free from harmful additives.",
+        "<span class='list-font'>BB & CC Creams:</span> – Infused with skin-soothing ingredients like aloe vera and chamomile."
+      ]
+    },
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "2. Hypoallergenic & Fragrance-Free Concealers"
     },
     {
+      "type": "paragraph",
+      "text": "Concealers help hide blemishes, dark circles, and redness, but many formulas contain irritating ingredients that can worsen skin conditions. Opting for hypoallergenic and fragrance-free concealers ensures a safe and irritation-free experience."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
       "type": "list",
       "items": [
-        "Conceal blemishes, dark circles, and redness without causing irritation.",
-        "Free of harsh chemicals, ensuring safety for everyday use."
+        "Free of common irritants such as alcohol, parabens, and synthetic fragrances.",
+        "Gentle on delicate under-eye skin and blemish-prone areas.",
+        "Often enriched with hydrating ingredients like hyaluronic acid."
       ]
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Best Picks:"
     },
     {
       "type": "list",
       "items": [
-        "Dermatologist-Tested Concealers – Ensure skin safety",
-        "Fragrance-Free & Oil-Free Concealers – Prevent breakouts"
+        "<span class='list-font'>Dermatologist-Tested Concealers</span> – Designed to be non-comedogenic and skin-friendly.",
+        "<span class='list-font'>Fragrance-Free & Oil-Free Concealers</span> – Prevent breakouts while providing full coverage."
       ]
     },
+
+    
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "3. Gentle Blushes & Highlighters"
     },
     {
+      "type": "paragraph",
+      "text": "Adding color and dimension to the face should not come at the cost of skin health. Many conventional blushes and highlighters contain artificial dyes and preservatives that can irritate sensitive skin. Choosing mineral-based or cream formulas helps prevent irritation."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
       "type": "list",
       "items": [
-        "Powder and cream-based formulas prevent skin irritation.",
-        "Enhance your skin’s natural glow without harsh additives."
+        "Formulated with skin-friendly, natural ingredients.",
+        "Free from talc, synthetic dyes, and preservatives.",
+        "provides a natural, radiant glow without clogging pores."
       ]
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Best Picks:"
     },
     {
       "type": "list",
       "items": [
-        "Mineral Blushes & Highlighters – Made with natural ingredients",
-        "Cream Blushes – Provide a smooth, dewy finish"
+        "<span class='list-font'>Mineral Blushes & Highlighters</span> – Made with gentle, non-toxic ingredients.",
+        "<span class='list-font'>Cream Blushes</span> – These offer a smooth, dewy finish that blends seamlessly."
       ]
     },
+
+
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "4. Sensitive-Skin-Friendly Eyeshadows"
     },
     {
+      "type": "paragraph",
+      "text": "Eyeshadow can enhance your eyes, but for those with sensitive skin, it's important to avoid synthetic dyes, preservatives, and fragrances that can cause irritation or allergic reactions."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
       "type": "list",
       "items": [
-        "Free from synthetic dyes and fragrances.",
-        "Crafted with mineral-based components to avoid irritation."
+        "Made with natural minerals to reduce irritation.",
+        "Often free from parabens, sulfates, and artificial fragrances.",
+        "Suitable for contact lens wearers and those with sensitive eyes."
       ]
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Best Picks:"
     },
     {
       "type": "list",
       "items": [
-        "Ophthalmologist-Tested Eyeshadows – Safe for sensitive eyes",
-        "Natural & Organic Eyeshadow Palettes – Gentle on the skin"
+        "<span class='list-font'>Ophthalmologist-Tested Eyeshadows</span> – Ensures safety and comfort for sensitive eyes.",
+        "<span class='list-font'>Natural & Organic Eyeshadow Palettes</span>– Made with plant-based pigments and soothing ingredients."
       ]
     },
+
+
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "5. Non-Irritating Mascaras"
     },
     {
+      "type": "paragraph",
+      "text": "Mascara is an essential part of eye makeup, but many conventional formulas contain harsh preservatives and synthetic fibers that can lead to itching, redness, and watery eyes. Choosing a gentle, hypoallergenic formula ensures eye safety."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
       "type": "list",
       "items": [
-        "Formulated to be safe for sensitive eyes, preventing itching and redness.",
-        "Ophthalmologist-tested formulas ensure eye safety."
+        "Ophthalmologist-tested for sensitive eyes.",
+        "Free from harsh chemicals, artificial fragrances, and parabens.",
+        "Prevents flaking, smudging, and irritation."
       ]
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Best Picks:"
     },
     {
       "type": "list",
       "items": [
-        "Hypoallergenic Mascaras – Free from harsh chemicals",
-        "Fragrance-Free & Waterproof Mascaras – Long-lasting and gentle"
+        "<span class='list-font'>Hypoallergenic Mascaras</span> – Made with nourishing ingredients like castor oil and vitamin E.",
+        "<span class='list-font'>Fragrance-Free & Waterproof Mascaras</span> – Long-lasting and gentle for everyday wear."
       ]
     },
+
+
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "6. Fragrance-Free Lip Products"
     },
     {
+      "type": "paragraph",
+      "text": "Many lipsticks and glosses contain synthetic fragrances and dyes that can trigger dryness, chapping, and irritation. Opting for fragrance-free, natural formulas keeps lips hydrated and comfortable."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
       "type": "list",
       "items": [
-        "Synthetic fragrances can trigger dryness and irritation.",
-        "Natural and fragrance-free lipsticks are safer for sensitive skin."
+        "Free from artificial dyes and strong fragrances that can cause reactions.",
+        "Often infused with natural oils like jojoba, coconut, and shea butter.",
+        "provides lasting hydration while adding a touch of color."
       ]
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Best Picks:"
     },
     {
       "type": "list",
       "items": [
-        "Organic Lipsticks & Glosses – Hydrating and non-toxic",
-        "SPF-enriched lip balms: Provide protection and nourishment for lips."
+        "<span class='list-font'>Organic Lipsticks & Glosses</span> – Made with natural waxes and oils for a soothing effect.",
+        "<span class='list-font'>SPF-Enriched Lip Balms</span> – Protect lips from sun damage while keeping them moisturized."
       ]
     },
+
+
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "7. Mineral Sunscreens"
     },
     {
+      "type": "paragraph",
+      "text": "Sunscreen is a crucial part of any skincare routine, especially for sensitive skin. Traditional sunscreens often contain chemical filters that can lead to irritation. Mineral sunscreens, on the other hand, offer broad-spectrum protection without causing discomfort."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
       "type": "list",
       "items": [
-        "Provide broad-spectrum coverage without causing discomfort to sensitive skin.",
-        "designed with physical blockers, such as titanium dioxide and zinc oxide, to provide the best possible protection."
+        "Formulated with physical blockers like titanium dioxide and zinc oxide, which sit on the skin rather than being absorbed.",
+        "Free from harsh chemicals like oxybenzone and avobenzone.",
+        "Gentle enough for everyday use and suitable for all skin types."
       ]
     },
     {
       "type": "heading",
       "level": 5,
-      "text": "-Best Picks-"
+      "text": "Best Picks:"
     },
     {
       "type": "list",
       "items": [
-        "SPF 30+ mineral sunscreens – Skin-friendly and highly effective.",
-        "Non-Greasy Formulas – Lightweight and breathable"
+        "<span class='list-font'>SPF 30+ Mineral Sunscreens</span> – Provide optimal UV protection without irritation.",
+        "<span class='list-font'>Non-Greasy Formulas</span> – Lightweight and breathable for comfortable wear."
       ]
     },
+
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Setting Powders & Sprays for Sensitive Skin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Setting powders and sprays help extend the longevity of makeup, but some contain alcohol and preservatives that can irritate sensitive skin. Opting for a fragrance-free, gentle formula ensures that makeup stays in place without compromising skin health."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Why Choose These?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Free from talc, synthetic dyes, and alcohol that can dry out the skin.",
+        "Often infused with calming ingredients like chamomile and aloe vera.",
+        "Help control shine without clogging pores."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Best Picks:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<span class='list-font'>Mineral-Based Setting Powders</span> – Provide a soft, natural finish without irritation.",
+        "<span class='list-font'>Hydrating Setting Sprays</span>  – Lock in makeup while soothing and refreshing the skin."
+      ]
+    },
+
     {
       "type": "heading",
       "level": 3,
@@ -1293,7 +1411,11 @@
     },
     {
       "type": "paragraph",
-      "text": "Selecting the right makeup for sensitive skin can significantly improve your skincare routine. Opt for hypoallergenic, fragrance-free, and dermatologist-approved products to ensure a flawless look without irritation."
+      "text": "Selecting the right makeup for sensitive skin is essential for maintaining a healthy and irritation-free complexion. By choosing hypoallergenic, fragrance-free, and dermatologist-approved products, you can enjoy flawless makeup without compromising your skin’s health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether it’s a lightweight foundation, a nourishing lip balm, or an eye-safe mascara, these products ensure comfort and long-lasting beauty. Investing in skin-friendly makeup not only enhances your appearance but also protects your skin from potential damage, making it easier to maintain a radiant and irritation-free glow every day."
     }
   ],
     "extra_images": [
@@ -1315,6 +1437,8 @@
       }
     ]
   },
+
+  
 
   {
     "id": 7,
