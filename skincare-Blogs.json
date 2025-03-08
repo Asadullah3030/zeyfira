@@ -158,7 +158,7 @@
 
 
 
-      
+
 
 
 
@@ -169,8 +169,30 @@
       },
       {
         "type": "paragraph",
-        "text": "UV exposure is one of the biggest culprits behind premature aging and dull skin. Use a broad-spectrum SPF 30 or higher sunscreen daily, even on cloudy days, to prevent sun damage, hyperpigmentation, and fine lines while keeping your skin youthful and radiant."
+        "text": "Sunscreen is the most important skincare product for preventing premature aging, dark spots, and skin cancer. UV rays cause fine lines, wrinkles, and pigmentation over time."
       },
+      {
+        "type": "paragraph",
+        "text": "Use a <span class='list-font'>broad-spectrum SPF 30 or higher sunscreen</span>  daily, even on cloudy days. Choose a formula suited for your skin type:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Gel-based sunscreen </span>– Best for oily and acne-prone skin.",
+          "<span class='list-font'>Moisturizing sunscreen</span>– Ideal for dry skin.",
+          "<span class='list-font'>Mineral sunscreen</span> – Suitable for sensitive skin."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Applying sunscreen <span class='list-font'>every morning</span> ensures your skin stays youthful and protected."
+      },
+
+
+
+
+
+
       {
         "type": "heading",
         "level": 3,
@@ -178,8 +200,24 @@
       },
       {
         "type": "paragraph",
-        "text": "Using a face mask 1-2 times a week provides deep hydration or detoxification, depending on your skin’s needs. Clay masks absorb excess oil and impurities, while sheet masks with hyaluronic acid or Vitamin E deliver an instant glow and hydration boost."
+        "text": "Face masks provide an extra boost of hydration or deep cleansing, depending on your skin’s needs."
       },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Clay masks: </span>Absorb excess oil and detoxify the skin.",
+          "<span class='list-font'>Sheet masks: </span>Infused with hydrating ingredients like hyaluronic acid and Vitamin E for instant glow.",
+          "<span class='list-font'>Sleeping masks:</span> Provide overnight nourishment for visibly plumper skin."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Use face masks <span class='list-font'>1-2 times a week</span> for maximum benefits."
+      },
+
+
+
+
       {
         "type": "heading",
         "level": 3,
@@ -187,8 +225,15 @@
       },
       {
         "type": "paragraph",
-        "text": "The delicate skin around your eyes is prone to dark circles, puffiness, and fine lines. A caffeine-infused eye cream can reduce puffiness, while peptides and Vitamin C help brighten and firm the under-eye area, giving you a refreshed and youthful look."
+        "text": "The delicate skin around the eyes is prone to fine lines, puffiness, and dark circles. Using an eye cream with <span class='list-font'>affeine, peptides, and Vitamin C</span> c helps brighten, depuff, and firm the under-eye area."
       },
+      {
+        "type": "paragraph",
+        "text": "Apply gently, using your ring finger, <span class='list-font'>morning and night</span> , for the best results."
+      },
+
+
+
       {
         "type": "heading",
         "level": 3,
@@ -196,8 +241,23 @@
       },
       {
         "type": "paragraph",
-        "text": "Facial oils add an extra layer of nourishment and seal in hydration. Oils like rosehip, argan, or marula provide antioxidants, vitamins, and essential fatty acids that enhance your skin’s natural glow without feeling greasy."
+        "text": "Face oils provide deep nourishment and seal in hydration, giving your skin a natural glow."
       },
+      {
+        "type": "list",
+        "items": [
+          "<span class='list-font'>Rosehip Oil </span>– Brightens and repairs skin.",
+          "<span class='list-font'>Argan Oil  </span>– Moisturizes without clogging pores.",
+          "<span class='list-font'>Marula Oi:</span>  – Rich in antioxidants and fatty acids."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Apply 2-3 drops as the last step in your nighttime routine for glowing skin."
+      },
+
+
+
       {
         "type": "heading",
         "level": 3,
@@ -205,7 +265,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Breakouts and blemishes can dull your glow. A spot treatment with salicylic acid or benzoyl peroxide helps reduce inflammation and clear acne quickly. For dark spots, opt for treatments with Vitamin C, kojic acid, or niacinamide to fade discoloration."
+        "text": "For acne-prone skin, a spot treatment with salicylic acid or benzoyl peroxide helps reduce inflammation and clear breakouts quickly. If dealing with dark spots, ingredients like Vitamin C, kojic acid, and niacinamide help fade pigmentation. Apply only on affected areas for best results."
       },
       {
         "type": "heading",
@@ -214,7 +274,7 @@
       },
       {
         "type": "paragraph",
-        "text": "By incorporating these 10 essential skincare products into your daily routine, you can achieve a naturally glowing complexion. Focus on hydration, sun protection, and targeted treatments to maintain radiant, healthy skin. Always choose products that suit your skin type for the best results."
+        "text": "By incorporating these <span class='list-font'>10 essential skincare products</span> into your daily routine, you can achieve and maintain a naturally glowing complexion. Consistency is key—focus on hydration, sun protection, and targeted treatments to enhance your skin’s health. Choose products based on your skin type for the best results, and enjoy a radiant, youthful glow every day!"
       }
     ],
 
@@ -239,18 +299,37 @@
     "title": "Morning vs. Night Skincare Routine: What’s the Difference?",
     "image": "./images/skincare-images/two/Morning-vs-Night-Skincare-Routine.webp",
     "publish_date": "December 17, 2024",
-    "description": "Your skincare routine should adapt to the time of day. Morning and night skincare routines have different purposes and products that cater to your skin’s needs. Let’s explore the key differences between them.",
+    "description": "Your skincare routine should adapt to the time of day. Morning and night skincare routines have different purposes and require specific products that cater to your skin's needs. A proper skincare routine not only enhances your complexion but also helps prevent damage from environmental stressors during the day and supports the skin's repair process at night.",
 
     "content": [
+      {
+        "type": "paragraph",
+        "text": "A well-structured skincare regimen provides long-term benefits, keeping your skin radiant, healthy, and youthful. Let’s explore the fundamental differences between morning and nighttime skincare routines and their essential steps to help you achieve glowing skin."
+      },
     {
       "type": "heading",
       "level": 2,
-      "text": "Introduction"
+      "text": "Why Are Morning and Night Skincare Routines Different?"
     },
     {
       "type": "paragraph",
-      "text": "Your skincare routine should adapt to the time of day. Morning and night skincare routines have different purposes and products that cater to your skin's needs. A proper routine helps protect against environmental damage during the day and boosts skin repair at night. Let's explore the 10 essential steps for both routines."
+      "text": "Your skin undergoes different processes during the day and night, making it essential to tailor your skincare routine accordingly."
     },
+    {
+      "type": "list",
+      "items": [
+        "<span class='list-font'>Morning Routine Focus: </span> The main objective of the morning skincare routine is protection and hydration. Your skin is exposed to pollutants, UV rays, and environmental aggressors throughout the day, so your morning routine should create a barrier against these harmful factors.",
+        "<span class='list-font'>Night Routine Focus:</span> The nighttime routine is all about repair and rejuvenation. Your skin naturally regenerates itself while you sleep, making it the ideal time to use active ingredients that support cell turnover, hydration, and overall skin health."
+    
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "With this in mind, let's dive into the step-by-step guide for both morning and night skincare routines."
+    },
+
+
+
     {
       "type": "heading",
       "level": 3,
@@ -258,8 +337,8 @@
     },
     {
       "type": "paragraph",
-      "text": "The morning skincare routine focuses on shielding your skin from external aggressors like pollution and UV rays while maintaining hydration."
-    },
+      "text": "The morning routine prepares your skin for the day by ensuring it stays hydrated and shielded from environmental damage."
+    },    
     {
       "type": "heading",
       "level": 4,
@@ -267,8 +346,9 @@
     },
     {
       "type": "paragraph",
-      "text": "Cleansing removes excess oil, sweat, and overnight buildup, leaving your skin fresh and prepped for the day. Choose a mild, sulfate-free cleanser to maintain the skin’s natural moisture balance."
+      "text": "Your skin accumulates sweat and oil overnight, so starting the day with a gentle cleanser helps remove excess oil and impurities. Choose a <span class='list-font'>sulfate-free cleanser</span>  to maintain the skin’s natural moisture balance without stripping away essential oils"
     },
+
     {
       "type": "heading",
       "level": 4,
@@ -276,7 +356,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A toner helps restore the skin’s pH balance and preps it for better absorption of serums and moisturizers. Ingredients like rose water or hyaluronic acid boost hydration and soothe the skin."
+      "text": "Toners help balance the skin's pH and prepare it for better absorption of serums and moisturizers. Opt for a toner infused with, <span class='list-font'> rose water, hyaluronic acid</span> or green tea to hydrate and soothe the skin."
     },
     {
       "type": "heading",
@@ -285,7 +365,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Vitamin C serum brightens the complexion, reduces pigmentation, and provides antioxidant protection against free radicals and UV damage."
+      "text": "A Vitamin C serum is a powerful antioxidant that protects the skin from free radical damage caused by UV rays and pollution. It also helps in brightening the skin tone and <span class='list-font'> reducing pigmentation.</span> "
     },
     {
       "type": "heading",
@@ -294,7 +374,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A non-greasy moisturizer locks in hydration and acts as a base for sunscreen and makeup. Look for ingredients like ceramides and glycerin to keep skin soft and supple."
+      "text": "Hydration is key to maintaining skin elasticity. A lightweight, non-greasy moisturizer with ingredients like <span class='list-font'> ceramides, glycerin, and hyaluronic acid</span> locks in moisture and keeps your skin soft throughout the day."
     },
     {
       "type": "heading",
@@ -303,7 +383,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Sunscreen is the most crucial step in preventing premature aging, sunburn, and dark spots. Use a broad-spectrum SPF 30 or higher daily, even on cloudy days."
+      "text": "Sunscreen is the most critical step in your morning skincare routine. It <span class='list-font'> prevents premature aging, sunburn</span>, and dark spots. Choose a broad-spectrum SPF 30 or higher and reapply every 2-3 hours for maximum protection."
     },
     {
       "type": "heading",
@@ -312,7 +392,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A lightweight eye cream with caffeine or peptides reduces morning puffiness and dark circles, keeping your under-eye area refreshed and hydrated."
+      "text": "A lightweight <span class='list-font'> eye cream with caffeine</span> or peptides helps reduce puffiness, dark circles, and fine lines, keeping the under-eye area hydrated and refreshed."
     },
     {
       "type": "heading",
@@ -321,7 +401,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Protect your lips from sun damage and dryness with a nourishing lip balm that contains SPF. Ingredients like shea butter and Vitamin E provide extra hydration."
+      "text": "Your lips also need protection from UV rays and dryness. A <span class='list-font'>lip balm with SPF</span> keeps lips hydrated and prevents sun damage."
     },
     {
       "type": "heading",
@@ -330,7 +410,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A refreshing facial mist with rose water or aloe vera provides instant hydration and soothes irritated skin throughout the day."
+      "text": "A refreshing <span class='list-font'>facial mist</span>  containing  <span class='list-font'>aloe vera or rose</span>  water can be used throughout the day to keep your skin hydrated and calm irritation."
     },
     {
       "type": "heading",
@@ -339,7 +419,7 @@
     },
     {
       "type": "paragraph",
-      "text": "If you wear makeup, a primer helps create a smooth base and enhances the longevity of your foundation while controlling excess oil."
+      "text": "If you wear makeup, applying a <span class='list-font'>primer</span>helps create a smooth base, ensuring your foundation lasts longer while controlling excess oil."
     },
     {
       "type": "heading",
@@ -348,8 +428,10 @@
     },
     {
       "type": "paragraph",
-      "text": "Glowing skin starts from within. Begin your day with a hydrating drink like warm lemon water or green tea to flush out toxins and boost skin health."
+      "text": "Healthy skin starts from within. Begin your day with a <span class='list-font'>glass of warm lemon water</span> or green tea to flush out toxins and improve skin health."
     },
+
+
     {
       "type": "heading",
       "level": 3,
@@ -357,7 +439,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Your nighttime routine focuses on repairing damage, boosting collagen production, and providing deep hydration while you sleep."
+      "text": "Your nighttime skincare routine should focus on deep hydration and skin repair to support overnight rejuvenation."
     },
     {
       "type": "heading",
@@ -366,7 +448,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A cleansing oil or micellar water effectively dissolves makeup, sunscreen, and dirt, ensuring your pores remain unclogged."
+      "text": "A makeup remover or <span class='list-font'>cleansing oil</span> effectively dissolves sunscreen, makeup, and dirt from the skin. Micellar water is another gentle option for removing impurities."
     },
     {
       "type": "heading",
@@ -375,7 +457,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A second cleanse with a gentle face wash removes remaining impurities and prepares your skin for treatment products."
+      "text": "Following up with a second cleanse ensures that all remaining dirt and oil are thoroughly removed, prepping the skin for treatment products."
     },
     {
       "type": "heading",
@@ -384,7 +466,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Chemical exfoliants (AHAs/BHAs) promote skin renewal, reduce acne scars, and improve texture. Use 2-3 times a week to prevent irritation."
+      "text": "Exfoliation helps remove dead skin cells and unclogs pores. Chemical exfoliants like <span class='list-font'>AHAs (glycolic acid) and BHAs (salicylic acid)</span> improve skin texture and reduce acne scars. However, limit exfoliation to 2-3 times a week to avoid irritation."
     },
     {
       "type": "heading",
@@ -393,7 +475,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A night toner infused with niacinamide, green tea, or aloe vera soothes and replenishes the skin, reducing redness and irritation."
+      "text": "At night, a toner with <span class='list-font'>niacinamide, green tea, or aloe vera</span> helps calm irritation and restore hydration to the skin."
     },
     {
       "type": "heading",
@@ -401,9 +483,18 @@
       "text": "5. Treatment Serum (Retinol or Peptides)"
     },
     {
-      "type": "paragraph",
-      "text": "Retinol boosts collagen production, reduces fine lines, and prevents breakouts. Alternatively, peptide serums promote skin repair and elasticity."
+      "type": "list",
+      "items": [
+        "<span class='list-font'>Retinol:</span> Boosts collagen production, reduces fine lines, and fights acne.",
+        "<span class='list-font'>Peptides:</span> These promote skin repair and improve elasticity."
+    
+      ]
     },
+    {
+      "type": "paragraph",
+      "text": "Use retinol cautiously, starting <span class='list-font'>2-3 times a week,</span> and always pair it with sunscreen in the morning."
+    },
+
     {
       "type": "heading",
       "level": 4,
@@ -411,7 +502,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A richer night cream or sleeping mask deeply hydrates and repairs the skin barrier overnight, leaving you with plump and healthy skin in the morning."
+      "text": "A richer moisturizer repairs and hydrates the skin barrier overnight. Look for ingredients like <span class='list-font'>ceramides, squalane, or shea butter</span>."
     },
     {
       "type": "heading",
@@ -420,7 +511,7 @@
     },
     {
       "type": "paragraph",
-      "text": "An eye cream with hyaluronic acid or retinol reduces wrinkles and fine lines while preventing under-eye dryness."
+      "text": "An eye cream with <span class='list-font'>hyaluronic acid or retinol</span> reduces wrinkles and fine lines while preventing under-eye dryness."
     },
     {
       "type": "heading",
@@ -429,7 +520,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Adding a few drops of face oil, like argan or rosehip oil, locks in moisture and provides essential fatty acids for overnight nourishment."
+      "text": "If you have <span class='list-font'>dry or mature skin</span>, a few drops of argan or rosehip oil lock in moisture and provide essential fatty acids for nourishment."
     },
     {
       "type": "heading",
@@ -438,7 +529,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A targeted treatment with benzoyl peroxide or salicylic acid helps reduce acne spots and inflammation while you sleep."
+      "text": "If you struggle with acne, an overnight treatment with <span class='list-font'> benzoyl peroxide or salicylic </span>acid helps reduce inflammation and heal breakouts while you sleep."
     },
     {
       "type": "heading",
@@ -447,7 +538,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Using a silk pillowcase reduces friction, preventing wrinkles and hair breakage. Getting 7-9 hours of quality sleep is essential for skin renewal."
+      "text": "Sleeping on a silk pillowcase reduces friction, preventing wrinkles and hair breakage. Getting <span class='list-font'>7-9 hours of sleep</span> is essential for the skin’s natural regeneration process."
     },
     {
       "type": "heading",
@@ -456,7 +547,20 @@
     },
     {
       "type": "paragraph",
-      "text": "By following a structured morning and night skincare routine, you can achieve long-term glowing, youthful skin. Using the right products at the right time ensures maximum effectiveness and long-lasting skin health."
+      "text": "By following a structured morning and night skincare routine, you can achieve <span class='list-font'>healthy, youthful, and glowing skin.</span>"
+    },
+
+    {
+      "type": "list",
+      "items": [
+        "<span class='list-font'>morning routine:</span> Your acts as a shield against pollutants and UV rays, keeping your skin protected and hydrated throughout the day.",
+        "<span class='list-font'>nighttime routine:</span> Your focuses on replenishing lost moisture, repairing damage, and accelerating skin cell renewal for a refreshed look in the morning."
+    
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The key to an effective skincare routine is <span class='list-font'>consistency</span>. With the right products and mindful skincare habits, you can maintain <span class='list-font'>radiant skin</span> and prevent premature aging. Take care of your skin, and it will reward you with a glowing, flawless complexion!"
     }
   ],
 
