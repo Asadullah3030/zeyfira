@@ -589,106 +589,311 @@
     "title": "10 Best Natural Ingredients for Glowing & Healthy-Skin",
     "image": "./images/skincare-images/three/Natural-Ingredients-for-Glowing.webp",
     "publish_date": "December 19, 2024",
-    "description": "Discover the 10 best natural ingredients that nourish, hydrate, and protect your skin. From aloe vera to almond oil, these skincare essentials help achieve a radiant and youthful glow naturally.",
+    "description": "Achieving naturally glowing and healthy skin doesn’t always require expensive skincare products filled with chemicals. Nature provides us with powerful ingredients that nourish, hydrate, and protect the skin while being gentle and free from harmful additives. In this guide, we’ll explore the ten best natural ingredients that help maintain a youthful, radiant complexion.",
     "content": [
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "1. Aloe Vera - A Natural Moisturizer"
     },
     {
       "type": "paragraph",
-      "text": "Aloe vera is known for its soothing and hydrating properties. It is rich in antioxidants and vitamins that help calm inflammation, heal skin damage, and keep your skin moisturized."
+      "text": "Aloe vera is one of the most well-known natural ingredients for skincare. Its soothing and hydrating properties make it an essential part of any skincare routine. Rich in antioxidants, vitamins A, C, E, and B12, aloe vera helps to:"
     },
     {
+      "type": "list",
+      "items": [
+        "Heal and calm irritated skin",
+        " Provides deep hydration without making the skin greasy",
+        " Reduce redness and inflammation from acne or sunburn",
+        " Improve skin elasticity and prevent premature aging"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Apply fresh aloe vera gel directly from the leaf to your face as a moisturizer or soothing mask. Leave it on for 15–20 minutes before washing your face."
+    },
+
+
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "2. Honey - The Best Natural Antibacterial Agent"
     },
     {
       "type": "paragraph",
-      "text": "Honey is a natural humectant, meaning it helps retain moisture in the skin. Its antibacterial properties help fight acne and keep the skin clear and healthy."
+      "text": "Honey is a natural humectant, which means it retains moisture and keeps the skin hydrated. Its antibacterial and anti-inflammatory properties help combat acne, scars, and dull skin."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Benefits of Honey for Skin:</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fights acne-causing bacteria",
+        " Hydrates dry skin",
+        " Brightens complexion and reduces scars",
+        " Provides gentle exfoliation to remove dead skin cells"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Apply a raw honey mask for 10–15 minutes, then rinse thoroughly. For added benefits, mix it with yogurt or lemon juice."
+    },
+
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "3. Green Tea - Packed with Antioxidants"
     },
     {
       "type": "paragraph",
-      "text": "Green tea contains polyphenols that protect the skin from free radicals and reduce signs of aging. It also has anti-inflammatory properties that help soothe irritated skin."
+      "text": "Green tea is not just a healthy beverage; it also works wonders for the skin. Rich in polyphenols and antioxidants, it helps fight free radicals, reducing signs of aging and inflammation."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Why Green Tea is Beneficial:</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Protects against UV damage",
+        " Reduces puffiness and dark circles",
+        " Improves skin texture and tone",
+        " Helps in controlling excess oil and acne"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Use cooled green tea as a refreshing facial toner. You can also mix green tea powder with honey for a DIY face mask."
+    },
+
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "4. Coconut Oil - Deep Hydration & Protection"
     },
     {
       "type": "paragraph",
-      "text": "Coconut oil is a natural moisturizer that deeply nourishes dry skin. It also has antimicrobial properties that protect the skin from bacteria and infections."
+      "text": "Coconut oil is a deeply hydrating natural ingredient with antibacterial and antifungal properties. It acts as a barrier to protect the skin while locking in moisture."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Benefits of Coconut Oil:</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Soothing dry and flaky skin",
+        " Reduces fine lines and wrinkles",
+        " Protects against environmental damage",
+        " Acts as a natural makeup remover"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Apply a small amount of virgin coconut oil to your face at night as a moisturizer or use it to remove makeup."
+    },
+
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "5. Turmeric - For Glowing & Even-Toned Skin"
     },
     {
       "type": "paragraph",
-      "text": "Turmeric contains curcumin, which has powerful anti-inflammatory and antioxidant effects. It helps reduce redness and enhances the skin's natural glow."
+      "text": "Turmeric contains curcumin, a powerful anti-inflammatory and antioxidant that enhances the skin’s natural glow while fighting acne, dark spots, and dullness."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Why Use Turmeric for Skin?</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Reduces pigmentation and dark spots",
+        " Fights acne-causing bacteria",
+        " Brightens skin and improves complexion",
+        " Helps heal scars and wounds"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Mix turmeric, yogurt, and honey for a natural glow-boosting mask. Apply for 10–15 minutes and rinse off."
+    },
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "6. Rose Water - A Refreshing Natural Toner"
     },
     {
       "type": "paragraph",
-      "text": "Rose water hydrates and refreshes the skin while balancing its pH levels. It also acts as a natural toner that controls excess oil and improves skin texture."
+      "text": "Rose water is known for its soothing and refreshing properties. It balances the skin’s pH and controls excess oil, making it perfect for all skin types."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Rose Water Benefits:</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hydrates and soothes the skin",
+        " Reduces redness and irritation",
+        " Acts as a gentle toner",
+        " Helps set makeup"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Spray rose water on your face as a toner after cleansing. You can also mix it with face masks for extra hydration."
+    },
+
+
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "7. Oatmeal - A Gentle Natural Exfoliator"
     },
     {
       "type": "paragraph",
-      "text": "Oatmeal is excellent for exfoliating dead skin cells and unclogging pores. It also has soothing and moisturizing properties, making it great for sensitive skin."
+      "text": "Oatmeal is an excellent natural exfoliator that removes dead skin cells while keeping the skin moisturized and soft. It is especially beneficial for sensitive skin."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Why Oatmeal is Great for Skin:</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Soothing and reduces inflammation",
+        " Gently exfoliates without irritation",
+        " Helps relieve dryness and itching",
+        " Absorbs excess oil and prevents acne"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Blend oatmeal into a fine powder and mix it with milk or honey to create a gentle scrub or mask."
+    },
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "8. Yogurt - A Natural Skin Brightening Mask"
     },
     {
       "type": "paragraph",
-      "text": "Yogurt contains lactic acid, which gently exfoliates the skin, leaving it smooth and radiant. It also helps improve skin tone and reduce dullness."
+      "text": "Yogurt contains lactic acid, which gently exfoliates and brightens the skin. It also helps moisturize and improve skin texture."
+    },
+ {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Benefits of Yogurt:</span>"
     },
     {
+      "type": "list",
+      "items": [
+        "Lightens dark spots and pigmentation",
+        " Hydrates and nourishes the skin",
+        " Helps in reducing acne and breakouts",
+        " Provides mild exfoliation"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Apply plain yogurt as a mask or mix it with turmeric for a brightening effect."
+    },
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "9. Cucumber - A Cooling & Hydrating Ingredient"
     },
     {
       "type": "paragraph",
-      "text": "Cucumber is rich in water and essential vitamins that hydrate and refresh the skin. It is especially effective in reducing puffiness around the eyes."
+      "text": "Cucumbers are rich in vitamins and water content, making it a perfect hydrating ingredient for the skin. It is also known for reducing puffiness and soothing sunburns."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Cucumber Benefits:</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hydrates and refreshes the skin",
+        "Reduces puffiness, especially under the eyes",
+        "Soothing sunburn and irritation",
+        "Helps tighten pores"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Blend cucumber and apply the juice to your face as a cooling mask or use cucumber slices over your eyes to reduce puffiness."
+    },
+
+
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "10. Almond Oil - Deep Nourishment & Repair"
     },
     {
       "type": "paragraph",
-      "text": "Almond oil is packed with Vitamin E, which deeply moisturizes the skin, reduces dark circles, and enhances the skin’s natural glow."
+      "text": "Almond oil is rich in Vitamin E and essential fatty acids that provide deep nourishment and help repair the skin’s barrier."
     },
     {
+      "type": "paragraph",
+      "text": "<span class='list-font'>Why Use Almond Oil?</span>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moisturizes dry and sensitive skin",
+        "Reduces dark circles and fine lines",
+        "Improves skin texture and glow",
+        "Helps heal scars and stretch marks"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class='list-font'>How to Use:</span> Gently massage a few drops of almond oil onto your skin at night before sleeping."
+    },
+
+
+    {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "Conclusion"
     },
     {
       "type": "paragraph",
-      "text": "Incorporating these natural ingredients into your skincare routine can help keep your skin healthy, radiant, and well-nourished. Whether it’s the soothing effect of aloe vera or the brightening power of turmeric, each ingredient offers unique benefits. Start using them today for naturally glowing skin!"
+      "text": "Nature offers some of the best ingredients for maintaining healthy, radiant skin. By incorporating these natural elements into your skincare routine, you can achieve glowing skin without relying on harsh chemicals. Whether you use aloe vera for hydration, turmeric for brightening, or coconut oil for deep nourishment, each ingredient has unique benefits that enhance your skin’s overall health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start including these natural remedies in your daily routine and embrace the power of nature for a glowing and youthful complexion!"
     }
       ],
 
@@ -718,98 +923,359 @@
     "title": "How to Build a Skincare Routine for Oily Skin",
     "image": "./images/skincare-images/four/Build-a-Skincare-Routine.webp",
     "publish_date": "December 21, 2024",
-    "description": "Oily skin requires special attention to balance oil production while maintaining hydration and preventing clogged pores. This blog guides you through creating an effective skincare routine for oily skin.",
+    "description": "Oily skin requires special attention to balance oil production while maintaining hydration and preventing clogged pores. Many people with oily skin struggle with shine, breakouts, and enlarged pores. However, a well-structured skincare routine can help keep your skin clear, balanced, and healthy. This blog will guide you through the 10 essential steps to create an effective skincare routine specifically tailored for oily skin.",
     "content": [
   {
     "type": "heading",
-    "level": 4,
-    "text": "1. Cleanser"
+    "level": 3,
+    "text": "1. Cleanser – The First Step to Clear Skin"
   },
   {
     "type": "paragraph",
-    "text": "A gentle foaming or gel-based cleanser is essential for oily skin. Choose a cleanser with ingredients like salicylic acid or tea tree oil to remove excess oil, unclog pores, and prevent breakouts without over-drying your skin."
+    "text": "A good cleanser is the foundation of any skincare routine, and for oily skin, it’s crucial to choose one that removes excess oil without stripping the skin’s natural barrier."
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "2. Toner"
+    "level": 5,
+    "text": "What to Look for in a Cleanser:"
   },
   {
-    "type": "paragraph",
-    "text": "Toners help balance skin pH and control oil production. Opt for an alcohol-free toner with witch hazel, niacinamide, or green tea extract to minimize pores, soothe inflammation, and reduce shine."
-  },
-  {
-    "type": "heading",
-    "level": 4,
-    "text": "3. Exfoliation"
-  },
-  {
-    "type": "paragraph",
-    "text": "Regular exfoliation prevents clogged pores and controls acne. Use a chemical exfoliant with salicylic acid or glycolic acid 2–3 times a week to remove dead skin cells, reduce blackheads, and improve skin texture."
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Foaming or gel-based cleansers:</span> These work best for oily skin as they deeply cleanse without leaving a greasy residue.",
+      " <span class='list-font'>Salicylic acid:</span> A beta-hydroxy acid (BHA) that helps to penetrate deep into the pores, dissolve excess sebum and prevent breakouts.",
+      "<span class='list-font'>Tea tree oil:</span> Has natural antibacterial properties that help reduce acne and inflammation.",
+      "<span class='list-font'>Charcoal or clay-based cleansers:</span> These help absorb excess oil and detoxify the skin."
+    ]
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "4. Serum"
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Wash your face twice a day—morning and night.",
+      " Use lukewarm water to avoid irritating the skin.",
+      " Gently massage the cleanser in circular motions for at least 30 seconds before rinsing."
+    ]
+  },
+
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "2. Toner – Balancing Oil Production"
   },
   {
     "type": "paragraph",
-    "text": "Serums help target specific skin concerns. A lightweight, oil-free serum with niacinamide, hyaluronic acid, or zinc helps regulate oil, hydrate the skin, and reduce redness or acne scars."
+    "text": "Toners help restore the skin’s pH balance, remove leftover impurities, and control excess oil."
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "5. Moisturizer"
+    "level": 5,
+    "text": "Best Ingredients for Oily Skin:"
   },
   {
-    "type": "paragraph",
-    "text": "Even oily skin needs hydration. Choose a non-comedogenic, water-based moisturizer with ingredients like hyaluronic acid or aloe vera to provide hydration without clogging pores."
-  },
-  {
-    "type": "heading",
-    "level": 4,
-    "text": "6. Sunscreen"
-  },
-  {
-    "type": "paragraph",
-    "text": "Sunscreen is crucial for protecting the skin from sun damage. Use an oil-free, mattifying sunscreen with SPF 30+ to prevent premature aging, hyperpigmentation, and excess oil buildup."
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Witch hazel:</span> A natural astringent that helps tighten pores and reduce inflammation.",
+      " <span class='list-font'>Niacinamide (Vitamin B3):</span>  Helps control sebum production, reduces redness, and improves skin texture.",
+      "<span class='list-font'>Green tea extract:</span> Contains antioxidants that calm the skin and combat acne-causing bacteria."
+    ]
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "7. Clay Mask"
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Apply toner with a cotton pad or gently pat it into your skin with your hands",
+      " Use it after cleansing, both morning and night."
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "3. Exfoliation – Keeping Pores Clear"
   },
   {
     "type": "paragraph",
-    "text": "A clay mask helps absorb excess oil and detoxify the skin. Use a mask with bentonite or kaolin clay once or twice a week to deeply cleanse pores and reduce shine."
+    "text": "Exfoliation is key to preventing clogged pores, blackheads, and acne. It removes dead skin cells and promotes cell turnover."
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "8. Spot Treatment"
+    "level": 5,
+    "text": "Types of Exfoliants for Oily Skin:"
   },
   {
-    "type": "paragraph",
-    "text": "For occasional breakouts, use a spot treatment with benzoyl peroxide, salicylic acid, or tea tree oil to target pimples, reduce inflammation, and speed up healing."
-  },
-  {
-    "type": "heading",
-    "level": 4,
-    "text": "9. Hydrating Face Mist"
-  },
-  {
-    "type": "paragraph",
-    "text": "A lightweight hydrating mist can refresh and balance oily skin throughout the day. Choose one with rose water or green tea to control oil and keep your skin feeling fresh."
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Salicylic acid (BHA):</span> Penetrates deep into the pores to break down oil and dead skin cells.",
+      " <span class='list-font'>Glycolic acid (AHA):</span>  Helps remove surface dead skin cells, making your skin smoother."
+     
+    ]
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "10. Balanced Diet & Hydration"
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Use a chemical exfoliant (BHA/AHA) 2–3 times a week.",
+      "Avoid harsh scrubs that can cause micro-tears and worsen oil production."
+    ]
+  },
+
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "4. Serum–Targeted Skin Treatment"
   },
   {
     "type": "paragraph",
-    "text": "Healthy skin starts from within. Drink plenty of water, eat antioxidant-rich foods, and limit processed foods to help regulate oil production and maintain a clear complexion."
+    "text": "Serums deliver concentrated active ingredients to the skin to help with oil control, hydration, and acne prevention."
   },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "Best Serums for Oily Skin:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Niacinamide</span> Regulates sebum production and reduces inflammation.",
+      " <span class='list-font'>Hyaluronic acid:</span> Provides hydration without making the skin greasy.",
+      " <span class='list-font'>Zinc :</span> helps calm irritation and prevents acne breakouts."
+     
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Apply a few drops of serum after the toner.",
+      "Use daily for best results."
+    ]
+  },
+
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "5. Moisturizer – Essential for Hydration"
+  },
+  {
+    "type": "paragraph",
+    "text": "Even oily skin needs hydration. Skipping moisturizer can lead to the skin overproducing oil, making it even greasier."
+  },
+
+
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "What to Look for in a Moisturizer:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Niacinamide</span> prevent clogged pores.",
+      " <span class='list-font'>Hyaluronic acid:</span> with ingredients like hyaluronic acid and aloe vera.",
+      " <span class='list-font'>Zinc :</span> that provide hydration without feeling heavy."
+     
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Apply after your serum in both the morning and evening routines.",
+      "Use a pea-sized amount and gently pat it into the skin."
+    ]
+  },
+
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "6. Sunscreen – Protecting Against UV Damage"
+  },
+  {
+    "type": "paragraph",
+    "text": "Many people with oily skin avoid sunscreen due to its greasy feel, but skipping SPF can lead to premature aging and hyperpigmentation."
+  },
+{
+    "type": "heading",
+    "level": 5,
+    "text": "Best Sunscreens for Oily Skin:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Oil-free, lightweight, and mattifying sunscreens.</span>",
+      " <span class='list-font'>SPF 30 or higher</span> for daily protection.",
+      " <span class='list-font'>Gel-based or mineral sunscreens:</span> with zinc oxide or titanium dioxide."
+     
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Apply sunscreen every morning, even on cloudy days.",
+      "Reapply every 2–3 hours if exposed to direct sunlight."
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "7. Clay Mask – Weekly Oil Control"
+  },
+  {
+    "type": "paragraph",
+    "text": "Clay masks help absorb excess oil, detoxify the skin, and minimize pores."
+  },
+
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "Best Clays for Oily Skin:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Bentonite clay:</span> Absorbs oil and removes impurities.",
+      " <span class='list-font'>Kaolin clay:</span> Gently exfoliates and absorbs excess sebum."
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Use a clay mask once or twice a week.",
+      "Apply an even layer and leave it on for 10–15 minutes before rinsing."
+    ]
+  },
+
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "8. Spot Treatment – Fighting Breakouts"
+  },
+  {
+    "type": "paragraph",
+    "text": "Occasional breakouts can be treated with spot treatments."
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "Best Ingredients for Spot Treatment:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Benzoyl peroxide: </span> Kills acne-causing bacteria.",
+      " <span class='list-font'>Salicylic acid:</span> Unclogs pores and reduces inflammation.",
+      " <span class='list-font'>Tea tree oil:</span> A natural antibacterial solution."
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Apply directly on blemishes before bed.",
+      "Avoid overuse, as it can cause dryness."
+    ]
+  },
+
+
+
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "9. Hydrating Face Mist – Refreshing Throughout the Day"
+  },
+  {
+    "type": "paragraph",
+    "text": "A face mist can help keep oily skin balanced without making it greasy."
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "Best Face Mists for Oily Skin:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Rose water: </span> Hydrates and controls oil.",
+      " <span class='list-font'>Green tea mist:</span> Provides antioxidants and soothes inflammation."
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Spritz lightly on your face as needed throughout the day."
+    ]
+  },
+
+
+
+  {
+    "type": "heading",
+    "level": 4,
+    "text": "10. Balanced Diet & Hydration – Skin Health from Within"
+  },
+  {
+    "type": "paragraph",
+    "text": "A good skincare routine isn’t just about products—your diet and lifestyle play a significant role."
+  },
+  {
+    "type": "heading",
+    "level": 5,
+    "text": "Tips for Healthy Skin:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Drink plenty of water to keep skin hydrated.",
+      " Eat antioxidant-rich foods like berries, leafy greens, and nuts.",
+      " Avoid excessive sugar and processed foods, which can trigger breakouts."
+    ]
+  },
+
+
+
   {
     "type": "heading",
     "level": 4,
@@ -817,7 +1283,11 @@
   },
   {
     "type": "paragraph",
-    "text": "By following these 10 essential steps, you can effectively manage oily skin, prevent breakouts, and maintain a fresh, shine-free complexion. Consistency is key to achieving long-term results."
+    "text": "By following these 10 essential steps, you can effectively manage oily skin, prevent breakouts, and maintain a fresh, shine-free complexion. Consistency is key—stick to your routine, and over time, you’ll notice a significant improvement in your skin’s balance and health."
+  },
+  {
+    "type": "paragraph",
+    "text": "lets Start your journey to healthier, glowing skin today!"
   }
 ],
 
