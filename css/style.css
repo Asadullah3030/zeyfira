@@ -683,7 +683,19 @@ h1,h2,h3,p,span{
     text-align: center;
     margin: 10px 0;
     border-radius: 5px;
+    width: 375px;
     background: #fff;
+  }
+  .two-products{
+        display: flex;
+  }
+  @media screen and (max-width:768px) {
+    .two-products{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
   }
   
   .product img {
