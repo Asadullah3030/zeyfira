@@ -281,106 +281,307 @@
       "title": "10 Best DIY Hair Masks to Repair Dry, Damaged Hair Naturally",
       "image": "./images/haircare-images/two/DIY-Hair-Masks-to-Repair-Dry.webp",
       "publish_date": "December 29, 2024",
-      "description": "Revive dry, damaged hair with these top 10 natural DIY hair masks! Packed with hydrating and strengthening ingredients like avocado, aloe vera, and coconut oil, these home remedies will restore shine, reduce breakage, and promote healthy hair growth.",
+      "description": "Are you tired of dealing with dry, lifeless, and damaged hair? The constant exposure to heat styling, pollution, and harsh hair products can affect your hair’s health. But don’t worry! You don’t need expensive salon treatments to bring back the shine and strength to your hair. With a few natural ingredients available at home, you can create effective hair masks that deeply nourish, repair, and strengthen your strands.",
       "content": [
         {
           "type": "heading",
-          "level": 4,
+          "level": 3,
           "text": "1. Avocado and Honey Hair Mask – Deep Hydration & Repair"
         },
         {
           "type": "paragraph",
-          "text": "Avocado is rich in healthy fats and vitamins that deeply nourish dry hair, while honey acts as a natural humectant, sealing in moisture and preventing breakage. This mask is perfect for repairing damaged, brittle strands."
+          "text": "Avocado is packed with essential fatty acids, vitamins, and antioxidants that provide intense hydration, making your hair softer and shinier. Honey, being a natural humectant, seals in moisture, preventing breakage and split ends."
         },
         {
           "type": "heading",
-          "level": 4,
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mash a ripe avocado and blend it with two tablespoons of honey.",
+            "Evenly distribute the mixture on damp hair, concentrating on the ends.",
+            "Let it sit for 30 minutes before rinsing with lukewarm water and shampooing as usual."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask is perfect for extremely dry and frizzy hair."
+        },
+
+
+        {
+          "type": "heading",
+          "level": 3,
           "text": "2. Banana and Coconut Oil Hair Mask – Strength & Shine Boost"
         },
         {
           "type": "paragraph",
-          "text": "Bananas are loaded with potassium, natural oils, and vitamins that strengthen hair and reduce frizz. Coconut oil penetrates deep into the hair shaft, providing intense hydration and restoring shine."
+          "text": "Bananas are loaded with potassium and natural oils that nourish and strengthen the hair. Coconut oil, known for its deep penetration, helps moisturize and add shine."
         },
         {
           "type": "heading",
-          "level": 4,
-          "text": "3. Yogurt and Egg Hair Mask – Protein for Stronger Hair"
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Puree a ripe banana and mix it with two tablespoons of coconut oil.",
+            "Apply the mixture to your hair and scalp.",
+            "Leave it on for 30-40 minutes before rinsing with mild shampoo."
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Eggs are packed with protein that rebuilds damaged hair, while yogurt helps condition and restore scalp health. This mask enhances hair elasticity, reducing breakage and promoting smoothness."
+          "text": "This mask smooths frizz and adds a natural glow to dull hair."
         },
+
+
         {
           "type": "heading",
-          "level": 4,
-          "text": "4. Aloe Vera and Castor Oil Hair Mask – Hair Growth & Scalp Care"
+          "level": 3,
+          "text": "3. Yogurt and Egg Hair Mask – Protein Power for Strong Hair"
         },
         {
           "type": "paragraph",
-          "text": "Aloe vera soothes the scalp, reducing dandruff and irritation, while castor oil is rich in ricinoleic acid, which stimulates hair follicles and promotes faster hair growth."
+          "text": "Protein is crucial for hair health, and eggs are one of the best sources. Yogurt, on the other hand, conditions the scalp and promotes healthy hair growth."
         },
         {
           "type": "heading",
-          "level": 4,
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Beat one egg and mix it with half a cup of yogurt.",
+            "Apply the mask evenly and cover your hair with a shower cap.",
+            "Let it sit for 30 minutes, then rinse with cold water and a mild shampoo."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask works wonders in reducing breakage and restoring hair strength."
+        },
+
+
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4. Aloe Vera and Castor Oil Hair Mask – Hair Growth & Scalp Nourishment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aloe vera is rich in vitamins and enzymes that promote hair growth and soothe the scalp, while castor oil is known for strengthening hair roots and reducing hair fall."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mix 2 tablespoons of aloe vera gel with 1 tablespoon of castor oil.",
+            "Massage the mixture onto your scalp and hair.",
+            "Leave it on for at least an hour before washing with a mild shampoo."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask stimulates hair follicles, making your hair thicker and healthier over time."
+        },
+
+
+        {
+          "type": "heading",
+          "level": 3,
           "text": "5. Milk and Honey Hair Mask – Natural Conditioner for Silky Hair"
         },
         {
           "type": "paragraph",
-          "text": "Milk contains proteins that strengthen hair, and honey locks in moisture, leaving your hair incredibly soft and manageable. This mask works as a natural conditioner for silky, smooth hair."
+          "text": "Milk contains proteins and essential nutrients that strengthen the hair shaft, while honey keeps the hair hydrated and soft."
         },
         {
           "type": "heading",
-          "level": 4,
-          "text": "6. Olive Oil and Egg Hair Mask – Intense Nourishment"
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mix half a cup of milk with two tablespoons of honey.",
+            "Apply it evenly to damp hair.",
+            "Leave it on for 20-30 minutes."
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Olive oil is loaded with antioxidants and vitamin E, which strengthen hair strands, while eggs provide the necessary protein to improve hair texture and reduce split ends."
+          "text": "This mask works as a natural conditioner for silky, manageable hair."
         },
+
+
+
         {
           "type": "heading",
-          "level": 4,
-          "text": "7. Fenugreek and Yogurt Hair Mask – Anti-Dandruff & Strength"
+          "level": 3,
+          "text": "6. Olive Oil and Egg Hair Mask – Ultimate Nourishment"
         },
         {
           "type": "paragraph",
-          "text": "Fenugreek seeds help reduce dandruff and hair fall, while yogurt nourishes the scalp and restores moisture balance, making this mask perfect for healthier, flake-free hair."
+          "text": "Olive oil is packed with antioxidants and vitamin E, which deeply nourish the hair, while eggs provide the necessary protein to improve texture and reduce split ends."
         },
         {
           "type": "heading",
-          "level": 4,
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Whisk one egg and blend it with two tablespoons of olive oil.",
+            "Apply to your hair, focusing on the ends.",
+            "Let it sit for 30-40 minutes, then rinse with cold water."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask is great for dry, brittle hair in need of extra hydration."
+        },
+
+
+
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "7. Fenugreek and Yogurt Hair Mask – Dandruff Control & Strengthening"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fenugreek is a powerful remedy for dandruff and hair fall, while yogurt moisturizes and nourishes the scalp."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Soak two tablespoons of fenugreek seeds overnight and blend them into a paste.",
+            "Mix with half a cup of yogurt.",
+            "Apply to the scalp and hair, leaving it on for 30 minutes.",
+            "Wash with lukewarm water and a mild shampoo."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask helps strengthen hair roots and reduces dandruff effectively."
+        },
+
+
+        {
+          "type": "heading",
+          "level": 3,
           "text": "8. Rice Water and Aloe Vera Hair Mask – Strength & Shine"
         },
         {
           "type": "paragraph",
-          "text": "Rice water is packed with amino acids and vitamins that strengthen hair and improve elasticity, while aloe vera hydrates and soothes the scalp, reducing irritation and promoting growth."
+          "text": "Rice water is rich in amino acids and vitamins that strengthen hair, while aloe vera provides hydration and soothes the scalp."
         },
         {
           "type": "heading",
-          "level": 4,
-          "text": "9. Green Tea and Honey Hair Mask – Hair Fall Control"
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ferment half a cup of rice water for 12 hours.",
+            "Combine it with two tablespoons of aloe vera gel.",
+            "Apply to your scalp and hair, leaving it on for 20 minutes.",
+            "Rinse with cool water."
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Green tea is rich in antioxidants that prevent hair loss and stimulate follicles, while honey provides hydration and shine, making your hair healthier and more resilient."
+          "text": "This mask enhances hair elasticity and prevents breakage."
         },
+
+
         {
           "type": "heading",
-          "level": 4,
-          "text": "10. Onion Juice and Coconut Oil Hair Mask – Faster Hair Growth"
+          "level": 3,
+          "text": "9. Green Tea and Honey Hair Mask – Hair Fall Prevention"
         },
         {
           "type": "paragraph",
-          "text": "Onion juice contains sulfur, which improves collagen production and boosts hair growth. When combined with coconut oil, it nourishes the scalp, strengthens roots, and reduces hair fall."
+          "text": "Green tea is full of antioxidants that help reduce hair loss and improve scalp health. Honey adds moisture and shine."
         },
         {
           "type": "heading",
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Prepare a strong cup of green tea and allow it to cool.",
+            "Mix with two tablespoons of honey.",
+            "Spread the mixture onto your scalp and hair, massaging gently.",
+            "Let it sit for 30 minutes before washing it off with a mild shampoo."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask strengthens hair follicles and controls excessive hair fall."
+        },
+
+
+
+        {
+          "type": "heading",
           "level": 4,
+          "text": "10. Onion Juice and Coconut Oil Hair Mask – Accelerated Hair Growth"
+        },
+        {
+          "type": "paragraph",
+          "text": "Onion juice is known for its high sulfur content, which promotes collagen production and encourages hair growth. Coconut oil deeply nourishes and protects the scalp."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "How to Make It:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Extract fresh onion juice (about two tablespoons).",
+            "Mix with one tablespoon of coconut oil.",
+            "Massage into the scalp and leave it on for 30-45 minutes.",
+            "Rinse thoroughly with a mild shampoo to remove the onion smell."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This mask stimulates hair growth and improves overall hair health."
+        },
+
+
+        {
+          "type": "heading",
+          "level": 3,
           "text": "Conclusion"
         },
         {
           "type": "paragraph",
-          "text": "These DIY hair masks use natural ingredients to deeply nourish, hydrate, and strengthen your hair. Whether you're dealing with dryness, frizz, or hair fall, these masks offer a simple yet effective solution for achieving long, healthy, and shiny hair."
+          "text": "Taking care of your hair doesn’t have to be expensive or complicated. These DIY hair masks, made from natural ingredients, provide the hydration, nourishment, and strength your hair needs to recover from damage. Whether you’re dealing with dryness, frizz, hair fall, or scalp issues, these homemade treatments offer an easy and effective solution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incorporate these masks into your weekly hair care routine, and over time, you’ll notice significant improvements in the health, texture, and shine of your hair. Give your hair the care it deserves with these natural, chemical-free remedies!"
         }
       ],
       "extra_images": [
@@ -404,6 +605,8 @@
       ]
     },
 
+
+    
     {
       "id": 3,
       "title": "Top 10 Trendy Hairstyles for Women in 2025 – Best Haircuts & Styling Ideas",
