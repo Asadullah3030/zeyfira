@@ -92,14 +92,24 @@
 
   <script>
     // Query string se blog ID fetch karna
-const params = new URLSearchParams(window.location.search);
+    const params = new URLSearchParams(window.location.search);
 const blogId = params.get('id');
 
 // JSON se specific blog ka data fetch karna
 fetch('haircare-blogs.json')
   .then(response => response.json())
   .then(blogs => {
+    if (!blogs || !Array.isArray(blogs)) {
+      console.error("Invalid JSON Data");
+      return;
+    }
+
     const blog = blogs.find(b => b.id == blogId);
+    if (!blog) {
+      console.error("Blog not found!");
+      return;
+    }
+
     const container = document.getElementById('blog-details');
 
     let contentHtml = '';
@@ -108,29 +118,32 @@ fetch('haircare-blogs.json')
         contentHtml += `<h${item.level}>${item.text}</h${item.level}>`;
       } else if (item.type === 'paragraph') {
         contentHtml += `<p>${item.text}</p>`;
+      } else if (item.type === 'list' && Array.isArray(item.items)) {
+        contentHtml += "<ul>";
+        item.items.forEach(listItem => {
+          contentHtml += `<li>${listItem}</li>`;
+        });
+        contentHtml += "</ul>";
       }
     });
 
-    // Extra images section
-    const extraImagesHtml = blog.extra_images.map(image => `
+    const extraImagesHtml = blog.extra_images ? blog.extra_images.map(image => `
       <div class="col-6 extra-image">
         <img src="${image}" alt="Additional Image" class="extra-image-img" />
       </div>
-    `).join('');
+    `).join('') : '';
 
-    
-    // **Products Section**
-    const productsHtml = blog.products.map(product => `
+    const productsHtml = blog.products ? blog.products.map(product => `
+      <div class="product">
+        <a href="${product.link}" target="_blank">
+          <img src="${product.image}" alt="${product.title}">
+        </a>
+        <h3>${product.title}</h3>
+        <p class='py-3'>${product.description}</p>
+        <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
+      </div>
+    `).join('') : '<p>No products available.</p>';
 
-     <div class="product">
-                            <a href="${product.link}" target="_blank">
-                              <img src="${product.image}" alt="${product.title}">
-                            </a>
-                            <h3>${product.title}</h3>
-                            <p class='py-3'>${product.description}</p>
-                            <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
-      </div>  
-    `).join('');
 
     // **Insert HTML Content**
     container.innerHTML = `
