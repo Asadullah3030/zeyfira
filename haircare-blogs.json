@@ -605,113 +605,396 @@
       ]
     },
 
-
-    
     {
       "id": 3,
       "title": "Top 10 Trendy Hairstyles for Women in 2025 – Best Haircuts & Styling Ideas",
       "image": "./images/haircare-images/three/Trendy-Hairstyles-for-Women.webp",
       "publish_date": "December 31, 2024",
-      "description": "Looking for the hottest hairstyles in 2025? Explore the top 10 trending haircuts and styles for women, from stylish bobs to elegant updos. Get expert tips on how to achieve and maintain these trendy looks!",
+      "description": "Hairstyles are an essential part of personal style, and 2025 is all about embracing versatility, volume, and texture. Whether you're looking for a chic, low-maintenance look or a glamorous, statement-making style, this year's trends offer something for everyone. From classic bobs to voluminous curls, let's explore the top 10 trendy hairstyles for women in 2025, along with expert tips on achieving and maintaining these stunning looks.",
       "content": [
     {
       "type": "heading",
-      "level": 4,
+      "level": 3,
       "text": "1. Blunt Bob Cut"
     },
     {
       "type": "paragraph",
-      "text": "The blunt bob is a sleek, timeless haircut that remains a top trend in 2025. Perfect for all face shapes, this straight-edge cut enhances volume and adds a modern, sophisticated touch. It’s a low-maintenance yet stylish option for those who love effortless elegance."
+      "text": "The blunt bob remains one of the most stylish and timeless haircuts in 2025. This sleek, straight-edge cut enhances volume and gives a modern, sophisticated look. Ideal for all face shapes, the blunt bob works well on straight hair and can be customized with subtle layers for added texture."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Low-maintenance and easy to style",
+        "Adds volume and fullness",
+        "Creates a polished, professional appearance"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a flat iron for an ultra-sleek look.",
+        "Apply a lightweight serum to add shine and reduce frizz.",
+        "Sweep one side behind your ear for a refined yet effortless look."
+      ]
+    },
+
+
+    
+    {
+      "type": "heading",
+      "level": 3,
       "text": "2. Curtain Bangs with Long Layers"
     },
     {
       "type": "paragraph",
-      "text": "Curtain bangs paired with long layers create a soft, face-framing effect that adds movement and dimension to the hair. This style is ideal for those who want to keep their length while refreshing their look with trendy, effortless waves."
+      "text": "Curtain bangs combined with long layers provide a soft, face-framing effect that enhances natural beauty. This hairstyle adds movement and dimension, making it perfect for those who want to refresh their look while keeping their hair long."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Suitable for all hair types",
+        "Effortlessly stylish and easy to maintain",
+        "Adds volume and texture without drastic changes"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a round brush while blow-drying to create a soft, feathered finish for the bangs.",
+        "Use a curling wand to create soft waves for a relaxed, romantic vibe.",
+        "Apply a lightweight mousse to enhance movement and prevent flatness."
+      ]
+    },
+
+
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "3. The Butterfly Haircut"
     },
     {
       "type": "paragraph",
-      "text": "Inspired by the '90s, the butterfly haircut features soft, cascading layers that mimic the shape of butterfly wings. This trendy style boosts volume and texture, making it perfect for those with medium to long hair who want a bouncy, lightweight feel."
+      "text": "Inspired by the '90s, the butterfly haircut features cascading layers that mimic the wings of a butterfly. This trendy style is ideal for medium to long hair, adding volume and bounce for a lightweight yet voluminous feel."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Perfect for those who love voluminous, bouncy hair",
+        "Works well with natural waves or styled curls",
+        "Creates a dynamic and youthful appearance"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a volumizing spray at the roots to enhance lift.",
+        "Blow-dry with a round brush to create movement in the layers.",
+        "Finish with a texturizing spray for a soft, airy effect."
+      ]
+    },
+
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "4. Pixie Cut with Textured Layers"
     },
     {
       "type": "paragraph",
-      "text": "For those who love short, bold styles, the textured pixie cut is a must-try in 2025. With choppy layers adding volume and movement, this haircut is edgy yet feminine, offering a modern and confident look."
+      "text": "For those who love short, bold hairstyles, the textured pixie cut is a must-try in 2025. This edgy yet feminine look adds volume and movement with choppy layers, giving a modern and confident appeal."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Low-maintenance and easy to style",
+        "Enhances facial features and jawline",
+        "Can be customized with an undercut or asymmetrical shape"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Apply a touch of pomade or wax to enhance definition and texture.",
+        "Tousle with your fingers for a natural, textured look.",
+        "Experiment with side-swept bangs for added dimension."
+      ]
+    },
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "5. Sleek High Ponytail"
     },
     {
       "type": "paragraph",
-      "text": "A sleek high ponytail is a go-to hairstyle for an instant lift and polished appearance. Whether for a night out or an everyday look, this hairstyle enhances facial features and creates a chic, elegant vibe."
+      "text": "A sleek high ponytail is a classic yet trendy hairstyle that creates an instant facelift effect. Whether for a night out or an everyday polished look, this style enhances facial features and exudes sophistication."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Suitable for all hair types and lengths",
+        "Works well for both casual and formal occasions",
+        "Provides a youthful and polished appearance"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a fine-toothed comb and hair gel for a smooth finish.",
+        "Wrap a small section of hair around the base of the ponytail for a refined touch.",
+        "Secure with a strong-hold hairspray to keep flyaways at bay."
+      ]
+    },
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "6. Soft Waves with a Middle Part"
     },
     {
       "type": "paragraph",
-      "text": "Natural-looking, soft waves with a middle part continue to dominate in 2025. This effortlessly glamorous style suits all occasions and works beautifully with all hair lengths, adding volume and dimension."
+      "text": "Soft, natural-looking waves with a middle part continue to dominate in 2025. This effortlessly glamorous style works beautifully on all hair lengths, adding volume and movement."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Universally flattering for all face shapes",
+        "Easy to achieve with minimal heat styling",
+        "Perfect for both casual and formal settings"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a large-barrel curling iron for loose waves.",
+        "Apply a lightweight texturizing spray for added definition.",
+        "Tuck one side behind the ear for a modern, sleek touch."
+      ]
+    },
+
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "7. Braided Updos"
     },
     {
       "type": "paragraph",
-      "text": "Braided updos are making a strong comeback, offering a blend of elegance and practicality. From fishtail buns to intricate crown braids, these styles are ideal for weddings, parties, or even a stylish everyday look."
+      "text": "Braided updos are making a strong comeback, offering a blend of elegance and practicality. From intricate crown braids to fishtail buns, these styles are perfect for weddings, parties, and everyday chic looks."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Timeless and sophisticated",
+        "Adds an artistic touch to any outfit",
+        "Works well with both long and medium hair"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a styling mousse to enhance grip and hold.",
+        "Accessorize with pearls or pins for an elegant finish.",
+        "Secure with bobby pins and setting spray for all-day wear."
+      ]
+    },
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "8. Layered Shag Cut"
     },
     {
       "type": "paragraph",
-      "text": "The layered shag cut is all about edgy volume and texture. With its messy yet stylish appeal, this haircut works well for short to medium-length hair, providing movement and a rock-chic vibe that’s perfect for 2025."
+      "text": "The layered shag cut is all about edgy volume and texture. This retro-inspired haircut works well for short to medium-length hair, providing movement and a rock-chic vibe."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Adds dimension and texture",
+        "Suitable for wavy and curly hair types",
+        "Low-maintenance yet stylish"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a salt spray for a tousled effect.",
+        "Scrunch your hair while blow-drying for extra volume.",
+        "Pair with curtain bangs for a trendy, effortless look."
+      ]
+    },
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "9. Wispy Bangs with Shoulder-Length Hair"
     },
     {
       "type": "paragraph",
-      "text": "Wispy bangs add a soft, delicate touch to shoulder-length hair, making it a trending style this year. This look provides a youthful, fresh vibe while maintaining versatility, allowing you to style it straight or wavy."
+      "text": "Wispy bangs add a soft, delicate touch to shoulder-length hair, making it a trending style in 2025. This look provides a youthful, fresh vibe while remaining versatile for different styling options."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Adds softness to facial features",
+        "Easy to grow out and blend into layers",
+        "Can be styled straight or wavy"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Blow-dry bangs with a round brush for a natural look.",
+        "Lightly curl the ends for a relaxed appearance.",
+        "Use dry shampoo to maintain freshness between washes."
+      ]
+    },
+
+
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "10. Voluminous Curls"
     },
     {
       "type": "paragraph",
-      "text": "Big, bouncy curls are making a statement in 2025! Whether natural or styled, voluminous curls add drama and movement, making them perfect for those who want to embrace their natural texture while looking glamorous."
+      "text": "Big, bouncy curls are making a bold statement in 2025. Whether natural or styled, voluminous curls add drama and movement, perfect for those who want to embrace their natural texture while looking glamorous."
     },
     {
       "type": "heading",
-      "level": 4,
+      "level": 5,
+      "text": "Why It’s Trending:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Works for all hair types and lengths",
+        "Enhances natural curls with definition",
+        "Adds a touch of elegance and charm"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Styling Tips:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a diffuser attachment on your blow-dryer for natural curls.",
+        "Apply curl-enhancing cream for definition and hydration.",
+        "Finish with a light-hold hairspray for all-day volume."
+      ]
+    },
+
+    {
+      "type": "heading",
+      "level": 3,
       "text": "Conclusion"
     },
     {
       "type": "paragraph",
-      "text": "The hottest hair trends of 2025 focus on versatility, texture, and effortless beauty. Whether you prefer a bold pixie cut, flowing layers, or elegant updos, there’s a perfect style for every hair type and face shape. Experiment with these trendy hairstyles and refresh your look this year!"
+      "text": "The hottest hair trends 2025 focus on versatility, texture, and effortless beauty. Whether you prefer a bold pixie cut, flowing layers, or elegant updos, there's a perfect style for every hair type and face shape. By incorporating the right styling techniques and products, you can easily maintain these trendy looks. Experiment with these hairstyles and refresh your look with confidence this year!"
     }
       ],
       "extra_images": [
@@ -740,106 +1023,276 @@
       "title": "Effective Natural Remedies to Stop Hair Fall and Boost Hair Growth",
       "image": "./images/haircare-images/four/Effective-Natural-Remedies-to-Stop-Hair-Fall.webp",
       "publish_date": "January 2, 2025",
-      "description": "Struggling with hair fall? Discover the most effective natural remedies to strengthen hair roots, reduce hair thinning, and promote healthy hair growth with simple yet powerful home treatments.",
+      "description": "Hair fall is a widespread concern that impacts countless individuals across the globe. While it’s normal to lose some hair daily, excessive shedding can be concerning. Instead of relying on chemical-based treatments, natural remedies offer safe and effective solutions to strengthen hair roots, reduce thinning, and promote healthy hair growth. In this guide, we explore the most effective home treatments to combat hair fall and nourish your hair naturally.",
       "content": [
   {
     "type": "heading",
-    "level": 4,
+    "level": 3,
     "text": "1. Coconut Oil Massage for Stronger Hair"
   },
   {
     "type": "paragraph",
-    "text": "Coconut oil is a natural moisturizer rich in lauric acid and essential fatty acids that penetrate deep into the scalp. It nourishes hair roots, reduces protein loss, and prevents hair fall. Regular scalp massages with warm coconut oil can improve blood circulation and promote hair growth."
+    "text": "Coconut oil is a time-tested remedy known for its deep nourishing properties. It is packed with lauric acid and essential fatty acids that penetrate the hair shaft and prevent protein loss. Regularly massaging your scalp with warm coconut oil improves blood circulation and strengthens hair follicles, leading to reduced hair fall."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Warm 2–3 tablespoons of coconut oil and gently massage it into your scalp for 5–10 minutes.",
+      "Let it sit for at least an hour or overnight before rinsing it off with a gentle shampoo.",
+      "Repeat 2–3 times a week for best results."
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "2. Aloe Vera Gel for Scalp Hydration"
   },
   {
     "type": "paragraph",
-    "text": "Aloe vera contains proteolytic enzymes that repair dead skin cells on the scalp, reducing dandruff and itchiness. It also acts as a natural conditioner, leaving hair smooth and shiny while strengthening follicles to prevent hair fall."
+    "text": "Aloe vera is rich in proteolytic enzymes that repair dead skin cells on the scalp, reducing dandruff and dryness. Its natural moisturizing properties also help strengthen hair follicles, prevent breakage, and promote hair growth."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Scoop out fresh aloe vera gel from the leaf and gently massage it onto your scalp.",
+      "Let it sit for 30 to 45 minutes before washing it off with lukewarm water.",
+      "Use this remedy 2–3 times a week for optimal results."
+    ]
+  },
+
+
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "3. Onion Juice Treatment for Hair Regrowth"
   },
   {
     "type": "paragraph",
-    "text": "Onion juice is loaded with sulfur, which boosts collagen production, strengthens hair strands, and encourages regrowth. Applying fresh onion juice to the scalp twice a week can help reduce thinning and improve hair density."
+    "text": "Onions are rich in sulfur, which boosts collagen production, strengthens hair strands, and encourages regrowth. Regular application of onion juice can significantly reduce hair thinning and improve hair density."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Blend one onion and extract its juice.",
+      "Apply the juice directly to your scalp using a cotton pad or spray bottle.",
+      "Leave it on for 30–60 minutes and rinse with a mild shampoo.",
+      "Use twice a week for noticeable results."
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "4. Fenugreek (Methi) Seeds to Strengthen Hair"
   },
   {
     "type": "paragraph",
-    "text": "Fenugreek seeds are a powerhouse of protein and nicotinic acid, which strengthen hair follicles, prevent breakage, and reduce hair thinning. Soaking the seeds overnight and applying a fenugreek paste to the scalp enhances hair growth."
+    "text": "Fenugreek seeds are a powerhouse of protein and nicotinic acid, which strengthen hair follicles and prevent breakage. They are known for their ability to repair damaged hair and stimulate growth."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Soak 2 tablespoons of fenugreek seeds overnight in water.",
+      "Grind them into a paste and apply it to your scalp.",
+      "Leave it on for 30 minutes and rinse with water.",
+      "Use this mask once a week for stronger hair."
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "5. Green Tea Rinse for Hair Loss Prevention"
   },
   {
     "type": "paragraph",
-    "text": "Green tea is rich in antioxidants that help block DHT (a hormone linked to hair loss). A green tea rinse after shampooing can strengthen hair roots, stimulate hair growth, and add shine."
+    "text": "Green tea is rich in antioxidants and catechins that block DHT (a hormone linked to hair loss). A green tea rinse can strengthen roots, reduce shedding, and add shine."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Brew 2 green tea bags in a cup of hot water.",
+      "Allow it to cool, then use it as a final rinse after shampooing.",
+      "Repeat 2–3 times a week for the best results."
+      
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "6. Egg Hair Mask for Protein Boost"
   },
   {
     "type": "paragraph",
-    "text": "Eggs are packed with proteins, biotin, and vitamins that strengthen hair shafts, reduce breakage, and prevent hair thinning. Applying an egg mask once a week nourishes the scalp and improves hair texture."
+    "text": "Eggs are packed with proteins, biotin, and vitamins that strengthen hair shafts, reduce breakage, and prevent hair thinning. Applying an egg mask nourishes the scalp and improves hair texture."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Whisk an egg with a tablespoon of olive oil.",
+      "Apply the mixture to your hair and scalp",
+      "Leave it on for 30 minutes before washing with a mild shampoo.",  
+      "Use once a week for stronger and shinier hair."  
+    ]
+  },
+
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "7. Amla (Indian Gooseberry) for Hair Strength"
   },
   {
     "type": "paragraph",
-    "text": "Amla is a rich source of vitamin C and antioxidants that improve scalp health, strengthen hair roots, and promote faster hair growth. Consuming fresh amla or applying amla oil can prevent premature graying and hair fall."
+    "text": "Amla is a rich source of vitamin C and antioxidants that improve scalp health and strengthen hair roots. It also prevents premature graying and promotes faster hair growth."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Mix amla powder with coconut oil and massage it into your scalp.",
+      "Leave it overnight and wash with a mild shampoo in the morning.",
+      "Alternatively, drink fresh amla juice daily for internal nourishment."
+      
+    ]
+  },
+
+
+
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "8. Rice Water for Hair Thickening"
   },
   {
     "type": "paragraph",
-    "text": "Rice water contains amino acids, vitamins, and minerals that repair damaged hair, reduce hair loss, and add volume. Rinsing hair with fermented rice water once a week improves hair elasticity and shine."
+    "text": "Rice water contains amino acids, vitamins, and minerals that repair damaged hair, reduce hair loss, and add volume. Rinsing your hair with fermented rice water strengthens the strands and enhances elasticity."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Soak ½ cup of rice in 2 cups of water for 24 hours.",
+      "Strain the water and use it as a final rinse after shampooing.",
+      "Repeat once a week for thicker, shinier hair."
+      
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "9. Essential Oils for Hair Growth"
   },
   {
     "type": "paragraph",
-    "text": "Essential oils like rosemary, peppermint, and lavender have anti-inflammatory properties that stimulate hair follicles and promote growth. Mixing them with carrier oils like coconut or jojoba oil enhances their effectiveness."
+    "text": "Essential oils like rosemary, peppermint, and lavender have anti-inflammatory properties that stimulate hair follicles and promote growth. Mixing them with carrier oils enhances their effectiveness."
   },
   {
     "type": "heading",
-    "level": 4,
+    "level": 5,
+    "text": "How to Use:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "Add a few drops of rosemary or lavender oil to coconut or jojoba oil.",
+      "Massage the mixture into your scalp for 5–10 minutes.",
+      "Leave it overnight or wash after an hour.",
+      "Repeat twice a week for visible improvements."
+      
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
     "text": "10. Balanced Diet for Healthy Hair"
   },
   {
     "type": "paragraph",
-    "text": "A nutrient-rich diet plays a vital role in hair health. Include protein sources like eggs and lentils, iron-rich foods like spinach, and omega-3 fatty acids from walnuts to support hair growth and reduce shedding."
+    "text": "A nutrient-rich diet plays a vital role in maintaining hair health. A deficiency in essential vitamins and minerals can lead to excessive hair fall and weak hair."
   },
   {
     "type": "heading",
-    "level": 4,
-    "text": "Conclusion"
+    "level": 5,
+    "text": "Include the following in your diet:"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<span class='list-font'>Protein-rich foods: </span> Eggs, lentils, and dairy products.",
+      "<span class='list-font'>Iron-rich foods: </span>Spinach, beans, and red meat.",
+      "<span class='list-font'>Omega-3 fatty acids: </span> Walnuts, flaxseeds, and fish.",
+      "<span class='list-font'>Biotin sources: </span> Almonds, sweet potatoes, and bananas."
+      
+    ]
+  },
+
+
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Last Words"
   },
   {
     "type": "paragraph",
-    "text": "Preventing hair fall naturally requires a combination of proper scalp care, herbal treatments, and a healthy diet. Regular oil massages, nutrient-rich masks, and natural remedies will help strengthen your hair, reduce shedding, and promote long-lasting hair growth."
+    "text": "Preventing hair fall naturally requires a combination of proper scalp care, herbal treatments, and a healthy diet. Incorporating these natural remedies into your routine will help you achieve stronger, thicker, and healthier hair over time. Whether it’s massaging with essential oils, using nourishing masks, or maintaining a balanced diet, consistency is key to seeing long-term improvements."
+  },
+  {
+    "type": "paragraph",
+    "text": "By following these simple yet effective treatments, you can significantly reduce hair fall and promote lasting hair growth without relying on chemical products. Start implementing these natural remedies today and enjoy healthier, more beautiful hair!"
   }
           ],
 
@@ -863,6 +1316,8 @@
         }
       ]
     },
+
+    
 
     {
       "id":5,
