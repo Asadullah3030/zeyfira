@@ -263,21 +263,39 @@
       "./images/makeup-images/one/flawless-finish-foundation-lightweight.webp",
       "./images/makeup-images/one/natural-makeup-look-foundation.webp"
     ],
-
+                                      
    "products": [
       {
         "image": "https://m.media-amazon.com/images/I/31B37fmqI7L._SX300_SY300_QL70_FMwebp_.jpg",
         "title": "e.l.f. Flawless Finish Foundation – Lightweight, Hydrating & Semi-Matte for Even Skin Tone",
-        "description": "e.l.f. Flawless Finish Foundation is a lightweight liquid foundation that naturally blends into skin (and hydrates while you’re at it) to help improve uneven skin tone and texture. The shade Beige is light with cool pink undertones.",
+        "description": "Flawless Finish Foundation is a lightweight liquid foundation that naturally blends into skin (and hydrates while you’re at it) to help improve uneven skin tone and texture. ",
         "link": "https://amzn.to/42CWxP1"
       },
       {
         "image": "https://m.media-amazon.com/images/I/71C2dG+N4lL._SX679_.jpg",
         "title": "Neutrogena Healthy Lengths Mascara – Smudge-Free & Lash Strengthening with Vitamin E & Olive Oil",
-        "description": "Neutrogena Healthy Lengths Lash-Lengthening and Strengthening Mascara to help grow your lashes to their fullest potential ..Formulated with antioxidant vitamin E, rice protein, and olive oil, this mascara nourishes and strengthens for lashes that look up to 100% longer with a formula that won't clump, smudge, or flake",
+        "description": "Formulated with antioxidant vitamin E, rice protein, and olive oil, this mascara nourishes and strengthens for lashes that look up to 100% longer with a formula that won't clump, smudge, or flake",
         "link": "https://amzn.to/4hiLuPh"
       }
+     
+    ],
+
+    "products1": [
+      {
+        "image": "https://m.media-amazon.com/images/I/61vd7GLbjXL._SX425_.jpg",
+        "title": "Maybelline Instant Age Rewind Eraser Dark Circles Treatment Multi-Use Concealer",
+        "description": "Maybelline Instant Age Rewind Concealer: America's Number 1 Concealer; Erase the look of dark circles, correct the appearance of redness and brighten the look of dull skin. Can be used in multiple shades to contour and highlight.",
+        "link": "https://amzn.to/4bvqAdQ"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/31hf532TEHL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
+        "description": "Lengthening Mascara: This volumizing washable mascara formula is infused with bamboo extract and fibers for long, full and lightweight lashes that don't flake or smudge",
+        "link": "https://amzn.to/3XUTHS5"
+      }
+     
     ]
+    
   },
 
   {
@@ -522,6 +540,21 @@
         "description": "Long-lasting, full-coverage concealer that hides imperfections and brightens skin for a flawless look. Perfect for all skin types.",
         "link": "https://amzn.to/4hFmscO"
       }
+    ],
+    "products1": [
+      {
+        "image": "https://m.media-amazon.com/images/I/31RxJb3CmRL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated",
+        "description": "We've never quite understood why others make you spend over 20X as much on something that we give you for next to nothing",
+        "link": "https://amzn.to/3XTCBUy"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/711BkLez67L._SX425_.jpg",
+        "title": "L'Oreal Paris Makeup True Match Lumi Glotion, Natural Glow Enhancer",
+        "description": "Glow Enhancing Make Up: Instantly hydrate and luminize your skin for an all over, natural glow with Lumi Glotion; This liquid face and body highlighter delivers an illuminating color tint to enhance your skin’s natural glow",
+        "link": "https://amzn.to/4kt8ld4"
+      }
+     
     ]
   },
 
@@ -771,8 +804,25 @@
         "description": "Experience **flawless, shine-free coverage** with the **Maybelline Fit Me Foundation Stick**. This **multi-use formula** doubles as a **foundation & contour stick**, offering a **natural matte finish** while **absorbing excess oil** for a smooth, balanced complexion. **Perfect for oily & combination skin types!",
         "link": "https://amzn.to/4hiXWPa"
       }
+    ],
+    "products1": [
+      {
+        "image": "https://m.media-amazon.com/images/I/41D9ZHQRaSL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Physicians Formula Murumuru Butter Bronzer, Moisturizing, Nourishing Murumuru Butter Blend",
+        "description": "WARM ISLAND GLOW - Give your face the radiant goddess glow of the tropics Pick your color and watch your look gently transform as the refined pearls and soft-focus pigments smooth and brighten your skin tone with a subtle shimmer finish",
+        "link": "https://amzn.to/4kz9QGL"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61NvTGruLoL._SX679_.jpg",
+        "title": "Studio Collection makeup Sponge Set Latex Free and High-definition Set of 6 makeup Wonder blender",
+        "description": "Made from Latex free makeup blender sponge.Makeup sponges for BB cream, cosmetic foundation, concealer, powder,liquid,and etc.Super Soft feeling wonder blender.",
+        "link": "https://amzn.to/4iP6SvP"
+      }
+     
     ]
   },
+
+  
 
   {
     "id": 4,

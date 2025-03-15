@@ -129,21 +129,73 @@ fetch('makeup-blogs.json')
     });
 
     const extraImagesHtml = blog.extra_images ? blog.extra_images.map(image => `
-      <div class="col-6 extra-image">
-        <img src="${image}" alt="Additional Image" class="extra-image-img" />
-      </div>
-    `).join('') : '';
+  <div class="col-6 extra-image">
+    <img src="${image}" alt="Additional Image" class="extra-image-img" />
+  </div>
+`).join('') : '';
 
-    const productsHtml = blog.products ? blog.products.map(product => `
-      <div class="product">
-        <a href="${product.link}" target="_blank">
-          <img src="${product.image}" alt="${product.title}">
-        </a>
-        <h3>${product.title}</h3>
-        <p class='py-3'>${product.description}</p>
-        <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
+const productsHtml = blog.products && blog.products.length > 0 ? blog.products.map(product => `
+  <div class="col-lg-4 col-md-6 col-sm-12 product">
+    <a href="${product.link}" target="_blank">
+      <img src="${product.image}" alt="${product.title}" class="img-fluid">
+    </a>
+    <h3>${product.title}</h3>
+    <p class='py-3'>${product.description}</p>
+    <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
+  </div>
+`).join('') : '<p>No products available.</p>';  
+
+const products1Html = blog.products1 && blog.products1.length > 0 ? blog.products1.map(product => `
+  <div class="col-lg-4 col-md-6 col-sm-12 product1">
+    <a href="${product.link}" target="_blank">
+      <img src="${product.image}" alt="${product.title}" class="img-fluid">
+    </a>
+    <h3>${product.title}</h3>
+    <p class='py-3'>${product.description}</p>
+    <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
+  </div>
+`).join('') : '<p>No additional products available.</p>';  
+
+container.innerHTML = `
+  <div class="main-details">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-9 detail-color">
+          <div class="detail-img">
+            <img src="${blog.image}" alt="${blog.title}" class="img-fluid"/>
+          </div>
+          <div class="main-details-blogs px-lg-4 px-md-4 px-0">
+            <div class="blog-styles-part-one px-3">
+              <h2 class='mb-3'>${blog.title}</h2>
+              <p>Published on: ${blog.publish_date}</p>
+              <p class="mt-2">${blog.description}</p>
+            </div>
+            <div class='content-blogs py-lg-3 py-md-3 py-2'>
+              ${contentHtml} 
+            </div>
+            <div class="row content-images">
+              ${extraImagesHtml}
+            </div>
+            <div class="product-section">
+              <h2 class='py-3'>Recommended Products</h2>
+              <div class='final-products'>
+                <div class='container p-0'>
+                  <div class='row justify-content-center gap-3'>
+                    ${productsHtml}
+                    ${products1Html}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-    `).join('') : '<p>No products available.</p>';
+    </div>
+  </div>
+`;
+
+loadComments(blogId);
+
 
     container.innerHTML = `
       <div class="main-details">
@@ -168,10 +220,15 @@ fetch('makeup-blogs.json')
                 <div class="product-section">
                   <h2 class='py-3'>Recommended Products</h2>
                   <div class='final-products'>
-                    <div class='container'>
+                    <div class='container p-0'>
                       <div class='row'>
                         <div class='col-xl-12 gap-3 two-products'>
                           ${productsHtml}
+                        </div>
+
+                        <div class='row'>
+                        <div class='col-xl-12 gap-3 two-products'>
+                          ${productsHtml1}
                         </div>
                       </div>
                     </div>
