@@ -126,23 +126,34 @@ fetch('skincare-blogs.json')
         contentHtml += "</ul>";
       }
     });
-
     const extraImagesHtml = blog.extra_images ? blog.extra_images.map(image => `
-      <div class="col-6 extra-image">
-        <img src="${image}" alt="Additional Image" class="extra-image-img" />
-      </div>
-    `).join('') : '';
+  <div class="col-6 extra-image">
+    <img src="${image}" alt="Additional Image" class="extra-image-img" />
+  </div>
+`).join('') : '';
 
-    const productsHtml = blog.products ? blog.products.map(product => `
-      <div class="product">
-        <a href="${product.link}" target="_blank">
-          <img src="${product.image}" alt="${product.title}">
-        </a>
-        <h3>${product.title}</h3>
-        <p class='py-3'>${product.description}</p>
-        <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
-      </div>
-    `).join('') : '<p>No products available.</p>';
+const productsHtml = blog.products && blog.products.length > 0 ? blog.products.map(product => `
+  <div class="col-lg-4 col-md-6 col-sm-12 product">
+    <a href="${product.link}" target="_blank">
+      <img src="${product.image}" alt="${product.title}" class="img-fluid">
+    </a>
+    <h3>${product.title}</h3>
+    <p class='py-3'>${product.description}</p>
+    <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
+  </div>
+`).join('') : '<p>No products available.</p>';  
+
+const products1Html = blog.products1 && blog.products1.length > 0 ? blog.products1.map(product => `
+  <div class="col-lg-4 col-md-6 col-sm-12 product1">
+    <a href="${product.link}" target="_blank">
+      <img src="${product.image}" alt="${product.title}" class="img-fluid">
+    </a>
+    <h3>${product.title}</h3>
+    <p class='py-3'>${product.description}</p>
+    <a href="${product.link}" class="blog-main-button" target="_blank">Buy Now</a>
+  </div>
+`).join('') : '<p>No additional products available.</p>';  
+
 
     container.innerHTML = `
       <div class="main-details">
@@ -169,9 +180,11 @@ fetch('skincare-blogs.json')
                   <div class='final-products'>
                     <div class='container'>
                       <div class='row justify-content-center'>
-                        <div class='col-xl-12 gap-3 two-products'>
-                          ${productsHtml}
-                        </div>
+                       <div class='row justify-content-center gap-3'>
+                                            ${productsHtml}
+                                            ${products1Html}
+                                          </div>
+                                  </div>
                       </div>
                     </div>
                   </div>

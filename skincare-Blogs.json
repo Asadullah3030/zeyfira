@@ -291,7 +291,23 @@
         "description": "Face cream moisturizer starter kit including refillable glass jar, plus one, 1.7-ounce pod of Neutrogena Hydro Boost Water Gel Face Moisturizer for dewy skin. The refill pods are made with 89% less plastic than our refillable jars",
         "link": "https://amzn.to/4hkDn4N"
       }
+    ],
+
+    "products1": [
+      {
+        "image": "https://m.media-amazon.com/images/I/61YxQHrEIcL._SX679_.jpg",
+        "title": "COSRX Niacinamide 2% + BHA 4% Blackhead Exfoliant Toner 3.38 fl.oz / 100ml, Korean Toner, Blackhead Remover, Pore",
+        "description": "Formulated with 4% BHA (Betaine Salicylate), this product visibily diminishes enlarged pores and dead skin cells, replacing it with natural radiance while evening out your skin tone.",
+        "link": "https://amzn.to/426O99A"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/71LL0S+HVsL._SX679_.jpg",
+        "title": "Good Molecules Discoloration Correcting Serum - Tranexamic Acid and Niacinamide for Dark Spots, Sun Damage",
+        "description": "Refine tone and improve texture while nourishing your skin! Embrace newfound confidence with the Good Molecules Discoloration Correcting Serum made with powerful ingredients to help your skin repair and replenish!",
+        "link": "https://amzn.to/3FIOKW9"
+      }
     ]
+    
   },
 
   {
@@ -580,6 +596,20 @@
         "title": "CeraVe Skin Renewing Night Cream – Hydration & Repair for Night Skincare",
         "description": "CeraVe Skin Renewing Night Cream is a must-have for your nighttime skincare routine. Enriched with **niacinamide, peptides, and hyaluronic acid**, this deeply hydrating moisturizer helps restore the skin barrier, reduce fine lines, and improve elasticity while you sleep. The peptide complex supports collagen production, making your skin appear plumper and refreshed in the morning. Apply this cream as the last step in your night routine for optimal hydration and skin repair.",
         "link": "https://amzn.to/3PZfgN3"
+      }
+    ],
+    "products1": [
+      {
+        "image": "https://m.media-amazon.com/images/I/41JijCDI79L._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "TruSkin Vitamin C Serum For Face – Anti Aging Formula with Vitamin C, Hyaluronic Acid,",
+        "description": "Vitamin C helps to fight against the effects of free radical damage, support skin's natural collagen, and improve the look of skin tone, dark spots, dark circles, and fine lines & wrinkles for a glowing, brighter-looking complexion",
+        "link": "https://amzn.to/4iy0tWd"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/51qZSwIza0L._SX679_.jpg",
+        "title": "Olay Regenerist Retinol 24 Night Facial Serum, ",
+        "description": "This serum quickly absorbs for supercharged, long-lasting hydration and dewy, glowing skin",
+        "link": "https://amzn.to/4hhfmee"
       }
     ]
   },
@@ -904,16 +934,30 @@
 
     "products": [
       {
-        "image": "https://m.media-amazon.com/images/I/81igfHZd8ZL._SY879_.jpg",
+        "image": "https://m.media-amazon.com/images/I/81ifOGfF7IL._SX679_.jpg",
         "title": "Seven Minerals Organic Aloe Vera Gel – 100% Pure & Freshly Cut for Skin, Hair & Sunburn Relief (12oz)",
         "description": "Experience deep hydration and soothing relief with this 100% pure organic Aloe Vera Gel. Made from freshly cut aloe leaves, it nourishes skin, reduces inflammation, and provides natural sunburn relief. Ideal for face, body, and hair care.",
         "link": "https://amzn.to/3WIXfGJ"
       },
       {
-        "image": "https://m.media-amazon.com/images/I/61eXQt9+L0L._AC_SX679_.jpg",
+        "image": "https://m.media-amazon.com/images/I/61jn6a03EHL._AC_SX679_.jpg",
         "title": "HERITAGE STORE Rosewater Facial Toner – Hydrating & Pore-Refining Toner with Hyaluronic Acid (8oz)",
         "description": "Hydrate and refresh your skin with this rosewater toner infused with Hyaluronic Acid. It helps refine pores, minimize fine lines, and provide deep moisture for a radiant, youthful glow. Perfect for dry to combination skin.",
         "link": "https://amzn.to/4aOAg2M"
+      }
+    ],
+    "products1": [
+      {
+        "image": "https://m.media-amazon.com/images/I/71lzShD1hgL._AC_SX569_.jpg",
+        "title": "Absorbine Silver Honey Rapid Wound Repair Ointment 2oz Tube, Medical Grade Manuka Honey & MicroSilver BG",
+        "description": "Wounds, rashes, cuts, scratches, surgical sites, burns, sweet itch, rain rot, bug bites, abrasions, sores, and other skin conditions and irritations",
+        "link": "https://amzn.to/4iSjF0z"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/611Va5gGboL._SX679_.jpg",
+        "title": "Jergens Sandalwood Body Butter Lotion, Moisturizer Infused with Sandalwood Essential Oil, For All Skin Types, 7 Oz ",
+        "description": "Take some time to de-stress with the soothing scents of sandalwood oil and vanilla. These natural scents are therapeutic to help you re-center when you need it",
+        "link": "https://amzn.to/4itnidi"
       }
     ]
   },
