@@ -285,52 +285,36 @@ h1,h2,h3,p,span{
     position: relative;
     margin-top: 5rem;
     width: 100%;
-    height: 100vh;
-    background-image: url(../images/banner.webp);
-    background-repeat: no-repeat; 
-    background-position: center; 
+    height: 80vh;
+    background-size: cover;
+    background-image: url(../images/little-contact.webp);
     background-attachment: fixed;
+    z-index: 1;
 }
-.contact-overlay {
-   
-    text-align: center; 
-    position: absolute; 
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); 
-}
-
-.contact-overlay span,
-.contact-overlay h1,
-.contact-overlay p {
-    background-color: rgba(0, 0, 0, 0.637);
-    color: white; 
-    padding: 10px; 
-    display: inline-block; 
-    margin: 5px 0;
-}
-
-.contact-overlay span,
-.contact-overlay h1,
-.contact-overlay p {
-    border-radius: 5px;
+.contact-image::before{
+    content:  ' ';
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.705);
+    width: 100%;
+    height: 100%;
+    z-index: -1;
 }
 .contact-overlay{
-    align-items: center;
-    display: flex;
-    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    left: 50%;
+    color: white;
+    transform: translate(-50%,-50%);
 }
-.contact-me{
-    font-size: 0.9rem;
-}
+
 .contact-title{
     font-family: "Emilys Candy", serif;
 }
 .contact-button{
     display: inline-block;
-    margin-top: 2rem;
     padding: 10px 34px;
-    background-color: rgba(0, 0, 0, 0.685);
     border: 2px solid rgb(255, 255, 255);
     color: #ffffff;
     font-size: 0.9rem;
@@ -339,16 +323,35 @@ h1,h2,h3,p,span{
 .contact-button:hover{
     font-size: 0.9rem;
     transform: scale(1.09);
-    background-color: transparent;
-    color: rgb(255, 255, 255);
+    background-color: white;
+    color: black;
     border: 2px solid rgb(255, 255, 255);
 }
 
  /* contact here is End in zayfira  */
 
+ .blog-card-btn{
+    margin-top: 0.2rem;
+    display: inline-block;
+    padding: 8px 26px;
+    border: 2px solid #739B89;
+    color: #000000;
+    font-size: 0.9rem;
+    transition: all 0.3s ease-in-out;
+ }
+ .blog-card-btn:hover{
+    font-size: 0.9rem;
+    transform: scale(1.09);
+    background-color:#739B89;
+    color: white;
+    border: 2px solid #739B89;
+}
+.blog-heading h6{
+    font-family: "Emilys Candy", serif;
+}
+
  /* footer here is start in zayfira  */
  .footer{
-    margin-top: 3rem;
     color: #ffffff;
     background-color: black;
  }
@@ -764,8 +767,6 @@ h1,h2,h3,p,span{
     height: auto;
     border-radius: 10px;
   }
-  
-  
   
   /* Responsive Fix */
   @media (max-width: 768px) {
