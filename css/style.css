@@ -327,6 +327,11 @@ h1,h2,h3,p,span{
     color: black;
     border: 2px solid rgb(255, 255, 255);
 }
+.contact-me{
+    border-bottom: 2px solid rgb(255 255 255);
+    padding-bottom: 0.5rem;
+    border-radius: 2px 2px 2px 2px;
+}
 
  /* contact here is End in zayfira  */
 

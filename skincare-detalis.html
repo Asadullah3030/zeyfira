@@ -203,63 +203,65 @@ const products1Html = blog.products1 && blog.products1.length > 0 ? blog.product
 
   // --------------------------------------- comment session is start in here ------------------------
   document.addEventListener("DOMContentLoaded", function () {
-        const pageType = window.location.pathname.includes("skincare") ? "skincare" : "makeup";
-        const blogId = "blog-1"; // Change as needed for different blogs
-        const uniqueBlogId = `${pageType}-${blogId}`;
+    const pageType = window.location.pathname.includes("skincare") ? "skincare" : "makeup";
+    
+    // URL se blogId le raha hai
+    const urlParams = new URLSearchParams(window.location.search);
+    const blogId = urlParams.get("id") || "default"; // Agar `id` nahi mili to default
 
-        function loadComments() {
-            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
-            comments.forEach((commentData, index) => addCommentToUI(commentData, index));
+    const uniqueBlogId = `${pageType}-${blogId}`;
+
+    function loadComments() {
+        let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+        document.getElementById("commentSection").innerHTML = ""; // Pehle wale comments remove karega
+        comments.forEach((commentData, index) => addCommentToUI(commentData, index));
+    }
+
+    function addCommentToUI(commentData, index) {
+        let commentSection = document.getElementById("commentSection");
+        let commentDiv = document.createElement("div");
+        commentDiv.classList.add("comment");
+        commentDiv.innerHTML = `
+            <strong>${commentData.name}</strong> (${commentData.email})
+            <br><small><i>${commentData.timestamp}</i></small>
+            <br>${commentData.comment}
+            <button class="delete-btn" onclick="deleteComment(${index})">Remove</button>
+        `;
+        commentSection.appendChild(commentDiv);
+    }
+
+    document.getElementById("commentForm").addEventListener("submit", function (event) {
+        event.preventDefault();
+        let name = document.getElementById("name").value.trim();
+        let email = document.getElementById("email").value.trim();
+        let comment = document.getElementById("comment").value.trim();
+        let timestamp = new Date().toLocaleString();
+
+        if (!name || !email || !comment) {
+            alert("Please fill in all fields!");
+            return;
         }
 
-        function addCommentToUI(commentData, index) {
-            let commentSection = document.getElementById("commentSection");
-            let commentDiv = document.createElement("div");
-            commentDiv.classList.add("comment");
-            commentDiv.innerHTML = `
-                <strong>${commentData.name}</strong> (${commentData.email})
-                <br><small><i>${commentData.timestamp}</i></small>
-                <br>${commentData.comment}
-                <button class="delete-btn" onclick="deleteComment(${index})">Remove</button>
-            `;
-            commentSection.appendChild(commentDiv);
-        }
+        let newComment = { name, email, comment, timestamp };
+        let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+        comments.push(newComment);
+        localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
 
-        document.getElementById("commentForm").addEventListener("submit", function (event) {
-            event.preventDefault();
-            let name = document.getElementById("name").value;
-            let email = document.getElementById("email").value;
-            let comment = document.getElementById("comment").value;
-            let timestamp = new Date().toLocaleString();
+        addCommentToUI(newComment, comments.length - 1);
 
-            if (!name || !email || !comment) {
-                alert("Please fill in all fields!");
-                return;
-            }
-
-            let newComment = { name, email, comment, timestamp };
-            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
-            comments.push(newComment);
-            localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
-
-            addCommentToUI(newComment, comments.length - 1);
-
-            document.getElementById("name").value = "";
-            document.getElementById("email").value = "";
-            document.getElementById("comment").value = "";
-        });
-
-        window.deleteComment = function (index) {
-            let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
-            comments.splice(index, 1);
-            localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
-            document.getElementById("commentSection").innerHTML = "";
-            loadComments();
-        };
-
-        loadComments();
+        document.getElementById("commentForm").reset();
     });
-  
+
+    window.deleteComment = function (index) {
+        let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+        comments.splice(index, 1);
+        localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
+        loadComments();
+    };
+
+    loadComments();
+});
+
   </script>
   
   <div class="main-details">
@@ -291,7 +293,7 @@ const products1Html = blog.products1 && blog.products1.length > 0 ? blog.product
 
   
   
-        <div class="footer py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">
+        <div class="footer mt-5 py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">
           <div class="container-fluid">
                 <div class="row">
                   <div class="col-lg-3 col-md-12 col-sm-12 col-12">

@@ -206,12 +206,17 @@ const products1Html = blog.products1 && blog.products1.length > 0 ? blog.product
 
   // --------------------------------------- comment session is start in here ------------------------
   document.addEventListener("DOMContentLoaded", function () {
-    const pageType = window.location.pathname.split("/").pop();  // Get the current page file name (e.g., "haircare.html" or "makeup.html")
-    const blogId = "blog-1"; // Change as needed for different blogs
-    const uniqueBlogId = `${pageType}-${blogId}`;  // Now the uniqueBlogId will be based on the full page name (e.g., "haircare.html-blog-1")
+    const pageType = window.location.pathname.split("/").pop();  // Current page name (e.g., "haircare.html")
+    
+    // URL se blogId le raha hai (example: haircare.html?id=blog-2)
+    const urlParams = new URLSearchParams(window.location.search);
+    const blogId = urlParams.get("id") || "default"; // Agar `id` nahi mili to default
+
+    const uniqueBlogId = `${pageType}-${blogId}`;  // Unique blog key
 
     function loadComments() {
         let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
+        document.getElementById("commentSection").innerHTML = ""; // Pehle wale comments remove karega
         comments.forEach((commentData, index) => addCommentToUI(commentData, index));
     }
 
@@ -230,9 +235,9 @@ const products1Html = blog.products1 && blog.products1.length > 0 ? blog.product
 
     document.getElementById("commentForm").addEventListener("submit", function (event) {
         event.preventDefault();
-        let name = document.getElementById("name").value;
-        let email = document.getElementById("email").value;
-        let comment = document.getElementById("comment").value;
+        let name = document.getElementById("name").value.trim();
+        let email = document.getElementById("email").value.trim();
+        let comment = document.getElementById("comment").value.trim();
         let timestamp = new Date().toLocaleString();
 
         if (!name || !email || !comment) {
@@ -247,16 +252,13 @@ const products1Html = blog.products1 && blog.products1.length > 0 ? blog.product
 
         addCommentToUI(newComment, comments.length - 1);
 
-        document.getElementById("name").value = "";
-        document.getElementById("email").value = "";
-        document.getElementById("comment").value = "";
+        document.getElementById("commentForm").reset();
     });
 
     window.deleteComment = function (index) {
         let comments = JSON.parse(localStorage.getItem(uniqueBlogId)) || [];
         comments.splice(index, 1);
         localStorage.setItem(uniqueBlogId, JSON.stringify(comments));
-        document.getElementById("commentSection").innerHTML = "";
         loadComments();
     };
 
@@ -301,7 +303,7 @@ const products1Html = blog.products1 && blog.products1.length > 0 ? blog.product
       </div> -->
   
 
-      <div class="footer py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">
+      <div class="footer mt-5 py-lg-5 py-md-3 py-sm-4 px-lg-5 px-md-4 px-sm-2 py-lg-5 py-md-5 py-sm-2 py-4 text-center text-lg-start">
         <div class="container-fluid">
               <div class="row">
                 <div class="col-lg-3 col-md-12 col-sm-12 col-12">
