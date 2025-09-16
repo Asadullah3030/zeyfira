@@ -783,7 +783,7 @@ h1,h2,h3,p,span{
 
   .product-section {
     margin-top: 30px;
-    text-align: center;
+    /* text-align: center; */
   }
   
   .product, .product1 {
@@ -813,4 +813,7 @@ h1,h2,h3,p,span{
       flex-basis: 90%;
     }
   }
-  
+  .Experience{
+    display: flex;
+    justify-content: center;
+  }
